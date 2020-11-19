@@ -1,0 +1,32 @@
+Safe patient transport for COVID-19
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7079436/
+
+SHA: 3ec1eb120d6bcca31ddc69832be05988c0952e60
+
+Authors: Liew, Mei Fong; Siow, Wen Ting; Yau, Ying Wei; See, Kay Choong
+Date: 2020-03-18
+DOI: 10.1186/s13054-020-2828-4
+License: cc-by
+
+Abstract: nan
+
+Text: Mei Fong Liew 1,2* , Wen Ting Siow 1,2 , Ying Wei Yau 3 and Kay Choong See 1
+
+Dear Editor, Although COVID-19 has not been officially labelled as a pandemic yet, the global burden of disease is significant and continues to rise. The virus has a high humanto-human transmissibility via airborne, droplet and contact routes [1] . Patient numbers can surge, and hospitals should be ready not just with the infrastructure, but also staff to be familiar with workflows. Kain and Fowler [2] have eloquently detailed influenza pandemic preparations for hospitals and intensive care units, and we feel the principles described in the article are relevant to COVID-19. Staff must consider patient transfers in between wards, as COVID-19 patients are admitted in isolation facilities to contain infected cases and to avoid nosocomial spread [1] .
+
+Infectious cases may be intentionally brought out of isolation rooms for various reasons. Intra-hospital transfer may be required from emergency departments to the wards, from the general floor to the intensive care unit and from the wards to radiology suites. Inter-hospital transfer may be required for extracorporeal membrane oxygenation (ECMO) if patients with COVID-19 develop severe acute respiratory distress syndrome within hospitals with only basic ventilation facilities. During episodes of patient transport outside of isolation, potential breaches of infection control can occur. At the same time, when COVID-19 patients turn ill during transport, their management is exceptionally challenging as accompanying staff would be wearing cumbersome personal protective equipment (PPE) [3] .
+
+Mitigating the spread of COVID-19 is a national priority in Singapore [4] , and part of this effort involves planning and conducting safe patient transport for suspected or confirmed cases. HCWs who handle the transport of COVID-19 patients must consider the following principles (see Table 1 ): firstly, early recognition of the deteriorating patient; secondly, HCW safety; thirdly, bystander safety; fourthly, contingency plans for medical emergencies during transport; fifthly, post-transport decontamination. Specific action steps require designated zones for transport [5] , sufficient supplies of PPE, staff training and support personnel like security officers and cleaning crews. Powered air-purifying respirators add a layer of safety on top of N95 respirators [3] and should be used if possible for high-risk cases, such as those requiring ambulance transport to ECMO centres.
+
+Given the continued global spread of COVID-19, we expect that more hospitals will need to deal with this disease. Haphazard transport of infected cases leading to nosocomial spread can stymie efforts to break the chains of transmission. We hope that our suggestions can aid others in ensuring safe patient transport for COVID-19 and reduce nosocomial spread. 
+
+Not applicable.
+
+Availability of data and materials Not applicable.
+
+Ethics approval and consent to participate Not applicable.
+
+Not applicable.
+
+The authors declare that they have no competing interests. prior to embarking on the same ambulance • Staff to doff PPE in the nearest clinical area, for example ambulance bay, upon arrival • Terminal cleaning of ambulance upon arrival when back at primary hospital BVM bag-valve-mask, CO2 carbon dioxide, ECMO extracorporeal membrane oxygenation, EMD emergency, GW general ward, HEPA high-efficiency particulate air, ICU intensive care unit, PAPR powered air-purifying respirator, PPE personal protective equipment

@@ -1,0 +1,1579 @@
+## intent:qa
+- What resources does CDC have available to share with staff, students, and parents?
+- what is the test of coronavirus
+- What is the risk of COVID-19 infection from food products imported from affected areas?
+- What is COVID 19
+- what is coronavirus in dogs
+- what is coronavirus 19
+- What is the coronavirus
+- what is covid 19
+- What is corona
+- What is this disease
+- What is corona virus?
+- What is a coronavirus
+- What is COVID 1
+- what is coronavirus name
+- what is a corona viruses
+- what is covid-19?
+- what is corona
+- What is covid
+- What is COVID 19?
+- coronavirus covid-19
+- Covid
+- what is coronavirus virus
+- What is covid-19
+- what is coronavirus and what are the symptoms
+- what type of virus is corona virus
+- What is the meaning of COVID-19?
+- what is the corona virus covid 19
+- what is coronavirus and covid 19
+- What does Corona and Covid mean
+- what is corona virus and its effects
+- What's the difference between COVID-19 and CoronaVirus?
+- What is the difference between covid 19 and coronavirus
+- what is coronavirus for kids
+- what is coronavirus in human body
+- what is covid 19 what is covid 19
+- what is coronavirus challenge
+- what is coronavirus covid 19
+- what is the corona virus and how was it made
+- what is coronavirus in humans
+- what is covid-19?what is covid-19?
+- does coronavirus affect kids
+- does coronavirus affect children
+- can coronavirus affect children
+- is coronavirus from animals
+- where did it start
+- how corona virus come from
+- what us coronavirus from
+- coronavirus originated from
+- how corona virus came from
+- How did it started
+- whats the coronavirus from
+- how coronavirus come from
+- is coronavirus from a lab
+- is coronavirus from snakes
+- is coronavirus from bats
+- Where did COVID 19 started
+- what's the coronavirus from
+- how did the corona coronavirus occur
+- where did the coronavirus originally come from
+- what animal did this coronavirus come from
+- where the corona virus originated from
+- where was the corona virus originated
+- where is the coronavirus coming from
+- where corona virus is originated
+- where did the coronavirus come from 2020
+- coronavirus originated from snakes
+- what is corona virus made from
+- where did the coronavirus originated
+- how did coronavirus came to existence
+- where did the coronavirus first start
+- how did coronavirus came into being
+- where do coronaviruses come from
+- how did the corona virus started
+- where the corona virus originated
+- coronavirus originated from us
+- what is coronavirus cause from
+- where did the new coronavirus come from
+- where is corona virus originate from
+- where did the coronavirus virus come from
+- where did the coronavirus originate bats
+- what is the coronavirus come from
+- what is the animal the corona virus came from
+- where and how the corona virus started
+- is coronavirus from eating bats
+- where did the coronavirus derive from
+- coronavirus originated from usa
+- where did the coronavirus start 2019
+- did coronavirus start in a lab
+- how the corona virus come from
+- where did the coronavirus outbreak start
+- how did coronaviruses come to kerala
+- coronavirus originated where
+- does coronavirus originate from
+- where did coronavirus originate from bats
+- coronavirus originated from bats
+- where is the corona virus originated from
+- where did the coronavirus come from what animal
+- what is the corona virus made from
+- where is the corona virus originate
+- coronavirus originated from which country
+- from what started corona virus
+- where the corona virus started from
+- what does the coronavirus come from
+- where was the coronavirus found
+- where did the corona virus started
+- what is the corona virus come from
+- did coronavirus originated in chinese government
+- coronavirus originated from bats soup
+- what is corona virus came from
+- where does the corona virus from
+- coronavirus originated from where
+- how did coronavirus come to usa
+- what is the corona virus started from
+- how did the coronavirus from
+- where did coronavirus originate city
+- where did coronavirus originated from bats
+- how did coronavirus happened
+- where did the corona virus break out
+- coronavirus can survive in the air
+- is coronavirus in the air we breathe
+- how long does coronavirus stay in the air
+- How long goes the virus stay in the air after someone coughs
+- Can the virus travel through air or does there need to be physical contact
+- can coronavirus stay in the air
+- how long does coronavirus last in air
+- Is covid 19 air born Can I get it from the air
+- how coronavirus is contracted
+- does coronavirus hang in the air
+- coronavirus thailand travel
+- coronavirus japan travel
+- Can I Travel? 
+- I am regularly traveling by bus
+- What is the current advice if I am planning to travel?
+- coronavirus thailand travel advice
+- coronavirus thailand travel advisory
+- will coronavirus affect travel
+- quarantine coronavirus usa
+- What is the difference between isolation and quarantine?
+- quarantine coronavirus quotes
+- Where can I get tested?
+- What if I recently traveled and get sick?
+- how long does coronavirus stay on surfaces
+- how long does the coronavirus stay on cardboard
+- how long does coronavirus stay on plastic bags
+- how long does coronavirus stay on wood
+- how long does coronavirus live in surfaces
+- how much does corona virus stay on each kind of surfaces?
+- how long can the coronavirus live on different surfaces
+- how long does the coronavirus last on an object
+- how long will coronavirus live on surfaces
+- how long does coronavirus live on wood
+- how long can the coronavirus live
+- how long does the coronavirus last on a surface
+- how long does the coronavirus stay alive on surfaces
+- For how long COVID19 can stay alive on different surfaces
+- can coronavirus live on paper bags
+- how long does the coronavirus stay on different surfaces
+- how long does the coronavirus live
+- how long can the coronavirus last on surfaces
+- how long does coronavirus live on glass
+- how long can the coronavirus live on wood
+- can corona live on cardboard
+- how long does coronavirus stay on plastic
+- can coronavirus survive on surfaces
+- how long does the coronavirus stay on clothes
+- how long does coronavirus last on vegetables
+- How long does the virus stay on surfaces?
+- Do we need to prevent touching packing of food does corona virus lie on packing And on clothes
+- how long does coronavirus stay on mail
+- How long does the sras-cov2 live on surface?
+- how long does coronavirus survive in surfaces
+- how long does coronavirus last on surfaces
+- can the coronavirus travel on packages
+- How long can the coronavirus live in fabrics?
+- does coronavirus survive on surfaces
+- how long does coronavirus last on surfaces nhs
+- coronavirus how long does it live on surfaces
+- how long does coronavirus stay on glass
+- how long does coronavirus live on surfaces chart
+- How long can covid19 live in surfaces
+- how long does the coronavirus last on objects
+- how long does coronavirus survive on surfaces
+- how long will coronavirus last on cardboard
+- How long does the virus stay on surfaces
+- how long can the coronavirus live on surfaces
+- can coronavirus live in packages
+- coronavirus live on inanimate objects
+- How long does the virus live on clothes?
+- how long can the coronavirus survive on surfaces cdc
+- can coronavirus live on surfaces
+- how much does corona virus stay on each kind of surfaces
+- how long does coronavirus last in surfaces
+- How long could the virus stay alive on doorknobs
+- How many cases in India
+- most country have patient
+- how many death in italy?
+- How many are affected
+- How many cases in Montreal 
+- coronavirus effects country
+- how many people died?
+- How many death in Quebec?
+- How many cases of coronavirus in Madagascar
+- How many people are infected in Lithuania
+- How many person are infected in the world
+- What is the situation now in my country?
+- How many cases are in spain ?
+- How many covid cases are in Quebec?
+- show me the cumulative cases chart for Canada
+- coronavirus infection country map
+- What should be done if a coronavirus infection is suspected? What are the symptoms?
+- Should I wear a face mask?
+- Do I need to wear mask
+- Do we need to wear a mask?
+- Do I have to wear a mask all the time if I am not infected
+- Should I wear a mask
+- If I contract the virus does wearing a mask prevent others getting infected
+- should I wear a mask
+- Do I need to wear a mask? I heard it's worse if you touch your face
+- symptoms of coronavirus uae
+- symptoms of coronavirus nsw
+- Is a cough but no fever a symptom
+- symptoms of coronavirus malayalam
+- symptoms of coronavirus toronto
+- coronavirus thailand symptoms
+- symptoms of coronavirus in babies
+- symptoms of coronavirus percentage
+- symptoms of coronavirus health canada
+- symptoms of coronavirus disease
+- symptoms of coronavirus by percentage
+- symptoms of coronavirus and prevention
+- symptoms of coronavirus philippines
+- It would be great to hear more about the symptoms. Cough and difficulty breathing isn't too specific (especially during allergy season!).
+- symptoms of coronavirus reddit
+- symptoms of coronavirus in humans
+- symptoms of coronavirus loss of voice
+- how long will coronavirus lockdowns last
+- How many days should I isolate for
+- How long will the pandemic last
+- How long do I have stay in isolation?
+- If I get sick but it seems like a cold how long do I have to wait after feeling better to see other people
+- how long will coronavirus last canada
+- How much longer will society need to socially isolate?
+- How long do I have stay in isolation
+- How long do people have to isolate for?
+- whats the coronavirus name
+- coronavirus is a flu
+- What s corona virus
+- what is coronavirus reddit
+- What is corona virus
+- coronavirus disease 2020
+- what is coronavirus quora
+- what is a coronavirus virus
+- what is coronavirus
+- coronavirus is it new
+- coronavirus disease facts
+- what is the corona viruses
+- what is the coronavirus cdc
+- coronavirus is a cold
+- what us the coronavirus
+- coronavirus name history
+- what is coronavirus and what happens now it is a pandemic
+- what is meant by coronavirus
+- corona virus what does it mean
+- what is corona virus and where it came from
+- coronavirus made simple
+- what is the coronavirus in hindi
+- Is six feet a best practice, or is that a 100% safe zone?
+- What to do if i am infected
+- What do I do if I've tested positive for COVID19 and am about to deliver?
+- Can my dog/cat/pet/animal get COVID-19?
+- can humans get coronavirus from cats
+- Can my cat get the virus?
+- coronavirus in dog
+- which animal corona virus spread
+- corona virus spread by what animal
+- Should I get tested
+- how do you get tested for coronavirus
+- I was very sick with covid symptoms in late February and still coughing . Should I go get tested
+- I was very sick with covid symptoms in late February and still coughing Should I go get tested
+- if i think i have it should i go get tested
+- How can I get tested if I'm asymptomatic?
+- I have a cough should i go to the emergency
+- should I get tested for covid 19
+- i have symptoms should i go to the hospital
+- Where should I go if I am sick
+- I've developed a sore throat Where should I go
+- I'm coughing what should I do
+- Can I get tested if I don't have any symptoms
+- My boyfriend experienced gastro intestinal symptoms and came from abroad should he get tested
+- When should I go to the hospital
+- can the coronavirus travel through the mail
+- can coronavirus travel on packages
+- can coronavirus spread through mail packages
+- can corona live on mail
+- can the coronavirus live in packages
+- should we quarantine our mail and packages for a few days/hours before bringing it inside?
+- can coronavirus be transmitted through mail
+- can the coronavirus be killed by heat
+- coronavirus in heat
+- can coronavirus survive in warm weather
+- Is it true that warm kills Coronavirus?
+- will coronavirus stop in the summer
+- can coronavirus die in heat
+- will corona virus survive in hot weather
+- will coronavirus go away when it gets warm
+- coronavirus and heat cdc
+- will coronavirus die in summer
+- will corona virus be killed by heat
+- coronavirus and heat
+- will coronavirus be killed by heat
+- coronavirus dies in the heat
+- will coronavirus die in the summer
+- will coronavirus be gone by summer
+- will coronavirus go away with warm weather
+- can coronavirus survive in hot weather
+- coronavirus can't stand heat
+- will coronavirus end in summer
+- Does covid-19 spread in warm weather?
+- will coronavirus stop in summer
+- will coronavirus end with warm weather
+- will coronavirus slow down in summer
+- can coronavirus spread in summer
+- can coronavirus survive hot weather
+- Is it true that warm kills Coronavirus
+- coronavirus can survive in hot weather
+- what is coronavirus and is it contagious
+- is coronavirus highly contagious
+- Is COVID-19 contagious? Can someone who has it spread it to others?
+- coronavirus is it contagious
+- How contagious is covid 19?
+- How contagious is covid 19
+- coronavirus is contagious
+- is coronavirus more contagious than the flu
+- Is covid contagious
+- How long does it take until a carrier of the virus can infect others?
+- Are patients with sarcoidosis more at risk of dying from COVID19
+- Who is at risk
+- who is at risk of dying after contracting the virus
+- Who is at risk?
+- can coronavirus live on food packaging
+- can coronavirus spread through food
+- can coronavirus live on food
+- Can you get covid from eating food that someone with covid sneezed or coughed on
+- does coronavirus affect chinese food
+- can coronavirus be spread through food
+- How safe is food delivery
+- symptoms of coronavirus in people
+- What are the symptoms in kids
+- symptoms of coronavirus in toddlers
+- symptoms of coronavirus for young adults
+- When having covid 19 What are the next possible symptoms for a 4 years old child
+- Does everyone that contracts the virus show symptoms Or will only certain people show symptoms
+- What should I do if my school experiences increased rates of absenteeism?
+- What is the treatment for COVID-19?
+- What is the mode of transmission? How (easily) does it spread?
+- If I was traveling abroad recently what should I do when coming back home
+- My mom came back from a trip on the 20th of March Until when is she supposed to stay home
+- If I traveled from Vancouver to quebec city do i need to quaratine
+- What should I do if I just returned from a trip?
+- Should i get checked if i have been out of the country
+- coronavirus is found in the u.s
+- What is the COVID-19 situation in the U.S?
+- Why is called COVID-19
+- Why is it called COVID-19?
+- Can I travel to the United States with dogs or import dogs into the United States during the COVID-19 outbreak?
+- What actions should my school take if a sick student or staff member attended school before being confirmed as a COVID-19 case?
+- Can someone who is quarantined for COVID-19 spread illness to others?
+- can corona live in food
+- can coronavirus spread through eggs
+- does coronavirus affect food
+- does coronavirus spread through chicken
+- Can it be transfered to food
+- can coronavirus spread through food delivery
+- coronavirus is it safe to order food
+- does corona virus spread through food
+- Can COVID-19 be spread through food (including refrigerated or frozen food)?
+- does corona virus affected food
+- coronavirus is fast food safe
+- Can my pet or other animals get sick from COVID-19?
+- corona virus spread animals
+- Can my pet get COVID-19?
+- coronavirus can dogs get it
+- can pets get coronavirus
+- coronavirus in animals
+- corona virus spread by animals
+- how do coronavirus spread from animals
+- What is community spread?
+- What is the risk of getting COVID-19 on an airplane?
+- Do viruses get weaker over time? Will coronavirus / COVID19 weaken over time?
+- What is MERS-CoV?
+- Can we be contagious when we don't show symptoms?
+- Can COVID-19 be transmitted when a person is not showing symptoms?
+- How many days can you be contagious without showing symptoms
+- can coronavirus spread without symptoms
+- How do I go grocery shopping
+- How do I go grocery shopping? 
+- Is grocery shopping safe
+- Schools, daycare, university - they have all closed down? What can I Do?
+- Is covid 19 same as sars
+- how does coronavirus compare to sars
+- Can humans become infected with the COVID-19 from an animal source?
+- Are the symptoms of COVID-19 different in children than in adults?
+- Does CDC recommend the use of facemask to prevent COVID-19?
+- What should I do after returning from a trip abroad?
+- What do SARS-CoV-2 and Covid-19 stand for?. 
+- Has anyone in the United States gotten infected?
+- What should healthcare professionals and health departments do?
+- Should children wear masks?. 
+- Are children also at risk of infection?
+- What is CDC doing about COVID-19?
+- Who is at risk for severe disease from COVID-19?
+- coronavirus inverted yield curve
+- What is flattening the curve?
+- Should I worry about COVID-19?
+- Are there any natural health products that can treat or prevent COVID-19?
+- Can anti viral drugs be used to treat the coronavirus
+- What is SARS-CoV-2? What is COVID-19?
+- How prepared is Germany?. 
+- What should I do if I am unable to work after being exposed to COVID-19?. 
+- How can I protect my child from COVID-19?
+- What can we do to protect ourselves from COVID-19?
+- what to do to protect myself from coronavirus
+- Should I use soap and water or a hand sanitizer to protect against COVID-19?
+- Can I donate blood?
+- Are international layovers included in CDC's recommendation to avoid nonessential travel?
+- what kind of protective gear do i need to wear
+- What is personal protective equipment (PPE)?
+- What can I do to protect myself and prevent the spread of disease?
+- Why are schools closing down becasue of COVID-19?
+- will coronavirus shut schools down
+- What are the treatment options?. 
+- What is the risk of COVID-19 infection from contact with pets and other animals in the EU?
+- What environmental cleaning procedures should my school take to keep staff and students healthy?
+- What is the risk to pregnant women of getting COVID-19? Is it easier for pregnant women to become ill with the disease? If they become infected, will they be more sick than other people?
+- Is COVID-19 the same as SARS?
+- If I'm high risk, what should I do?
+- What precautions should pregnant women take on top of everyone else
+- What are the symptoms of COVID-19 infection
+- Can COVID-19 be passed from a pregnant woman to the fetus or newborn?
+- What are N95 respirators/masks?
+- Masks
+- Is covid-19 same as sars?
+- What is SARS-CoV?
+- If I have diabetes am I at a higher risk?
+- Should any diagnostic or therapeutic interventions be withheld due to concerns about transmission of COVID-19?
+- Is there a treatment for the COVID-19 disease?
+- Can the COVID-19 virus spread through pools and hot tubs?
+- What are the recommendations for persons travelling to areas in which transmission is occurring?. 
+- When was the first information about the outbreak received?
+- If our school is dismissed, how long should we dismiss school for?
+- Should I stay home ?
+- What cleaning products should I use to protect against COVID-19?
+- Which areas are to be considered risk areas in Germany?
+- How is it decided whether a person with a confirmed case of COVID-19 can self-isolate at home or must be confined to a hospital or elsewhere?. 
+- Where do coronaviruses come from?
+- Should wastewater workers take extra precautions to protect themselves from the COVID-19 virus?
+- How long should we self quarantine before moving into our elderly parentsâ€™ house? (Where we will continue to self quarantine)
+- Will self-employed persons receive financial compensation if they are no longer able to work as a result of the virus?
+- How does the novel virus spread?. 
+- I have packages coming from China... am I at risk?
+- What is COVID-19?
+- Are pregnant healthcare personnel at increased risk for adverse outcomes if they care for patients with COVID-19?
+- How do I get tested?
+- Am I at risk for COVID-19 from a package or products shipping from China?
+- How can I help protect myself?
+- Is it true that soap and water are better than hand sanitizer
+- Are face masks effective in protecting against COVID-19?
+- How can people help stop stigma related to COVID-19?
+- What should I do if I have had close contact with someone who has COVID-19?
+- Are there any medicines or therapies that can prevent or cure COVID-19?
+- What actions can staff and students take to prevent the spread of COVID-19 in my school/childcare program?
+- Are you at risk for contracting COVID-19 if you receive a package or products shipped from other countries?
+- Who is at risk for COVID-19?.
+- Am I at risk if I touch someone who died of COVID-19 after they have passed away?
+- What personal protective equipment (PPE) should be worn by individuals transporting patients who are confirmed with or under investigation for COVID-19 within a healthcare facility?
+- How are travelers from countries with a level 3 travel health notice being screened when they enter the United States?
+- How is it transmitted?
+- how coronavirus is spreads
+- how coronavirus transmitted
+- how is covid 19 spread?
+- How COVID-19 is infecting?
+- how does it get transmited
+- How does the virus spread
+- how coronavirus comes
+- how do coronavirus spread
+- how coronavirus spread wiki
+- How does it spread
+- how coronavirus transfer
+- coronavirus is spread by
+- How does COVID 19 spread
+- how coronavirus can spread
+- how coronavirus is spread
+- how fast does coronavirus spread
+- How fast does the virus spread
+- coronavirus is spread by usa
+- coronavirus is spread through
+- coronavirus spread through chicken
+- what is corona virus how it spread
+- corona virus how will it spread
+- will coronavirus spread in rain
+- how coronavirus will transmit
+- how can the coronavirus spread
+- how coronavirus disease spread
+- how coronavirus spread in humans
+- how does coronavirus disease spread
+- how coronavirus is transmitted
+- how does coronavirus spread in humans
+- how does corona virus attack
+- how does corona virus spread
+- Does it spread when we inhale the germs Or just touching the virus infects us
+- Should I avoid contact with pets or other animals if I am sick with COVID-19?
+- What if I have recently been in an area of local or community transmission?
+- How can I protect myself 
+- how to protect myself from it
+- how can I prevent myself from getting sick?
+- How can I protect myself and others?
+- How can I protect myself
+- Can I catch COVID-19 from my pet?
+- What if I have symptoms?.
+- what is my level of risk?
+- My sister in law is pregnant and lives in a house with extended family where one member is isolated due to possible contact with someone with COVID 19 Are the risks for pregnant woman Higher How can she protect
+- coronavirus in pregnant women
+- Does a mask actually help if I'm not sick?
+- Are masks efficient to prevent the one wearing from getting infected? What about infecting others?
+- If i sew a mask - can this be effective? 
+- Do we need to wear mask?
+- Should I be wearing a face mask to prevent me getting COVID-19?
+- Do I need a mask
+- Am I at risk if I touch someone who has died of COVID-19 after they have passed away?
+- What does socially distancing even mean?
+- what is social distancing
+- Is it safe to go outside for a walk social distancing from others
+- How likely am I to catch COVID-19?
+- Is chloroquine effective in treating covid19
+- coronavirus spread through pipes
+- will coronavirus spread through packages
+- coronavirus spread through
+- coronavirus spread through money
+- What is Social Distancing? . 
+- Is there a danger that a person can become infected with the novel coronavirus (SARS-CoV-2) through foodstuffs or objects?
+- can humans get coronavirus from a cat
+- How can I avoid getting infected?
+- symptoms of coronavirus
+- coronavirus symptoms 2020
+- coronavirus ncov symptoms
+- coronavirus nhs symptoms
+- what are covid symptoms
+- symptoms of coronavirus in hindi
+- what are the main symptoms
+- symptoms of coronavirus cdc
+- what are he covid symptoms
+- Symptoms of Covid 
+- What are the symptoms?
+- what symptoms you have
+- coronavirus hku1 symptoms
+- What are symptoms
+- What are symptoms 
+- What are the symptoms
+- covid symptoms
+- Are a loss of taste and smell symptoms of COVID 19
+- novel coronavirus infection symptoms
+- Symptoms
+- What are the symptoms 
+- symptoms of coronavirus usa
+- what are cov19 symptoms
+- what is the symptoms
+- symptoms of coronavirus who
+- Which are its first symptoms
+- symptoms of coronavirus day 1
+- symptoms of coronavirus diarrhoea
+- What are the symptoms of Corona Virus
+- symptoms of coronavirus in us
+- symptoms of coronavirus tight chest
+- symptoms of coronavirus in children
+- describe the symptoms of covid
+- What is most usual symptom of Covid-19 
+- What is the covid 19 symptoms
+- What are de symptoms of coronavirus
+- what are the symptoms of coronavirus
+- symptoms of coronavirus covid 19
+- coronavirus causes and symptoms
+- what are corona virus symptoms?
+- symptoms of coronavirus back pain
+- describe the symptoms of covid 19
+- coronavirus affected symptoms
+- What are the symptoms of Covid 19
+- What are the early symptoms of COVID 19
+- symptoms of coronavirus in usa
+- What are the symptoms of vivid 19
+- What are the symptoms of COVID 19
+- What is the covid-19 symptoms? 
+- Does my neighbour have covid 19 symptoms
+- what is the coronavirus and symptoms
+- symptoms of coronavirus neck pain
+- symptoms of coronavirus singapore
+- what are the 3 symptoms of covid-19
+- symptoms of coronavirus hindi
+- what are the symptoms of covid-19 by day of infection?
+- what is coronavirus and its symptoms
+- symptoms of coronavirus sydney
+- what are corona virus symptoms
+- is vomiting one of the symptoms?
+- What are the symptoms for COVID 19
+- coronavirus cause symptoms and prevention
+- What are the symptoms of covid19?
+- coronavirus disease 2019 symptoms
+- What are the symptoms of SARS-COV-2
+- What are the symptoms? Is vomiting one of them ?
+- What are the sympthoms of covid 19
+- What are the early symptoms of COVID-19
+- what is corona virus and what are the symptoms
+- symptoms of coronavirus spread
+- what us the symptoms of coronavirus
+- What are the symptoms of the covid19?
+- can you please tell me symptoms of corona virus?
+- coronavirus disease symptoms in hindi
+- what is the cov19's symptoms
+- What are the symptoms of the covid19
+- Which are its first symptoms?
+- What is most usual symptom of Covid 19
+- What are the symptoms of covid 19
+- coronavirus effects and symptoms
+- how long does coronavirus symptoms last
+- what is coronavirus and symptoms
+- Does everyone that contracts the virus show symptoms? Or will only certain people show symptoms?
+- What is the first symptom of covid ?
+- what is coronavirus symptoms in humans
+- What is the main symptoms of the disease related to new coronavirus
+- What are COVID symptoms at early stage
+- What are the symptoms for COVID-19 ?
+- what is the cov19's symptoms ?
+- coronavirus disease symptoms
+- What are the most common symptoms of COVID-19?
+- symptoms of coronavirus tiredness
+- what are the main symptoms of coronavirus
+- symptoms of coronavirus from patients
+- what are the symptoms of COVID 19
+- What's the current risk?
+- Should I go to work if there is an outbreak in my community?
+- Should schools and day centers be closed?
+- Do we need to wear a mask
+- Can we use fabric masks to prevent the spread?
+- When can patients with confirmed COVID-19 be discharged from the hospital?
+- Is there anything I should not do?
+- coronavirus nyc infected
+- Has anyone gotten infected in the United States?
+- what states is the coronavirus in usa
+- what states is the coronavirus in in the usa
+- what states have corona virus in the usa
+- what states is coronavirus in
+- what states is coronavirus in the usa
+- What's my risk of being infected?
+- Should I close our school/childcare program if there's been COVID-19 cases in my school?
+- Should medical waste or general waste from healthcare facilities treating PUIs and patients with confirmed COVID-19 be handled any differently or need any additional disinfection?
+- My family member died from COVID-19 while overseas. What are the requirements for returning the body to the United States?
+- If we dismiss school, what do we need to consider when re-opening the building to students?
+- Who is at risk of developing severe illness?
+- Where can I get tested
+- how can I get tested
+- Where do I get tested
+- How can I get tested ?
+- Were can I get tested
+- where can I test for covid
+- where can i get tested
+- Where to go to get tested
+- where can I get tested
+- Where are the testing centers located in Mtl?
+- I don t feel well have a dry cough and a fever Should I go get tested for covid and where can I get tested if I livei n POinte Claire Quebec
+- Where can I go to get tested
+- Where can I go to be tested if I have symptoms
+- Where can someone get tested
+- Where do we get the test for COVID-19?
+- where can I go for a test in Montreal
+- Where is the closest testing site
+- Where do I go to get tested?
+- I would like to get COVID19 test where can I get it
+- Where can I find the closest testing facility
+- Where should I go to get tested for the virus
+- Where are all the testing clinics in Quebec
+- How can I get a covid 19 test
+- Where is the closest testing facility to me?
+- Where is the closest testing facility to me
+- Where do we get the test for COVID 19
+- If I do not show symptoms can I still be tested
+- Where are the testing centers located in Mtl
+- Can someone who has had COVID-19 spread the illness to others?
+- How prepared is Europe for COVID-19 and what is the EU doing?
+- What steps can my family take to reduce our risk of getting COVID-19?
+- How can I protect my child from COVID-19 infection?
+- How can my family and I prepare for COVID-19?
+- Are there measures for train passengers?
+- coronavirus on pregnant
+- coronavirus in pregnant woman
+- Do pregnant women have a higher risk factor
+- How dangerous it is for pregnant women?
+- how does coronavirus affect pregnant women
+- Will schools be dismissed if there is an outbreak in my community?
+- How can people protect themselves?
+- What about imported animals or animal products?
+- Also, what to do if you have no access to sanitizing wipes
+- How can pregnant women protect themselves from getting COVID-19?
+- Is the COVID-19 virus found in feces?
+- Which body fluids can spread infection?. 
+- What can I expect when arriving to the United States?
+- What should I do if my family member dies of COVID-19 while overseas?
+- Can people who recover from COVID-19 be infected again?
+- What PPE should be worn by HCP providing care to asymptomatic patients with a history of exposure to COVID-19 who are being evaluated for a non-infectious complaint (e.g., hypertension or hyperglycemia)?
+- . What actions should school and childcare program administrators take to plan for an outbreak?
+- What arrangements have been put in place for travellers coming into Germany on flights from risk areas?. 
+- Who decides whether a test for SARS-CoV-2 will be conducted?. 
+- How to put on, use, take off and dispose of a mask?
+- how coronavirus caused
+- what is coronavirus caused by
+- what causes the COVID 19 desease
+- what is coronavirus caused from
+- what is the coronavirus caused from
+- what caused this coronavirus outbreak
+- what is coronavirus how it is caused
+- how are coronavirus caused
+- How Covid 19 started
+- What is the origin of COVID-19?
+- what causes the COVID-19 desease?
+- When will the treatment be available for this pandemic
+- coronavirus disease treatment
+- what treatments are available for covid 19
+- What is the treatment for COVID-19?
+- What medication is recommended if I contract covid 19
+- what is the coronavirus treatment
+- coronavirus hku1 treatment
+- what is corona virus and its treatment
+- Is there any treatment for covid 19
+- Is there any treatment for covid 19?
+- do you have treatment for COVID19?
+- coronavirus medicine treatment
+- what is coronavirus by world health organization
+- coronavirus new name
+- what is a coronavirus in humans
+- what is coronavirus in cats
+- what is coronavirus hku1
+- what is coronavirus in human
+- what is coronavirus disease
+- what is the coronavirus disease
+- why is social distancing important
+- Should I practice social distancing?
+
+
+## intent:faq
+- Is it safe to travel to chicago?
+- Am I at risk for COVID-19 in the United Staes?
+- What are the sympthoms of covid-19?
+- how long does coronavirus stay on different surfaces
+- where was the corona virus made
+- If I have a mild respiratory disease, do I need to go to my doctor's practice to pick up a sick leave certificate?
+- What is Covid 19
+- symptoms?
+- If I was traveling abroad recently
+- Whom should healthcare providers notify if they suspect a patient has COVID-19?
+- symptoms of coronavirus diagnosis
+- how long does the coronavirus survive on surfaces
+- coronavirus disease spread
+- can coronavirus die in hot weather
+- how long does coronavirus last in the air
+- what is the coronavirus in humans 2020
+- what is the coronavirus caused by
+- Is this virus comparable to SARS or to the seasonal flu?
+- can coronavirus be killed by heat
+- does coronavirus transmitted through food
+- How many patients are across the globe
+- symptoms of coronavirus from survivors
+- how coronavirus spreads without symptoms
+- does corona virus spread through egg
+- symptoms of covid 19
+- What is the incubation time of covid-19 by age
+- can coronavirus spread through take out food
+- symptoms of coronavirus in cats
+- what is coronavirus definition
+- what is the coronavirus and how did it start
+- Why are there two names for COVID-19?
+- Where to get tested ?
+- Who is most at risk
+- Can I catch the virus from food in the grocery store
+- Will wearing a P100 mask help me not get infected
+- How can I protect myself if I need to go to the market
+- why is the corona virus named corona virus
+- will the virus continue to spread for a long time?
+- Where can I get tested for COVID-19?
+- how coronavirus symptoms
+- what is the coronavirus and what are the symptoms
+- Can pets get COVID 19 from me
+- How many are infected in Brossard
+- coronavirus is takeout safe
+- coronavirus can i visit my elderly parents
+- How much it s prevelent in Pakistan
+- What can you do?
+- coronavirus contagious nhs
+- Slight cough
+- where did the coronavirus come from bats
+- Where can German doctors and clinics obtain additional information?
+- symptoms of coronavirus vs cold
+- how many new cases per day in canada
+- Does covid transfer through air
+- how coronavirus come in humans
+- does coronavirus spread through egg
+- What are the symptoms of COVID-19
+- How long will social distancing measures last?
+- What does it mean to be isolated?
+- symptoms of coronavirus diarrhea
+- What are the most common symptoms in COViD-19
+- how did coronavirus happen
+- What are the symptoms of Corona?
+- what is the coronavirus and what does it do
+- world coronavirus die in summer
+- How is covid transmitted?
+- symptoms of coronavirus virus
+- To use masks it's useful?
+- where did the coronavirus start
+- What are the top symptoms 
+- How long does the virus survive on a surface like a doorknob?
+- How long can the virus stay in the air
+- What is COVID-1
+- what is coronavirus 2020
+- where did the coronavirus originate from bats
+- Covid-19
+- Why do I have to "socially distance"?
+- did the coronavirus originate in bats
+- what is the coronavirus symptoms
+- what is coronavirus nz
+- symptoms of coronavirus nhs
+- what is human coronavirus
+- coronavirus spread through eyes
+- Symptoms of corona
+- I might have covid 19 what treatment do I follow
+- Is it safe to handle delivered packages?
+- What is Covid-19
+- How many people are infected in Lithuania?
+- will coronavirus die out in summer
+- how did coronavirus came into existence
+- How to reduce the risk?
+- Hey how many cases of covid infections in the world
+- coronavirus is it safe to order takeout
+- symptoms of coronavirus updated
+- What precautions should be taken for animals that have recently been imported (for example, by shelters, rescue groups, or as personal pets) from China?
+- what states have coronavirus in the usa
+- How is covid transmitted
+- how corona virus is spreading
+- What do waste management companies need to know about wastewater and sewage coming from a healthcare facility or community setting with either a known COVID-19 patient or person under investigation (PUI)?
+- what are the 3 symptoms of covid 19
+- what is covid-19 ?
+- Can my child become sick with COVID-19?
+- what is the coronavirus wikipedia
+- what are the symptoms of covid-19?
+- where is the coronavirus from
+- coronavirus in animals symptoms
+- will coronavirus stop
+- coronavirus spread through water
+- Is California able to test for COVID-19?. 
+- What are the treatments of COVID-19?
+- What are the symptoms of someone infected with a coronavirus
+- What should you do if you think you're sick?
+- will coronavirus die in hot weather
+- what is coronavirus wiki
+- When is someone infectious?
+- what are covid 19 symptoms?
+- who is at risk of dying after contracting the virus?
+- Does the  virus stay on clothing?
+- Where did the outbreak start?. 
+- How should I keep my family safe during covid-19?
+- What are the symptoms of Covid-19
+- Will I continue to get my salary if I have been placed under quarantine?
+- I heard hydroxychloroquine is a good treatment for COVID-19. Where can I get it?
+- How do I know when to get tested
+- Are there ways for students to keep learning if we decide to dismiss schools?
+- did coronavirus originated in chinese govt laboratory
+- What are the first symptoms 
+- How can i test for covid 19
+- Symptoms of Covid
+- what is the coronavirus symptoms in humans
+- symptoms of coronavirus canada
+- What are the symptoms of covid19
+- symptoms of coronavirus fever
+- symptoms of coronavirus wikipedia
+- How Covid-19 started?
+- Can my dog be infected with it
+- did coronavirus start in animals
+- Am I protected against COVID-19 if I had the influenza vaccine this year?
+- What are the most common symptoms of COVID 19
+- what has caused this coronavirus
+- Who is at risk for COVID-19?. 
+- symptoms of coronavirus no taste or smell
+- what city did the coronavirus originate in
+- what states is coronavirus in usa
+- what type of virus is the coronavirus
+- how coronavirus in the usa
+- How to differentiate between coronavirus and simple flu
+- Is it useful to wear a mask if we are not sick
+- How did this virus transmit
+- What is SARS-CoV-2?
+- how coronavirus spreads person to person
+- What are the most common symptoms in COViD 19
+- should I wear a mask?
+- What are the confirmed symptoms of COVID19
+- how long does coronavirus last on paper surfaces
+- will coronavirus end with summer
+- can coronavirus be on packages
+- symptoms of coronavirus infected person
+- how long will coronavirus epidemic last
+- what is other name of corona virus
+- It is possible that I have Covid 19 only if experience only a few symptoms
+- will corona virus spread
+- what the name of the virus
+- what us coronavirus
+- What should people at higher risk of serious illness with COVID-19 do?
+- Where do I go to get tested
+- What are the clinical features of COVID-19?
+- symptoms of coronavirus ncov
+- will coronavirus close schools in us
+- can corona live on paper
+- what is a novel coronavirus
+- coronavirus medicine treatment in hindi
+- How long does the virus survive on a surface like a doorknob
+- What if I have symptoms?. 
+- How many cases
+- where was the corona virus first found
+- symptoms of coronavirus mayo clinic
+- What are the symptoms for covid19
+- how was the coronavirus spread
+- What are the real symptoms of covid 19
+- How can I protect myself from the coronavirus?. 
+- Are antibiotics effective in preventing or treating the COVID-19?
+- What does it mean for Germany if the SARS-CoV-2 coronavirus continues to spread throughout the country?. 
+- Can I get Covid 19 if someone pets my dog and then I pet her? 
+- What are the symptoms of Corona
+- how long does coronavirus last on objects
+- What should I do if I have symptoms or have been exposed?
+- will coronavirus close schools
+- Can I catch the coronavirus by eating food handled or prepared by others
+- how long can the coronavirus live on a surface
+- is coronavirus more contagious than flu
+- What steps should my school take if a student or staff member shows symptoms of COVID-19?
+- can coronavirus live on paper surfaces
+- symptoms of coronavirus sore throat
+- Are pregnant women at high risks
+- Can the COVID-19 virus spread through drinking water?
+- will coronavirus survive on surfaces
+- where did the coronavirus came from
+- symptoms of coronavirus sore throat headache
+- What are the symptoms of the Corina virus
+- what is coronavirus treatment
+- what is corona virus pdf
+- does coronavirus affect animals
+- How many Canadians currently have corona virus?
+- coronavirus pandemic meaning
+- what is a coronavirus wikipedia
+- How long is the treatment?
+- What are the top symptoms
+- What precautions should I take if I am visiting an area of local or community transmission?
+- Who is most at risk? 
+- coronavirus disease 2019
+- what is coronavirus and how it is spread
+- where did coronavirus originate and how
+- Can COVID-19 be spread through surface-touching?
+- how can I prevent myself from getting sick
+- does wearing mask protect me from covid 19?
+- Where should I be tested
+- Will it get better in summer with higher temperatures?
+- symptoms of coronavirus nz
+- What are the symptoms of corona
+- coronavirus spread through mail
+- what is corona virus english
+- What personal protective equipment (PPE) should be worn by individuals transporting patients who are confirmed with or under investigation for COVID-19 within a healthcare facility? For example, what PPE should be worn when transporting a patient to radiology for imaging that cannot be performed in the patient room?
+- what is a coronavirus definition
+- Who is at a higher risk of serious illness and death from COVID-19?
+- how long will coronavirus live on paper
+- what is coronavirus youtube
+- How long does the virus survive on a surface?
+- Should I wear a mask to protect myself?
+- How should healthcare personnel protect themselves when evaluating a patient who may have COVID-19?
+- Can I travel to see my relatives in a different town
+- what is coronavirus and what are its symptoms
+- is coronavirus going to last 18 months
+- What symptoms are red flags for me to go to the hospital or get tested
+- Do wastewater and sewage workers need any additional protection when handling untreated waste from healthcare or community setting with either a known COVID-19 patient or PUI?
+- coronavirus in humans treatment
+- How is COVID-19 treated?
+- what are symptoms of covid 19
+- How long do you expect these restrictive measures to last
+- I have had a sore throat for 8 days Should I worry
+- will coronavirus spread in summer
+- How does COVID-19 spread?
+- can you please tell me symptoms of corona virus
+- Were can I get tested? 
+- will coronavirus spread
+- what of young people under 50 hospitalized with covid 19 have underlying health conditions that put them at a higher risk of having a more severe form of the illness
+- how long does coronavirus live on a surface
+- what is coronavirus cough
+- How can I prepare in case my child's school, childcare facility, or university is dismissed?
+- what is corona virus covid 19
+- How dangerous is an infection with SARS-CoV-2?. 
+- can coronavirus spread through things
+- Why might someone blame or avoid individuals and groups (create stigma) because of COVID-19?
+- What is the difference between COVID-19 and other coronaviruses?. 
+- how long will coronavirus last in us
+- coronavirus philippines symptoms
+- Once you get the virus and recover from it
+- what animal did the coronavirus originate from
+- What is the origin of COVID 19
+- Day by day symptoms
+- How long does the virus survive on surfaces?
+- Does covid transfer through air?
+- Can the virus that causes COVID-19 be spread through food, including refrigerated or frozen food?
+- what is novel coronavirus (2019-ncov)
+- how long does coronavirus last on wood
+- coronavirus is it safe to open mail
+- What is a coronavirus?
+- What is someone in my house gets sick with COVID-19?
+- How does Covid 19 spread
+- what are covid-19 symptoms?
+- does coronavirus spread in hot weather
+- What are the symptoms ?
+- how coronavirus spread in human body
+- For how long COVID19 can stay alive on different surfaces?
+- How many cases in quebec granby there is
+- Should I be tested for COVID-19?
+- How can I prepare for COVID-19 at work?
+- How long does the virus remain on a surface
+- how long does coronavirus survive on paper
+- How many cases are there in Canada
+- coronavirus medicine treatment jaipur
+- Can it survives on food
+- treatment for covid 19
+- How long does the virus stay airborne?
+- where did the coronavirus come from
+- corona virus originated where
+- Is there any medication to take to help
+- how is covid 19 spread
+- When should I go to the hospital 
+- symptoms of coronavirus in dogs
+- Who is at Higher Risk for Serious Illness from COVID-19?
+- does coronavirus come from bats
+- coronavirus is what
+- symptoms of coronavirus vs allergy
+- How do I safely go grocery shopping without bring back germs
+- What should I do if someone in my house gets sick with COVID-19?
+- What is cocos-19
+- does coronavirus spread through food
+- What s COVID 19
+- does coronavirus die in heat
+- how does coronavirus spread
+- coronavirus spread through packages
+- does corona virus spread through eggs
+- Where did COVID-19 come from?
+- how coronavirus spreads
+- what is the symptoms?
+- corona virus originated from
+- what is a coronavirus
+- How long is the incubation period for COVID-19?
+- symptoms of coronavirus in puppies
+- Is there a vaccine, drug or treatment for COVID-19?
+- symptoms of coronavirus step by step
+- How does COVID-19 get transmitted? 
+- can coronavirus survive heat
+- what is a coronavirus cough
+- how did coronavirus come about
+- How contagious is the virus
+- What types of cleaning products should I use to protect against COVID-19?
+- What is Covid19
+- how long does the coronavirus stay on surfaces
+- Why do I have to stay at home?
+- can coronavirus spread to animals
+- can coronavirus travel in packages
+- Where should I go for a COVID 19 screening test
+- what is corona virus means
+- coronavirus is takeout food safe
+- symptoms of coronavirus infection
+- how long will coronavirus last uk
+- How do I prepare my children in case of COVID-19 outbreak in our community?
+- Should he self isolate when he gets here even if he feels well?
+- What is COVID 19 s definition
+- coronavirus on animals
+- where did the coronavirus originate from
+- Why is called COVID 19
+- where is the corona virus started
+- what is the coronavirus cough sound like
+- what is the coronavirus definition
+- What personal protective equipment (PPE) should be worn by environmental services (EVS) personnel who clean and disinfect rooms of hospitalized patients with COVID-19?
+- coronavirus is caused by
+- How many cases of covid in laval
+- what should I do if I think I have covid-19
+- Should we be wearing homemade masks when out shopping
+- Should post-exposure prophylaxis be used for people who may have been exposed to COVID-19?
+- what is the coronavirus cause from
+- How does Covid-19 spread?
+- how long does the coronavirus live outside the body
+- Symptoms of COVID 19
+- where did the coronavirus come from animal
+- Should my school screen students for cases of COVID-19?
+- Infomation about covid
+- where did the coronavirus originate cdc
+- what is coronavirus quarantine
+- Is there a vaccine against the virus? How long will it take to develop a vaccine?
+- coronavirus is spread by which animal
+- will coronavirus spread in hot climate
+- how long does the coronavirus in the air
+- how can i get tested
+- What should I do if I had close contact with someone who has COVID-19?
+- What is covid 19?
+- corona virus originated from what
+- What s covid19
+- symptoms of coronavirus bbc
+- If a pregnant woman has COVID-19 during pregnancy, will it hurt the baby?. 
+- what is covid
+- How many Covid19 cases are there?
+- How long should we self quarantine before moving into our elderly parents’ house? (Where we will continue to self quarantine)
+- How many Covid19 cases have been reported in my country?
+- What should we do if a child, student, or staff member has recently traveled to an area with COVID-19 or has a family member who has traveled to an area with COVID-19?
+- what has caused it
+- is coronavirus like sars
+- how long does the coronavirus live on hard surfaces
+- How do I know if I have Covid-19
+- What's the difference between self-isolating and self-monitoring?
+- coronavirus symptoms on humans
+- What are the symptoms for corona virus
+- After arriving from a country with a level 3 travel health notice related to COVID-19 when can I return to work?
+- what is novel coronavirus 2020
+- what type of virus is a corona virus
+- Is it useful to wear a mask if we are not sick?
+- How many coronavirus deaths in the last week
+- Who should I tell if I think I have COVID-19?
+- coronavirus spread through air
+- http //what is corona virus
+- how long does coronavirus stay in surfaces
+- what is coronavirus wikipedia
+- symptoms of coronavirus flu
+- What are the symptoms of vivid 19?
+- I'd love to know how long I can be contagious?
+- where did the coronavirus start 2020
+- what states have corona virus in usa
+- What can I do to reduce my and my family's risk of getting COVID-19?
+- Is it safe to go to restaurants and bars?. 
+- what is novel coronavirus
+- why is the virus called COVID 19
+- does coronavirus spread through eggs
+- What is the situation right now in the world?
+- coronavirus is in what states
+- What other arrangements have been put in place to protect the German public from the novel coronavirus SARS-CoV-2?. 
+- where did the coronavirus originate animal
+- where did the coronavirus begin
+- How can I get a test
+- where did the coronavirus originate and how
+- Is chloroquine the same thing as chloroquine phosphate?
+- where did the novel coronavirus come from
+- What is COVID-19
+- is coronavirus heat sensitive
+- I am pregnant, am I at a greater risk for more serious outcomes related to COVID-19?
+- how long does the coronavirus live outside of the body
+- Should I go on a cruise?
+- Can COVID-19 cause problems for a pregnancy?. 
+- I have a sore throat what other symptoms should I be waiting for before getting tested
+- Full form of Covid-19?
+- What is social distancing and how does it help to minimize COVID-19?
+- What is COVID-19's definition?
+- How many cases are in the US?
+- where did coronavirus originated and how
+- What is the risk of COVID-19 infection from animals or animal products imported from affected areas?
+- how long is coronavirus epidemic expected to last
+- what is COVID 19
+- what is covid-2019
+- How do I know if I am following the rules of social distancing correctly
+- is coronavirus heat resistant
+- If you have been released from isolation, will you still be able to spread COVID-19 to others?
+- Is take out food really safe during pandemic
+- How long will this outbreak last?
+- If someone has been exposed to another individual who is positive, after how many days without symptoms can one be sure that he/she has not been also infected?
+- What is the risk of my child becoming sick with COVID-19?
+- What happens if there is a sick passenger on an international or domestic flight?
+- What precautions must be taken at large-scale events?
+- What is the first symptom of covid
+- how coronavirus is tested
+- coronavirus details
+- what is coronavirus all about
+- coronavirus spread through feces
+- Is there a treatment for corona virus
+- What are the symptoms of Covid-19?
+- For how long the virus can live without the host
+- how long does coronavirus live on surfaces
+- how long does coronavirus stay alive on surfaces
+- What type of shopping is safe
+- what city did the coronavirus come from
+- how long does coronavirus last on plastic bags
+- what is coronavirus cdc
+- Can I infect my pet with corona
+- Does chloroquine and/or hydroxychloroquine treat COVID-19?
+- Can my dog get COVID-19 and transmit it to other people?
+- how long does the coronavirus last outside the body
+- did coronavirus originated in chinese lab
+- what is covid 19 corona virus
+- Do I need to wear mask?
+- where did the coronavirus first come from
+- how coronavirus is spreading
+- What caused COVID-19? 
+- Where to get tested
+- Can someone who has been quarantined for COVID-19 spread the illness to others?
+- What is novel (new) coronavirus?
+- how long will coronavirus last on paper
+- What are the symptoms of covid-19?
+- Do I have covid 19
+- how can one fight the virus 
+- how to protect myself from it 
+- what are the symptoms of COVID-19?
+- Is it safe to order food during the COVID 19 pandemic
+- About COVID 19
+- what is coronavirus infection
+- how many death in italy
+- What should I do if there is an outbreak in my community?
+- Can a person test negative and later test positive for COVID-19?
+- where is corona virus in the u.s
+- Will warm weather / summer / heat stop outbreak of COVID-19?
+- coronavirus in humans symptoms
+- What is Novel Coronavirus (COVID-19)?
+- what is corona virus ppt
+- what is the coronavirus named after
+- How long does the virus stay on surface
+- coronavirus is from
+- what is the coronavirus english
+- What are the early symptoms
+- how long does the coronavirus live in surfaces
+- how long can the coronavirus survive on different surfaces
+- What is the difference between COVID-19 and SARS-CoV-2?
+- What can I expect when departing other countries?
+- Will existing respiratory virus panels, such as those manufactured by Biofire or Genmark, detect SARS-CoV-2, the virus that causes COVID-19?
+- Should children wear masks?
+- how to protect from Covid19
+- I'm pregnant... am I at risk for COVID-19?
+- Are young people susceptible to corona virus?
+- coronavirus in usa symptoms
+- What is COVID-19? 
+- How does coronavirus spread
+- When should I be tested for COVID-19?
+- how long does coronavirus stay on bedding
+- Can the virus live or organic materials like food
+- Do patients with confirmed or suspected COVID-19 need to be admitted to the hospital?
+- what is the coronavirus in humans
+- 4 Is it better to wash hands with warm soapy water or use a hand sanitizer
+- Do I have to wear a mask all the time if I am not infected?
+- what is a coronavirus wiki
+- What are respiratory droplets?
+- How does the virus spread?
+- symptoms of coronavirus aches
+- What should you do if you dont have water and soap and sanitizer?
+- Can COVID-19 be transmitted through food?
+- whats the name for coronavirus
+- can coronavirus be transmitted through food
+- can corona be passed through food
+- How many people are infected in toronto
+- what is covid 2019
+- what type of virus is the corona virus
+- Why might someone blame or avoid individuals and groups because of COVID-19?
+- what is the coronavirus about
+- how long does the coronavirus stay in your system
+- Should I wear a face mask to keep safe against coronavirus
+- Who should get tested
+- Do I have to wear gloves and mask
+- What should I do if my family member died from COVID-19 while overseas?
+- Is there a quick test for SARS-CoV-2 for home use?
+- what are the symptoms of covid-19
+- what is coronavirus and how does it spread
+- will coronavirus spread in the usa
+- how coronavirus spread from animals to humans
+- coronavirus disease 2019 (covid-19)
+- What are the symptoms and complications that COVID-19 can cause?
+- does coronavirus can survive in hot weather
+- how many people have died in the US?
+- How severe is COVID-19 infection?
+- symptoms of coronavirus digestive issues
+- Can I get COVID-19 from animals when travelling to other countries?
+- why is corona virus named covid 19
+- What are the most common COVID 19 symptoms
+- what is human coronavirus in lysol
+- coronavirus on heat
+- What are the real symptoms of covid-19 
+- coronavirus is from where
+- how many people died in canada?
+- What can I do to prevent myself from getting COVID 19
+- coronavirus does not survive in heat
+- Where should I be tested ?
+- Should public events be cancelled?
+- Have there been similar outbreaks in the past?
+- How many cases of the coronavirus are there in Montreal?
+- coronavirus how long does it last on surfaces
+- where the corona virus started
+- corona virus symptoms and treatment
+- how long is coronavirus live on surfaces
+- What are the treatments of COVID 19
+- Are some people more at risk than others?
+- What steps should parents take to protect children during a community outbreak?
+- Number of cases in India
+- How does coronavirus propagate?
+- where did the novel coronavirus originate from
+- coronavirus japan travel advice
+- symptoms of coronavirus digestive
+- How do I prepare my child for a COVID-19 outbreak?
+- coronavirus affect country
+- what is covid-19
+- Why are people not being checked for COVID-19 at the airport when arriving from areas of local or community transmission?
+- coronavirus in which usa states
+- how coronavirus was caused
+- does wearing mask protect me from covid 19
+- How many cases are in Quebec now
+- Are symptoms of COVID-19 different in children?
+- How to reduce the risk
+- symptoms of coronavirus bc
+- What is the source of the virus?
+- what is coronavirus in the usa
+- where did the coronavirus originate in
+- How long does it take from infection to the onset of disease?
+- Where can I learn more?
+- Can i go to the funeral of someone who died of COVID-19?
+- what is coronavirus how it spread
+- What are the symptoms of COVID-19?
+- Can I catch COVID-19 from the feces of someone with the disease?
+- Will warm weather stop the outbreak of COVID-19?
+- China is the reason behind COVID-19?
+- will coronavirus go away in summer
+- Should I be concerned about pets or other animals and COVID-19?
+- does corona virus can survive in hot weather
+- can coronavirus infection through food
+- How long the virus stays on surfaces
+- How long can the virus live on surfaces
+- symptoms of coronavirus uk
+- what states is the coronavirus in
+- what are the corona virus flu symptoms
+- coronavirus disease covid 19 outbreak situation
+- symptoms of coronavirus hku1
+- corona virus where did it started
+- what is the coronavirus and where did it come from
+- what is the caused of coronavirus
+- symptoms
+- Any advice about how to minimize risk during grocery shopping trips or getting takeout.
+- what is coronavirus and where did it come from
+- what is human coronavirus infection
+- will corona virus spread through packages
+- what is coronavirus nhs
+- How can I protect myself?
+- how coronavirus starts symptoms
+- corona virus when did started
+- Can the virus that causes COVID-19 be transmitted through the air?
+- How long does the virus live on surfaces, like packages, plastic, etc? Should we be worried about that? 
+- how long does the coronavirus last on a surface cdc
+- Am I at risk if I go to a funeral or visitation service for someone who died of COVID-19?
+- symptoms of coronavirus nhs uk
+- How to avoid this infection
+- coronavirus symptoms on toddlers
+- Does the health insurance pay for the SARS-CoV-2 test?
+- where is the corona virus originate from
+- where did coronavirus originate from
+- There have been a lot of mixed messages about kids being 'immune' or 'unlikely' to be affected. Can you provide some clarity around what this looks like for small children?
+- How to deal with disinfection of day to day use objects?
+- How many cases are in spain
+- Should I cancel my international trip?
+- how coronavirus spread funny
+- what is corona virus originated from
+- is coronavirus in the air outside
+- what is coronavirus meaning
+- What is a novel coronavirus?
+- where did coronavirus originate animal
+- coronavirus in usa states
+- coronavirus is it safe to travel
+- is coronavirus in the air
+- Is it safe to receive a package from any area where COVID-19 has been reported?
+- How long does COVID 19 stay on surfaces
+- What medication is recommended if I contract covid-19?
+- Where can I get test
+- what are the symptoms
+- What is covid-19?
+- What are the symptoms of corona virus
+- how many people tested?
+- Is there a vaccine?
+- symptoms of coronavirus flu and cold
+- Why is the disease being called coronavirus disease 2019, COVID-19?
+- what do you know about COVID-19?
+- What's COVID-19?
+- What is the state doing to protect our health?
+- What are the coronavirus symptoms?
+- can humans get coronavirus from rats
+- how long does coronavirus live on objects
+- did coronavirus originate in lab
+- how coronavirus was contracted
+- can coronavirus travel through mail
+- how did coronavirus originate bats
+- What is the current number of cases in Quebec?
+- can corona live in the air
+- Will social distancing slow the spread of covid-19?
+- Can the COVID-19 virus spread through sewerage systems?
+- Are covid-19 outcomes worse for those who are infected and suffer from asthma? 
+- How long does the virus stay in paper money and coins?
+- can coronavirus travel in mail
+- symptoms of covid-19
+- symptoms of coronavirus australia
+- what are the symptoms of covid 19 by day of infection
+- how many people are infected in Australia currently
+- coronavirus in chinese food
+- what is other name for corona virus
+- will coronavirus survive in the summer
+- how long can the coronavirus stay on plastic
+- What is covid 19
+- What are covid symptons
+- what is coronavirus from
+- how long does the coronavirus live on objects
+- how long does coronavirus live on hard surfaces
+- How much it's prevelent in Pakistan?
+- Am I at risk for COVID-19 in the United States?
+- what is the coronavirus from
+- can coronavirus survive heat who
+- Where can someone get tested?
+- What are the coronavirus symptoms
+- how long does coronavirus survive on cardboard
+- Covid?
+- If I make the decision for a school dismissal, what else should I consider?
+- How much longer will society need to socially isolate
+- Define covid 18
+- will the virus continue to spread for a long time
+- how coronavirus will spread
+- how long can the coronavirus survive on surfaces
+- symptoms of coronavirus chicago
+- Should I practice social distancing
+- Can I get the virus from food
+- How is the corona virus being spread
+- Can my cat get the virus
+- I have read that CV is able to be contracted through the air, how far can it go in the air?
+- what is covid and corona
+- corona virus spread from animals
+- Who is most likely to catch the virus
+- Can you tell where I can get tested
+- how coronavirus symptoms start
+- what is coronavirus phase 3
+- What about pregnant women?
+- symptoms of coronavirus in newborns
+- Is water a possible source of infection in the transmission of SARS-CoV-2?
+- Will social distancing slow the spread of covid 19
+- What are symptoms of Covid 19
+- how long does the coronavirus live on surfaces
+- how long does the coronavirus stay on mail
+- what is coronavirus video
+- What are the symptoms for corona virus?
+- what is the coronavirus virus
+- symptoms of coronavirus vs flu
+- Are there confirmed cases in my neighborhood 
+- what is corona virus and how it started
+- Should the general population wear masks to protect themselves from COVID-19?
+- what us a coronavirus
+- how did coronavirus born
+- coronavirus are caused by
+- what are the symptoms?
+- can corona be transmitted through air
+- what is coronavirus symptoms
+- how long does the coronavirus live on a surface
+- Can the Covid survive in the air?
+- where can i get tested?
+- what is the corona virus mean
+- Should I wear a mask?
+- what treatments are available for covid-19?
+- symptoms of coronavirus from day 1
+- can coronavirus live on packages
+- Can CoVID-19 be caught from a person who has no symptoms?
+- Am I at risk of contracting COVID-19 infection in the EU?
+- Is staying at home mandatory?
+- where did coronavirus originated animal
+- coronavirus affect country name
+- how long will coronavirus pandemic last in us
+- How does it spread ?
+- How do you test a patient for SARS-CoV-2, the virus that causes COVID-19?
+- Covid 19 cases in my neighbourhood are rising, what do I do?
+- What does Corona and Covid mean?
+- WHO has declared a pandemic. What does it mean for Germany?
+- how long does coronavirus live on clothes
+- can coronavirus live on frozen food
+- I have a mild cough and not the continuous one. And symptoms of fever like burning eyes
+- How many are affected?
+- What can I do to protect myself from corona
+- where was the corona virus started
+- what is coronavirus come from
+- Should we avoid online shopping as it puts workings and delivery people at risk
+- How many people have been infected in the EU/EEA?
+- Should travelers wear facemasks?
+- what is coronavirus and what does it do
+- How contagious is the virus?
+- Should I stay home?
+- What do Funeral Home Workers need to know about handling decedents who had COVID-19?
+- what is novel coronavirus 2019 ncov
+- How long does the virus live on surfaces
+- what states is the coronavirus in the usa
+- coronavirus come from bat soup
+- how coronavirus is transmitted from animals to humans
+- What is the risk of infection when traveling by plane?
+- Where did COVID 19 come from
+- what is social distancing?
+- Get I get infected from a dog?
+- coronavirus is not new
+- how coronavirus spread in hindi
+- Can it survives on food?
+- Who is at higher risk for serious illness from COVID-19?
+
+
+## intent:url
+- can i have the url
+- can i have the link
+- is there a url
+- is there a link
+- what is the link
+- what is the url
+
+## intent:absum
+- can i have a summary of the text
+- what is the summary of this
+- can i get a summary
+- how would you summarize the lesson
+- can you summarize this
+
+## synonym:summary
+- summarize
+- breakdown
+
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?

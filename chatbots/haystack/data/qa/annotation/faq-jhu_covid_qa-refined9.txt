@@ -1,0 +1,3 @@
+:QUESTIONS: 15, 43, 90, 254, 339, 369, 646, 747, 761, 994, 1320, 1388 :QUESTIONS:
+1. self-isolate for 14 days after returning from travel  2. monitor for symptoms of COVID-19 (fever, cough or difficulty breathing) for 14 days after returning to Canada 3. wash your hands often for 20 seconds and cough or sneeze into a tissue or the bend of your arm, not your hand
+

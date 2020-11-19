@@ -1,0 +1,3 @@
+:QUESTIONS: 1293 :QUESTIONS:
+Preliminary findings indicate that the mortality rate for COVID-19 is 20-30 per thousand people diagnosed. This is significantly less than the 2003 SARS outbreak. However, it is much higher than the mortality rate for seasonal influenza.
+

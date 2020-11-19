@@ -1,0 +1,3 @@
+:QUESTIONS: 353 :QUESTIONS:
+Not all diseases that follow a SARS-CoV-2 infection take a serious course and require treatment. Even in most of the cases reported from China, disease progression was mild.  Treatment of the infection depends on the severity of the disease presentation (e.g administering oxygen, maintaining fluid balance, if necessary administering antibiotics to combat bacterial co-infections) and also includes the treatment of relevant underlying chronic illnesses. A specific treatment, in other words, one that is directed at the new coronavirus itself, is currently not yet available.. 
+

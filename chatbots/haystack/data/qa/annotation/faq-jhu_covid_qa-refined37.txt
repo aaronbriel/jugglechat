@@ -1,0 +1,3 @@
+:QUESTIONS: 64, 141, 278, 511, 582, 630, 636, 846, 1030, 1088, 1410, 1418, 1464, 1485, 1504 :QUESTIONS:
+The risk is quite low for one to become infected with COVID19 through mail/packages - especially because it takes time for mail to be sent (over a period of a few days or weeks). However, it is still recommended practice to wash hands with soap and water or with an alcohol (at least 60%) based hand sanitizer. For packages, open and discard of them outside of the home if possible, and wash hands thoroughly.
+

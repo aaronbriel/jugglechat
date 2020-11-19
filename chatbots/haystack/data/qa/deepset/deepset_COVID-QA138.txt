@@ -1,0 +1,759 @@
+ 
+
+1918 Influenza: the Mother of All Pandemics
+
+Jeffery K. Taubenberger" and David M. Morens1-
+
+The “Spanish" influenza pandemic of 1918—1919,
+which caused :50 million deaths worldwide, remains an
+ominous warning to public health. Many questions about its
+origins, its unusual epidemiologic features, and the basis of
+its pathogenicity remain unanswered. The public health
+implications of the pandemic therefore remain in doubt
+even as we now grapple with the feared emergence of a
+pandemic caused by H5N1 or other virus. However, new
+information about the 1918 virus is emerging, for example,
+sequencing of the entire genome from archival autopsy tis-
+sues. But, the viral genome alone is unlikely to provide
+answers to some critical questions. Understanding the
+1918 pandemic and its implications for future pandemics
+requires careful experimentation and in-depth historical
+analysis.
+
+ 
+
+”Curiouser and curiouser/ ” criedAlice
+Lewis Carroll, Alice’s Adventures in Wonderland, 1865
+
+An estimated one third of the world’s population (or
+z500 million persons) were infected and had clinical-
+ly apparent illnesses (1,2) during the 191871919 inﬂuenza
+pandemic. The disease was exceptionally severe. Case-
+fatality rates were >2.5%, compared to <0.1% in other
+inﬂuenza pandemics (3,4). Total deaths were estimated at
+z50 million (577) and were arguably as high as 100 mil-
+lion (7).
+
+The impact of this pandemic was not limited to
+191871919. All inﬂuenza A pandemics since that time, and
+indeed almost all cases of inﬂuenza A worldwide (except-
+ing human infections from avian Viruses such as H5N1 and
+H7N7), have been caused by descendants of the 1918
+Virus, including “drifted” H1N1 Viruses and reassorted
+H2N2 and H3N2 Viruses. The latter are composed of key
+genes from the 1918 Virus, updated by subsequently-incor—
+porated avian inﬂuenza genes that code for novel surface
+
+ 
+
+*Armed Forces Institute of Pathology, Rockville, Maryland, USA;
+and TNational Institutes of Health, Bethesda, Maryland, USA
+
+proteins, making the 1918 Virus indeed the “mother” of all
+pandemics.
+
+In 1918, the cause of human inﬂuenza and its links to
+avian and swine inﬂuenza were unknown. Despite clinical
+and epidemiologic similarities to inﬂuenza pandemics of
+1889, 1847, and even earlier, many questioned whether
+such an explosively fatal disease could be inﬂuenza at all.
+That question did not begin to be resolved until the 1930s,
+when closely related inﬂuenza Viruses (now known to be
+H1N1 Viruses) were isolated, ﬁrst from pigs and shortly
+thereafter from humans. Seroepidemiologic studies soon
+linked both of these viruses to the 1918 pandemic (8).
+Subsequent research indicates that descendants of the 1918
+Virus still persists enzootically in pigs. They probably also
+circulated continuously in humans, undergoing gradual
+antigenic drift and causing annual epidemics, until the
+1950s. With the appearance of a new H2N2 pandemic
+strain in 1957 (“Asian ﬂu”), the direct H1N1 Viral descen-
+dants 0f the 1918 pandemic strain disappeared from human
+circulation entirely, although the related lineage persisted
+enzootically in pigs. But in 1977, human H1N1 Viruses
+suddenly “reemerged” from a laboratory freezer (9). They
+continue to circulate endemically and epidemically.
+
+Thus in 2006, 2 major descendant lineages of the 1918
+H1N1 Virus, as well as 2 additional reassortant lineages,
+persist naturally: a human epidemic/endemic H1N1 line-
+age, a porcine enzootic H1N1 lineage (so-called classic
+swine ﬂu), and the reassorted human H3N2 Virus lineage,
+which like the human H1N1 Virus, has led to a porcine
+H3N2 lineage. None of these Viral descendants, however,
+approaches the pathogenicity of the 1918 parent Virus.
+Apparently, the porcine H1N1 and H3N2 lineages uncom-
+monly infect humans, and the human H1N1 and H3N2 lin-
+eages have both been associated with substantially lower
+rates ofillness and death than the virus of 1918. In fact, cur-
+rent H1N1 death rates are even lower than those for H3N2
+lineage strains (prevalent from 1968 until the present).
+H1N1 Viruses descended from the 1918 strain, as well as 
+H3N2 Viruses, have now been cocirculating worldwide for
+29 years and show little evidence of imminent extinction.
+
+Trying To Understand What Happened
+
+By the early 1990s, 75 years of research had failed to
+answer a most basic question about the 1918 pandemic:
+why was it so fatal? No Virus from 1918 had been isolated,
+but all of its apparent descendants caused substantially
+milder human disease. Moreover, examination of mortality
+data from the 1920s suggests that within a few years after
+1918, inﬂuenza epidemics had settled into a pattern of
+annual epidemicity associated with strain drifting and sub-
+stantially lowered death rates. Did some critical Viral genet-
+ic event produce a 1918 Virus of remarkable pathogenicity
+and then another critical genetic event occur soon after the
+1918 pandemic to produce an attenuated H1N1 Virus?
+
+In 1995, a scientiﬁc team identiﬁed archival inﬂuenza
+autopsy materials collected in the autumn of 1918 and
+began the slow process of sequencing small Viral RNA
+fragments to determine the genomic structure of the
+causative inﬂuenza Virus (10). These efforts have now
+determined the complete genomic sequence of 1 Virus and
+partial sequences from 4 others. The primary data from the
+above studies (11717) and a number of reviews covering
+different aspects of the 1918 pandemic have recently been
+published ([8720) and conﬁrm that the 1918 Virus is the
+likely ancestor of all 4 of the human and swine H1N1 and
+H3N2 lineages, as well as the “extinct” H2N2 lineage. No
+known mutations correlated with high pathogenicity in
+other human or animal inﬂuenza Viruses have been found
+in the 1918 genome, but ongoing studies to map Virulence
+factors are yielding interesting results. The 1918 sequence
+data, however, leave unanswered questions about the ori-
+gin of the Virus (19) and about the epidemiology of the
+pandemic.
+
+When and Where Did the 1918 Inﬂuenza
+Pandemic Arise?
+
+Before and after 1918, most inﬂuenza pandemics
+developed in Asia and spread from there to the rest of the
+world. Confounding deﬁnite assignment of a geographic
+point of origin, the 1918 pandemic spread more or less
+simultaneously in 3 distinct waves during an z12-month
+period in 191871919, in Europe, Asia, and North America
+(the ﬁrst wave was best described in the United States in
+March 1918). Historical and epidemiologic data are inade-
+quate to identify the geographic origin of the Virus (21),
+and recent phylogenetic analysis of the 1918 Viral genome
+does not place the Virus in any geographic context ([9).
+
+Although in 1918 inﬂuenza was not a nationally
+reportable disease and diagnostic criteria for inﬂuenza and
+pneumonia were vague, death rates from inﬂuenza and
+pneumonia in the United States had risen sharply in 1915
+and 1916 because of a major respiratory disease epidemic
+beginning in December 1915 (22). Death rates then dipped
+slightly in 1917. The ﬁrst pandemic inﬂuenza wave
+appeared in the spring of 1918, followed in rapid succes-
+sion by much more fatal second and third waves in the fall
+and winter of 191871919, respectively (Figure 1). Is it pos-
+sible that a poorly-adapted H1N1 Virus was already begin-
+ning to spread in 1915, causing some serious illnesses but
+not yet sufﬁciently ﬁt to initiate a pandemic? Data consis-
+tent with this possibility were reported at the time from
+European military camps (23), but a counter argument is
+that if a strain with a new hemagglutinin (HA) was caus-
+ing enough illness to affect the US national death rates
+from pneumonia and inﬂuenza, it should have caused a
+pandemic sooner, and when it eventually did, in 1918,
+many people should have been immune or at least partial-
+ly immunoprotected. “Herald” events in 1915, 1916, and
+possibly even in early 1918, if they occurred, would be dif-
+ﬁcult to identify.
+
+The 1918 inﬂuenza pandemic had another unique fea-
+ture, the simultaneous (or nearly simultaneous) infection
+of humans and swine. The Virus of the 1918 pandemic like-
+ly expressed an antigenically novel subtype to which most
+humans and swine were immunologically naive in 1918
+(12,20). Recently published sequence and phylogenetic
+analyses suggest that the genes encoding the HA and neu-
+raminidase (NA) surface proteins of the 1918 Virus were
+derived from an avianlike inﬂuenza Virus shortly before
+the start of the pandemic and that the precursor Virus had
+not circulated widely in humans or swine in the few
+decades before (12,15, 24). More recent analyses of the
+other gene segments of the Virus also support this conclu-
+sion. Regression analyses of human and swine inﬂuenza
+sequences obtained from 1930 to the present place the ini-
+tial circulation of the 1918 precursor Virus in humans at
+approximately 191571918 (20). Thus, the precursor was
+probably not circulating widely in humans until shortly
+before 1918, nor did it appear to have jumped directly
+from any species of bird studied to date (19). In summary,
+its origin remains puzzling.
+
+Were the 3 Waves in 1918—1 919 Caused
+by the Same Virus? If So, How and Why?
+Historical records since the 16th century suggest that
+new inﬂuenza pandemics may appear at any time of year,
+not necessarily in the familiar annual winter patterns of
+interpandemic years, presumably because newly shifted
+inﬂuenza Viruses behave differently when they ﬁnd a uni-
+versal or highly susceptible human population. Thereafter,
+confronted by the selection pressures of population immu-
+nity, these pandemic Viruses begin to drift genetically and
+eventually settle into a pattern of annual epidemic recur-
+rences caused by the drifted Virus variants.
+
+Figure 1. Three pandemic waves: weekly combined inﬂuenza and
+pneumonia mortality, United Kingdom, 1918—1919 (21).
+
+In the 1918-1919 pandemic, a ﬁrst or spring wave
+began in March 1918 and spread unevenly through the
+United States, Europe, and possibly Asia over the next 6
+months (Figure 1). Illness rates were high, but death rates
+in most locales were not appreciably above normal. A sec-
+ond or fall wave spread globally from September to
+November 1918 and was highly fatal. In many nations, a
+third wave occurred in early 1919 (21). Clinical similari-
+ties led contemporary observers to conclude initially that
+they were observing the same disease in the successive
+waves. The milder forms of illness in all 3 waves were
+identical and typical of inﬂuenza seen in the 1889 pandem-
+ic and in prior interpandemic years. In retrospect, even the
+rapid progressions from uncomplicated inﬂuenza infec-
+tions to fatal pneumonia, a hallmark of the 191871919 fall
+and winter waves, had been noted in the relatively few
+severe spring wave cases. The differences between the
+waves thus seemed to be primarily in the much higher fre-
+quency of complicated, severe, and fatal cases in the last 2
+waves.
+
+But 3 extensive pandemic waves of inﬂuenza within 1
+year, occurring in rapid succession, with only the briefest
+of quiescent intervals between them, was unprecedented.
+The occurrence, and to some extent the severity, of recur-
+rent annual outbreaks, are driven by Viral antigenic drift,
+with an antigenic variant Virus emerging to become domi-
+nant approximately every 2 to 3 years. Without such drift,
+circulating human inﬂuenza Viruses would presumably
+disappear once herd immunity had reached a critical
+threshold at which further Virus spread was sufﬁciently
+limited. The timing and spacing of inﬂuenza epidemics in
+interpandemic years have been subjects of speculation for
+decades. Factors believed to be responsible include partial
+herd immunity limiting Virus spread in all but the most
+favorable circumstances, which include lower environ-
+mental temperatures and human nasal temperatures (bene-
+ﬁcial to thermolabile Viruses such as inﬂuenza), optimal
+humidity, increased crowding indoors, and imperfect ven-
+tilation due to closed windows and suboptimal airﬂow.
+
+However, such factors cannot explain the 3 pandemic
+waves of 1918-1919, which occurred in the spring-sum-
+mer, summer—fall, and winter (of the Northern
+Hemisphere), respectively. The ﬁrst 2 waves occurred at a
+time of year normally unfavorable to inﬂuenza Virus
+spread. The second wave caused simultaneous outbreaks
+in the Northern and Southern Hemispheres from
+September to November. Furthermore, the interwave peri-
+ods were so brief as to be almost undetectable in some
+locales. Reconciling epidemiologically the steep drop in
+cases in the ﬁrst and second waves with the sharp rises in
+cases of the second and third waves is difﬁcult. Assuming
+even transient postinfection immunity, how could suscep-
+tible persons be too few to sustain transmission at 1 point,
+and yet enough to start a new explosive pandemic wave a
+few weeks later? Could the Virus have mutated profoundly
+and almost simultaneously around the world, in the short
+periods between the successive waves? Acquiring Viral
+drift sufﬁcient to produce new inﬂuenza strains capable of
+escaping population immunity is believed to take years of
+global circulation, not weeks of local circulation. And hav-
+ing occurred, such mutated Viruses normally take months
+to spread around the world.
+
+At the beginning of other “off season” inﬂuenza pan-
+demics, successive distinct waves within a year have not
+been reported. The 1889 pandemic, for example, began in
+the late spring of 1889 and took several months to spread
+throughout the world, peaking in northern Europe and the
+United States late in 1889 or early in 1890. The second
+recurrence peaked in late spring 1891 (more than a year
+after the ﬁrst pandemic appearance) and the third in early
+1892 (21 ). As was true for the 1918 pandemic, the second
+1891 recurrence produced of the most deaths. The 3 recur-
+rences in 1889-1892, however, were spread over >3 years,
+in contrast to 191871919, when the sequential waves seen
+in individual countries were typically compressed into
+z879 months.
+
+What gave the 1918 Virus the unprecedented ability to
+generate rapidly successive pandemic waves is unclear.
+Because the only 1918 pandemic Virus samples we have
+yet identiﬁed are from second-wave patients ([6), nothing
+can yet be said about whether the ﬁrst (spring) wave, or for
+that matter, the third wave, represented circulation of the
+same Virus or variants of it. Data from 1918 suggest that
+persons infected in the second wave may have been pro-
+tected from inﬂuenza in the third wave. But the few data
+bearing on protection during the second and third waves
+after infection in the ﬁrst wave are inconclusive and do lit-
+tle to resolve the question of whether the ﬁrst wave was
+caused by the same Virus or whether major genetic evolu-
+tionary events were occurring even as the pandemic
+exploded and progressed. Only inﬂuenza RNAipositive
+human samples from before 1918, and from all 3 waves,
+can answer this question.
+
+What Was the Animal Host
+Origin of the Pandemic Virus?
+
+Viral sequence data now suggest that the entire 1918
+Virus was novel to humans in, or shortly before, 1918, and
+that it thus was not a reassortant Virus produced from old
+existing strains that acquired 1 or more new genes, such as
+those causing the 1957 and 1968 pandemics. On the con-
+trary, the 1918 Virus appears to be an avianlike inﬂuenza
+Virus derived in toto from an unknown source (17,19), as
+its 8 genome segments are substantially different from
+contemporary avian inﬂuenza genes. Inﬂuenza Virus gene
+sequences from a number ofﬁxed specimens ofwild birds
+collected circa 1918 show little difference from avian
+Viruses isolated today, indicating that avian Viruses likely
+undergo little antigenic change in their natural hosts even
+over long periods (24,25).
+
+For example, the 1918 nucleoprotein (NP) gene
+sequence is similar to that ofviruses found in wild birds at
+the amino acid level but very divergent at the nucleotide
+level, which suggests considerable evolutionary distance
+between the sources of the 1918 NP and of currently
+sequenced NP genes in wild bird strains (13,19). One way
+of looking at the evolutionary distance of genes is to com-
+pare ratios of synonymous to nonsynonymous nucleotide
+substitutions. A synonymous substitution represents a
+silent change, a nucleotide change in a codon that does not
+result in an amino acid replacement. A nonsynonymous
+substitution is a nucleotide change in a codon that results
+in an amino acid replacement. Generally, a Viral gene sub-
+jected to immunologic drift pressure or adapting to a new
+host exhibits a greater percentage of nonsynonymous
+mutations, while a Virus under little selective pressure
+accumulates mainly synonymous changes. Since little or
+no selection pressure is exerted on synonymous changes,
+they are thought to reﬂect evolutionary distance.
+
+Because the 1918 gene segments have more synony-
+mous changes from known sequences of wild bird strains
+than expected, they are unlikely to have emerged directly
+from an avian inﬂuenza Virus similar to those that have
+been sequenced so far. This is especially apparent when
+one examines the differences at 4-fold degenerate codons,
+the subset of synonymous changes in which, at the third
+codon position, any of the 4 possible nucleotides can be
+substituted without changing the resulting amino acid. At
+the same time, the 1918 sequences have too few amino acid
+diﬁerences from those of wild-bird strains to have spent
+many years adapting only in a human or swine intermedi-
+ate host. One possible explanation is that these unusual
+gene segments were acquired from a reservoir of inﬂuenza
+Virus that has not yet been identiﬁed or sampled. All of
+these ﬁndings beg the question: where did the 1918 Virus
+come from?
+
+In contrast to the genetic makeup of the 1918 pandem-
+ic Virus, the novel gene segments of the reassorted 1957
+and 1968 pandemic Viruses all originated in Eurasian avian
+Viruses (26); both human Viruses arose by the same mech-
+anismireassortment of a Eurasian wild waterfowl strain
+with the previously circulating human H1N1 strain.
+Proving the hypothesis that the Virus responsible for the
+1918 pandemic had a markedly different origin requires
+samples of human inﬂuenza strains circulating before
+1918 and samples of inﬂuenza strains in the wild that more
+closely resemble the 1918 sequences.
+
+What Was the Biological Basis for
+1918 Pandemic Virus Pathogenicity?
+
+Sequence analysis alone does not oﬁer clues to the
+pathogenicity of the 1918 Virus. A series of experiments
+are under way to model Virulence in Vitro and in animal
+models by using Viral constructs containing 1918 genes
+produced by reverse genetics.
+
+Inﬂuenza Virus infection requires binding of the HA
+protein to sialic acid receptors on host cell surface. The HA
+receptor-binding site conﬁguration is different for those
+inﬂuenza Viruses adapted to infect birds and those adapted
+to infect humans. Inﬂuenza Virus strains adapted to birds
+preferentially bind sialic acid receptors with 01 (273) linked
+sugars (27729). Human-adapted inﬂuenza Viruses are
+thought to preferentially bind receptors with 01 (2%) link-
+ages. The switch from this avian receptor conﬁguration
+requires of the Virus only 1 amino acid change (30), and
+the HAs of all 5 sequenced 1918 Viruses have this change,
+which suggests that it could be a critical step in human host
+adaptation. A second change that greatly augments Virus
+binding to the human receptor may also occur, but only 3
+of5 1918 HA sequences have it (16).
+
+This means that at least 2 H1N1 receptor-binding vari-
+ants cocirculated in 1918: 1 with high—afﬁnity binding to
+the human receptor and 1 with mixed-afﬁnity binding to
+both avian and human receptors. No geographic or chrono-
+logic indication eXists to suggest that one of these variants
+was the precursor of the other, nor are there consistent dif-
+ferences between the case histories or histopathologic fea-
+tures of the 5 patients infected with them. Whether the
+Viruses were equally transmissible in 1918, whether they
+had identical patterns of replication in the respiratory tree,
+and whether one or both also circulated in the ﬁrst and
+third pandemic waves, are unknown.
+In a series of in Vivo experiments, recombinant inﬂuen-
+za Viruses containing between 1 and 5 gene segments of
+the 1918 Virus have been produced. Those constructs
+bearing the 1918 HA and NA are all highly pathogenic in
+
+mice (31). Furthermore, expression microarray analysis
+performed on whole lung tissue of mice infected with the
+1918 HA/NA recombinant showed increased upregulation
+of genes involved in apoptosis, tissue injury, and oxidative
+damage (32). These ﬁndings are unexpected because the
+Viruses with the 1918 genes had not been adapted to mice;
+control experiments in which mice were infected with
+modern human Viruses showed little disease and limited
+Viral replication. The lungs of animals infected with the
+1918 HA/NA construct showed bronchial and alveolar
+epithelial necrosis and a marked inﬂammatory inﬁltrate,
+which suggests that the 1918 HA (and possibly the NA)
+contain Virulence factors for mice. The Viral genotypic
+basis of this pathogenicity is not yet mapped. Whether
+pathogenicity in mice effectively models pathogenicity in
+humans is unclear. The potential role of the other 1918 pro-
+teins, singularly and in combination, is also unknown.
+Experiments to map further the genetic basis of Virulence
+of the 1918 Virus in various animal models are planned.
+These experiments may help deﬁne the Viral component to
+the unusual pathogenicity of the 1918 Virus but cannot
+address whether speciﬁc host factors in 1918 accounted for
+unique inﬂuenza mortality patterns.
+
+Why Did the 1918 Virus Kill So Many Healthy
+Young Ad ults?
+
+The curve of inﬂuenza deaths by age at death has histor-
+ically, for at least 150 years, been U-shaped (Figure 2),
+exhibiting mortality peaks in the very young and the very
+old, with a comparatively low frequency of deaths at all
+ages in between. In contrast, age-speciﬁc death rates in the
+1918 pandemic exhibited a distinct pattern that has not been
+documented before or since: a “W—shaped” curve, similar to
+the familiar U-shaped curve but with the addition of a third
+(middle) distinct peak of deaths in young adults z20410
+years of age. Inﬂuenza and pneumonia death rates for those
+1534 years of age in 191871919, for example, were
+20 times higher than in previous years (35). Overall, near-
+ly half of the inﬂuenza—related deaths in the 1918 pandem-
+ic were in young adults 20410 years of age, a phenomenon
+unique to that pandemic year. The 1918 pandemic is also
+unique among inﬂuenza pandemics in that absolute risk of
+inﬂuenza death was higher in those <65 years of age than in
+those >65; persons <65 years of age accounted for >99% of
+all excess inﬂuenza—related deaths in 191871919. In com-
+parison, the <65-year age group accounted for 36% of all
+excess inﬂuenza—related deaths in the 1957 H2N2 pandem-
+ic and 48% in the 1968 H3N2 pandemic (33).
+A sharper perspective emerges when 1918 age-speciﬁc
+inﬂuenza morbidity rates (21) are used to adj ust the W-
+shaped mortality curve (Figure 3, panels, A, B, and C
+[35,37]). Persons 65 years of age in 1918 had a dispro-
+portionately high inﬂuenza incidence (Figure 3, panel A).
+
+But even after adjusting age-speciﬁc deaths by age-specif—
+ic clinical attack rates (Figure 3, panel B), a W—shaped
+curve with a case-fatality peak in young adults remains and
+is signiﬁcantly different from U-shaped age-speciﬁc case-
+fatality curves typically seen in other inﬂuenza years, e.g.,
+192871929 (Figure 3, panel C). Also, in 1918 those 5 to 14
+years of age accounted for a disproportionate number of
+inﬂuenza cases, but had a much lower death rate from
+inﬂuenza and pneumonia than other age groups. To explain
+this pattern, we must look beyond properties of the Virus to
+host and environmental factors, possibly including
+immunopathology (e.g., antibody-dependent infection
+enhancement associated with prior Virus exposures [38])
+and exposure to risk cofactors such as coinfecting agents,
+medications, and environmental agents.
+
+One theory that may partially explain these ﬁndings is
+that the 1918 Virus had an intrinsically high Virulence, tem-
+pered only in those patients who had been born before
+1889, e.g., because of exposure to a then-circulating Virus
+capable of providing partial immunoprotection against the
+1918 Virus strain only in persons old enough (>35 years) to
+have been infected during that prior era (35). But this the-
+ory would present an additional paradox: an obscure pre-
+cursor Virus that left no detectable trace today would have
+had to have appeared and disappeared before 1889 and
+then reappeared more than 3 decades later.
+
+Epidemiologic data on rates of clinical inﬂuenza by
+age, collected between 1900 and 1918, provide good evi-
+dence for the emergence of an antigenically novel inﬂuen-
+za Virus in 1918 (21). Jordan showed that from 1900 to
+1917, the 5- to 15-year age group accounted for 11% of
+total inﬂuenza cases, while the >65-year age group
+accounted for 6 % of inﬂuenza cases. But in 1918, cases in
+
+Figure 2. “U-” and “W—” shaped combined inﬂuenza and pneumo-
+nia mortality, by age at death, per 100,000 persons in each age
+group, United States, 1911—1918. Influenza- and pneumonia-
+speciﬁc death rates are plotted for the interpandemic years
+1911—1917 (dashed line) and for the pandemic year 1918 (solid
+line) (33,34).
+
+Incidence male per 1 .nao persunslage group
+Mortality per 1.000 persunslige group
+
++ Case—fataiity rale 1918—1919 
+
+Case fatalily par 100 persons ill wilh P&I pel age group
+
+Figure 3. Influenza plus pneumonia (P&l) (combined) age-specific
+incidence rates per 1,000 persons per age group (panel A), death
+rates per 1,000 persons, ill and well combined (panel B), and
+case-fatality rates (panel C, solid line), US Public Health Service
+house-to-house surveys, 8 states, 1918 (36). A more typical curve
+of age-specific influenza case-fatality (panel C, dotted line) is
+taken from US Public Health Service surveys during 1928—1929
+(37).
+
+the 5 to 15-year-old group jumped to 25% of inﬂuenza
+cases (compatible with exposure to an antigenically novel
+Virus strain), while the >65-year age group only accounted
+for 0.6% of the inﬂuenza cases, ﬁndings consistent with
+previously acquired protective immunity caused by an
+identical or closely related Viral protein to which older per-
+sons had once been exposed. Mortality data are in accord.
+In 1918, persons >75 years had lower inﬂuenza and
+
+pneumonia case-fatality rates than they had during the
+prepandemic period of 191171917. At the other end of the
+age spectrum (Figure 2), a high proportion of deaths in
+infancy and early childhood in 1918 mimics the age pat-
+tern, if not the mortality rate, of other inﬂuenza pandemics.
+
+Could a 1918-like Pandemic Appear Again?
+If So, What Could We Do About It?
+
+In its disease course and pathologic features, the 1918
+pandemic was different in degree, but not in kind, from
+previous and subsequent pandemics. Despite the extraordi-
+nary number of global deaths, most inﬂuenza cases in
+1918 (>95% in most locales in industrialized nations) were
+mild and essentially indistinguishable from inﬂuenza cases
+today. Furthermore, laboratory experiments with recombi-
+nant inﬂuenza Viruses containing genes from the 1918
+Virus suggest that the 1918 and 1918-like Viruses would be
+as sensitive as other typical Virus strains to the Food and
+Drug Administrationiapproved antiinﬂuenza drugs riman-
+tadine and oseltamivir.
+
+However, some characteristics of the 1918 pandemic
+appear unique: most notably, death rates were 5 7 20 times
+higher than expected. Clinically and pathologically, these
+high death rates appear to be the result of several factors,
+including a higher proportion of severe and complicated
+infections of the respiratory tract, rather than involvement
+of organ systems outside the normal range of the inﬂuenza
+Virus. Also, the deaths were concentrated in an unusually
+young age group. Finally, in 1918, 3 separate recurrences
+of inﬂuenza followed each other with unusual rapidity,
+resulting in 3 explosive pandemic waves within a year’s
+time (Figure 1). Each of these unique characteristics may
+reﬂect genetic features of the 1918 Virus, but understand-
+ing them will also require examination of host and envi-
+ronmental factors.
+
+Until we can ascertain which of these factors gave rise
+to the mortality patterns observed and learn more about the
+formation of the pandemic, predictions are only educated
+guesses. We can only conclude that since it happened once,
+analogous conditions could lead to an equally devastating
+pandemic.
+
+Like the 1918 Virus, H5N1 is an avian Virus (39),
+though a distantly related one. The evolutionary path that
+led to pandemic emergence in 1918 is entirely unknown,
+but it appears to be different in many respects from the cur-
+rent situation with H5N1. There are no historical data,
+either in 1918 or in any other pandemic, for establishing
+that a pandemic “precursor” Virus caused a highly patho-
+genic outbreak in domestic poultry, and no highly patho-
+genic avian inﬂuenza (HPAI) Virus, including H5N1 and a
+number of others, has ever been known to cause a major
+human epidemic, let alone a pandemic. While data bearing
+on inﬂuenza Virus human cell adaptation (e.g., receptor
+binding) are beginning to be understood at the molecular
+level, the basis for Viral adaptation to efﬁcient human-to-
+human spread, the chief prerequisite for pandemic emer-
+gence, is unknown for any inﬂuenza Virus. The 1918 Virus
+acquired this trait, but we do not know how, and we cur-
+rently have no way of knowing whether H5N1 Viruses are
+now in a parallel process of acquiring human-to-human
+transmissibility. Despite an explosion of data on the 1918
+Virus during the past decade, we are not much closer to
+understanding pandemic emergence in 2006 than we were
+in understanding the risk of H1N1 “swine ﬂu” emergence
+in 1976.
+
+Even with modern antiviral and antibacterial drugs,
+vaccines, and prevention knowledge, the return of a pan-
+demic Virus equivalent in pathogenicity to the Virus of
+1918 would likely kill >100 million people worldwide. A
+pandemic Virus with the (alleged) pathogenic potential of
+some recent H5N1 outbreaks could cause substantially
+more deaths.
+
+Whether because of Viral, host or environmental fac-
+tors, the 1918 Virus causing the ﬁrst or ‘spring’ wave was
+not associated with the exceptional pathogenicity of the
+second (fall) and third (winter) waves. Identiﬁcation of an
+inﬂuenza RNA-positive case from the ﬁrst wave could
+point to a genetic basis for Virulence by allowing differ-
+ences in Viral sequences to be highlighted. Identiﬁcation of
+pre-1918 human inﬂuenza RNA samples would help us
+understand the timing of emergence of the 1918 Virus.
+Surveillance and genomic sequencing of large numbers of
+animal inﬂuenza Viruses will help us understand the genet-
+ic basis of host adaptation and the extent of the natural
+reservoir of inﬂuenza Viruses. Understanding inﬂuenza
+pandemics in general requires understanding the 1918 pan-
+demic in all its historical, epidemiologic, and biologic
+aspects.
+
+Dr Taubenberger is chair of the Department of Molecular
+Pathology at the Armed Forces Institute of Pathology, Rockville,
+Maryland. His research interests include the molecular patho-
+physiology and evolution of inﬂuenza Viruses.
+
+Dr Morens is an epidemiologist with a long-standing inter-
+est in emerging infectious diseases, Virology, tropical medicine,
+and medical history. Since 1999, he has worked at the National
+Institute of Allergy and Infectious Diseases.
+
+References
+
+1. Frost WH. Statistics of inﬂuenza morbidity. Public Health Rep.
+19203558497.
+2. Bumet F, Clark E. Inﬂuenza: a survey ofthe last 50 years in the light
+of modern work on the Virus of epidemic inﬂuenza. Melbourne:
+MacMillan; 1942.
+3. Marks G, Beatty WK. Epidemics. New York: Scribners, 1976.
+4. Rosenau MJ, Last JM. Maxcy-Rosenau preventative medicine and
+public health. New York: Appleton-Century-Crofts; 1980.
+5. Crosby A. America’s forgotten pandemic. Cambridge (UK):
+Cambridge University Press;1989.
+6. Patterson KD, Pyle GF. The geography and mortality of the 1918
+influenza pandemic. Bull Hist Med. 1991;65:4–21.
+7. Johnson NPAS, Mueller J. Updating the accounts: global mortality of
+the 1918–1920 “Spanish” influenza pandemic. Bull Hist Med
+2002;76:105–15.
+8. Shope RE. The incidence of neutralizing antibodies for swine
+influenza virus in the sera of human beings of different ages. J Exp
+Med. 1936;63:669–84.
+9. Kendal AP, Noble GR, Skehel JJ, Dowdle WR. Antigenic similarity
+of influenza A (H1N1) viruses from epidemics in 1977–1978 to
+“Scandinavian” strains isolated in epidemics of 1950–1951. Virology.
+1978;89:632–6.
+10. Taubenberger JK, Reid AH, Krafft AE, Bijwaard KE, Fanning TG.
+Initial genetic characterization of the 1918 “Spanish” influenza virus.
+Science. 1997;275:1793–6.
+11. Basler CF, Reid AH, Dybing JK, Janczewski TA, Fanning TG, Zheng
+H, et al. Sequence of the 1918 pandemic influenza virus nonstructural gene (NS) segment and characterization of recombinant viruses
+bearing the 1918 NS genes. Proc Natl Acad Sci U S A
+2001;98:2746–51.
+12. Reid AH, Fanning TG, Hultin JV, Taubenberger JK. Origin and evolution of the 1918 “Spanish” influenza virus hemagglutinin gene.
+Proc Natl Acad Sci U S A 1999;96:1651–6.
+13. Reid AH, Fanning TG, Janczewski TA, Lourens RM, and
+Taubenberger JK. Novel origin of the 1918 pandemic influenza virus
+nucleoprotein gene segment. J Virol. 2004;78:12462–70.
+14. Reid AH, Fanning TG, Janczewski TA, McCall S, Taubenberger JK.
+Characterization of the 1918 “Spanish” influenza virus matrix gene
+segment. J Virol. 2002;76:10717–23.
+15. Reid AH, Fanning TG, Janczewski TA, Taubenberger JK.
+Characterization of the 1918 “Spanish” influenza virus neuraminidase gene. Proc Natl Acad Sci U S A 2000;97:6785–90.
+16. Reid AH, Janczewski TA, Lourens RM, Elliot AJ, Daniels RS, Berry
+CL, et al. 1918 influenza pandemic caused by highly conserved viruses with two receptor-binding variants. Emerg Infect Dis.
+2003;9:1249–53.
+17. Taubenberger JK, Reid AH, Lourens RM, Wang R, Jin G, Fanning
+TG. Characterization of the 1918 influenza virus polymerase genes.
+Nature. 2005;437:889–93.
+18. Reid AH, Taubenberger JK. The 1918 flu and other influenza pandemics: “over there” and back again. Lab Invest. 1999;79:95–101.
+19. Reid AH, Taubenberger JK, Fanning TG. Evidence of an absence: the
+genetic origins of the 1918 pandemic influenza virus. Nat Rev
+Microbiol. 2004;2:909–14.
+20. Taubenberger JK, Reid AH, Fanning TG. The 1918 influenza virus: a
+killer comes into view. Virology. 2000;274:241–5.
+21. Jordan E. Epidemic influenza: a survey. Chicago: American Medical
+Association, 1927.
+22. Capps J, Moody A. The recent epidemic of grip. JAMA.
+1916;67:1349–50.
+33. Oxford JS, Sefton A, Jackson R, Innes W, Daniels RS, Johnson NP.
+World War I may have allowed the emergence of “Spanish” influenza. Lancet Infect Dis. 2002;2:111–4.
+24. Fanning TG, Slemons RD, Reid AH, Janczewski TA, Dean J,
+Taubenberger JK. 1917 avian influenza virus sequences suggest that
+the 1918 pandemic virus did not acquire its hemagglutinin directly
+from birds. J Virol. 2002;76:7860–2.
+25. Reid AH, Fanning TG, Slemons RD, Janczewski TA, Dean J,
+Taubenberger JK. Relationship of pre-1918 avian influenza HA and
+NP sequences to subsequent avian influenza strains. Avian Dis.
+2003;47:921–5.
+26. Bean W, Schell M, Katz J, Kawaoka Y, Naeve C, Gorman O, et al.
+Evolution of the H3 influenza virus hemagglutinin from human and
+nonhuman hosts. J Virol. 1992;66:1129–38.
+27. Weis W, Brown JH, Cusack S, Paulson JC, Skehel JJ, Wiley DC.
+Structure of the influenza virus haemagglutinin complexed with its
+receptor, sialic acid. Nature. 1988;333:426–31.
+28. Gambaryan AS, Tuzikov AB, Piskarev VE, Yamnikova SS, Lvov DK,
+Robertson JS, et al. Specification of receptor-binding phenotypes of
+influenza virus isolates from different hosts using synthetic sialylglycopolymers: non-egg-adapted human H1 and H3 influenza A and
+influenza B viruses share a common high binding affinity for 6′-sialyl(N-acetyllactosamine). Virology. 1997;232: 345–50.
+29. Matrosovich M, Gambaryan A, Teneberg S, Piskarev VE, Yamnikova
+SS, Lvov DK, et al. Avian influenza A viruses differ from human
+viruses by recognition of sialyloigosaccharides and gangliosides and
+by a higher conservation of the HA receptor-binding site. Virology.
+1997;233:224–34.
+30. Glaser L, Stevens J, Zamarin D, Wilson IA, Garcia-Sastre A, Tumpey
+TM, et al. A single amino acid substitution in the 1918 influenza virus
+hemagglutinin changes the receptor binding specificity. J Virol.
+2005;79:11533–6.
+31. Kobasa D, Takada A, Shinya K, Hatta M, Halfmann P, Theriault S, et
+al. Enhanced virulence of influenza A viruses with the haemagglutinin of the 1918 pandemic virus. Nature. 2004;431:703–7.
+32. Kash JC, Basler CF, Garcia-Sastre A, Carter V, Billharz R, Swayne
+DE, et al. Global host immune response: pathogenesis and transcriptional profiling of type A influenza viruses expressing the hemagglutinin and neuraminidase genes from the 1918 pandemic virus. J Virol.
+2004;78:9499–511.
+33. Grove RD, Hetzel AM. Vital statistics rates in the United States:
+1940–1960. Washington: US Government Printing Office, 1968.
+34. Linder FE, Grove RD. Vital statistics rates in the United States:
+1900–1940. Washington: US Government Printing Office, 1943.
+35. Simonsen L, Clarke MJ, Schonberger LB, Arden NH, Cox NJ,
+Fukuda K. Pandemic versus epidemic influenza mortality: a pattern
+of changing age distribution. J Infect Dis 1998;178:53–60.
+36. Frost WH. The epidemiology of influenza. Public Health Rep.
+1919;34:1823–61.
+37. Collins SD. Age and sex incidence of influenza and pneumonia morbidity and mortality in the epidemic of 1928-1929 with comparative
+data for the epidemic of 1918–1919. Public Health Rep.
+1931;46:1909–37.
+38. Majde JA. Influenza: Learn from the past. ASM News. 1996;62:514.
+39. Peiris JS, Yu WC, Leung CW, Cheung CY, Ng WF, Nicholls JM, et al.
+Re-emergence of fatal human influenza A subtype H5N1 disease.
+Lancet. 2004;363:617–9.
+
+Address for correspondence: Jeffery K. Taubenberger, Department of
+Molecular Pathology, Armed Forces Institute of Pathology, 1413
+Research Blvd, Bldg 101, Rm 1057, Rockville, MD 20850-3125, USA;
+fax. 301-295-9507; email: taubenberger@afip.osd.mil
+
+The opinions expressed by authors contributing to this journal do
+not necessarily reflect the opinions of the Centers for Disease
+Control and Prevention or the institutions with which the authors
+are affiliated.

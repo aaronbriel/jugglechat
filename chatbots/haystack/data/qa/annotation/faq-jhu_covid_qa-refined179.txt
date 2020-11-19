@@ -1,0 +1,3 @@
+:QUESTIONS: 811 :QUESTIONS:
+The Robert Koch Institute posts information for professionals (in German) online. Here you can find, among other things, a flowchart for doctors (in German) to assist them in clarifying suspected cases and deciding on the measures to be taken as well as Recommendations on hygienic measures when treating patients with a SARS-CoV-2 infection.. 
+

@@ -1,0 +1,3 @@
+:QUESTIONS: 53, 103, 146, 288, 416, 605, 897, 946, 1119, 1210, 1450, 1520 :QUESTIONS:
+While this virus did emerge from an animal source, it is only passing person-to-person currently. Currently, there is no evidence that shows a pet can become sick with COVID-19... but animals can spread disease to people, and people can spread disease to animals. So it is important to always wash your hands before and after interacting with animals.
+

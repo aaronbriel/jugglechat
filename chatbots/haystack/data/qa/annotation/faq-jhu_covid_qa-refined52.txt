@@ -1,0 +1,3 @@
+:QUESTIONS: 108, 145, 149, 174, 186, 213, 231, 424, 522, 622, 725, 741, 845, 871, 934, 963, 969, 999, 1045, 1047, 1201, 1312, 1314, 1392, 1483 :QUESTIONS:
+Most people with mild coronavirus illness will recover on their own. If you are concerend about your symptoms, you should self-monitor and consult your health care provider. They may recommend steps you can take to relieve symptoms. At this time, there is no vaccine for COVID-19 that is authorized to treat or protect against COVID-19. If you have received a flu vaccine, it will not protect against coronaviruses
+

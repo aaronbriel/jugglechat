@@ -1,0 +1,3 @@
+:QUESTIONS: 57, 203, 284, 697, 793, 878, 972, 988, 1010, 1416, 1454 :QUESTIONS:
+Older adults (people over the age of 65), those who live in nursing homes or long term care facilities, people who have underlying medical conditions (e.g. chronic lung disease, asthma, diabetes, sickle cell anemia, weakened immune system, chemotherapy, liver cirrhosis, etc), pregnant people, and incarcerated populations.
+

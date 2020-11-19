@@ -1,0 +1,3 @@
+:QUESTIONS: 993 :QUESTIONS:
+Although the transmission dynamics have yet to be determined, CDC currently recommends a cautious approach to persons under investigation (PUI) for COVID-19. Healthcare personnel evaluating PUI or providing care for patients with confirmed COVID-19 should use, Standard  Transmission-based Precautions. See the Interim Infection Prevention and Control Recommendations for Patients with Known or Patients Under Investigation for Coronavirus Disease 2019 (COVID-19) in Healthcare Settings.
+

@@ -1,0 +1,1 @@
+This interactive map by the Johns Hopkins University provides updated information by country about the number of confirmed Covid19 cases and deaths: https://coronavirus.jhu.edu/map.html.

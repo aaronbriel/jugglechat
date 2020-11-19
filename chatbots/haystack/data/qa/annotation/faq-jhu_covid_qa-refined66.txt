@@ -1,0 +1,3 @@
+:QUESTIONS: 170, 798, 868, 996, 1443 :QUESTIONS:
+They can, but it is not guaranteed; it depends on how the virus mutates over time.
+

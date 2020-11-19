@@ -1,0 +1,3 @@
+:QUESTIONS: 10, 109, 113, 198, 293, 345, 358, 569, 857, 905, 1156, 1163, 1326, 1351, 1387, 1514 :QUESTIONS:
+Yes, all states have reported COVID-19 infections. U.S. case counts are updated regularly Mondays through Fridays. Please click here to see current U.S. case count: https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html
+

@@ -1,0 +1,428 @@
+2020-11-19 14:44:33.205186: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer.so.6'; dlerror: libnvinfer.so.6: cannot open shared object file: No such file or directory
+2020-11-19 14:44:33.205288: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'libnvinfer_plugin.so.6'; dlerror: libnvinfer_plugin.so.6: cannot open shared object file: No such file or directory
+2020-11-19 14:44:33.205310: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:30] Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+11/19/2020 14:44:34 - INFO - farm.modeling.prediction_head -   Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex .
+
+ __          __  _                            _
+ \ \        / / | |                          | |
+  \ \  /\  / /__| | ___ ___  _ __ ___   ___  | |_ ___
+   \ \/  \/ / _ \ |/ __/ _ \| '_ ` _ \ / _ \ | __/ _ \
+    \  /\  /  __/ | (_| (_) | | | | | |  __/ | || (_) |
+     \/  \/ \___|_|\___\___/|_| |_| |_|\___|  \__\___/
+  ______      _____  __  __
+ |  ____/\   |  __ \|  \/  |              _.-^-._    .--.
+ | |__ /  \  | |__) | \  / |           .-'   _   '-. |__|
+ |  __/ /\ \ |  _  /| |\/| |          /     |_|     \|  |
+ | | / ____ \| | \ \| |  | |         /               \  |
+ |_|/_/    \_\_|  \_\_|  |_|        /|     _____     |\ |
+                                     |    |==|==|    |  |
+|---||---|---|---|---|---|---|---|---|    |--|--|    |  |
+|---||---|---|---|---|---|---|---|---|    |==|==|    |  |
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+11/19/2020 14:44:34 - INFO - farm.utils -   device: cuda n_gpu: 1, distributed training: False, automatic mixed precision training: None
+11/19/2020 14:44:34 - INFO - farm.modeling.tokenization -   Loading tokenizer of type 'RobertaTokenizer'
+11/19/2020 14:44:36 - INFO - farm.data_handler.data_silo -
+Loading data into the data silo ...
+              ______
+               |o  |   !
+   __          |:`_|---'-.
+  |__|______.-/ _ \-----.|
+ (o)(o)------'\ _ /     ( )
+
+11/19/2020 14:44:36 - INFO - farm.data_handler.data_silo -   Loading train set from: squad-jhu_covid_qa-refined-cleaned.json
+11/19/2020 14:44:36 - INFO - farm.data_handler.data_silo -   Got ya 7 parallel workers to convert 294 dictionaries to pytorch datasets (chunksize = 9)...
+11/19/2020 14:44:36 - INFO - farm.data_handler.data_silo -    0    0    0    0    0    0    0
+11/19/2020 14:44:36 - INFO - farm.data_handler.data_silo -   /w\  /w\  /w\  /w\  /w\  /w\  /w\
+11/19/2020 14:44:36 - INFO - farm.data_handler.data_silo -   /'\  / \  /'\  /'\  / \  / \  /'\
+11/19/2020 14:44:36 - INFO - farm.data_handler.data_silo -
+Preprocessing Dataset squad-jhu_covid_qa-refined-cleaned.json:   0%|                                  | 0/294 [00:00<?, ? Dicts/s]11/19/2020 14:44:37 - INFO - farm.data_handler.processor -   *** Show 2 random examples ***
+11/19/2020 14:44:37 - INFO - farm.data_handler.processor -
+
+      .--.        _____                       _
+    .'_\/_'.     / ____|                     | |
+    '. /\ .'    | (___   __ _ _ __ ___  _ __ | | ___
+      "||"       \___ \ / _` | '_ ` _ \| '_ \| |/ _ \
+       || /\     ____) | (_| | | | | | | |_) | |  __/
+    /\ ||//\)   |_____/ \__,_|_| |_| |_| .__/|_|\___|
+   (/\||/                             |_|
+______\||/___________________________________________
+
+ID: 0-0-0
+Clear Text:
+        passage_text: Share resources with the school community to help them understand COVID-19 and steps they can take to protect themselves:. . CDC's health communication resources. CDC information on stigma and COVID-19. CDC information on COVID-19 and children. CDC offers several free handwashing resources that include health promotion materials, information on proper handwashing technique, and tips for families to help children develop good handwashing habits.. Other health and education professional organizations may also have helpful resources your school can use or share, such as the American Academy of Pediatricsexternal icon. CDC's information on helping children cope with emergencies. Stigma prevention and facts about COVID-19
+
+
+        question_text: What resources does CDC have available to share with staff, students, and parents?
+        passage_id: 0
+        answers: [{'text': "CDC's health communication resources. CDC information on stigma and COVID-19. CDC information on COVID-19 and children. CDC offers several free handwashing resources", 'start_c': 125, 'end_c': 289}]
+Tokenized:
+        passage_start_t: 0
+        passage_tokens: ['Share', 'Ġresources', 'Ġwith', 'Ġthe', 'Ġschool', 'Ġcommunity', 'Ġto', 'Ġhelp', 'Ġthem', 'Ġunderstand', 'ĠCO', 'VID', '-', '19', 'Ġand', 'Ġsteps', 'Ġthey', 'Ġcan', 'Ġtake', 'Ġto', 'Ġprotect', 'Ġthemselves', ':', '.', 'Ġ.', 'ĠCDC', "'s", 'Ġhealth', 'Ġcommunication', 'Ġresources', '.', 'ĠCDC', 'Ġinformation', 'Ġon', 'Ġstigma', 'Ġand', 'ĠCO', 'VID', '-', '19', '.', 'ĠCDC', 'Ġinformation', 'Ġon', 'ĠCO', 'VID', '-', '19', 'Ġand', 'Ġchildren', '.', 'ĠCDC', 'Ġoffers', 'Ġseveral', 'Ġfree', 'Ġhand', 'washing', 'Ġresources', 'Ġthat', 'Ġinclude', 'Ġhealth', 'Ġpromotion', 'Ġmaterials', ',', 'Ġinformation', 'Ġon', 'Ġproper', 'Ġhand', 'washing', 'Ġtechnique', ',', 'Ġand', 'Ġtips', 'Ġfor', 'Ġfamilies', 'Ġto', 'Ġhelp', 'Ġchildren', 'Ġdevelop', 'Ġgood', 'Ġhand', 'washing', 'Ġhabits', '..', 'ĠOther', 'Ġhealth', 'Ġand', 'Ġeducation', 'Ġprofessional', 'Ġorganizations', 'Ġmay', 'Ġalso', 'Ġhave', 'Ġhelpful', 'Ġresources', 'Ġyour', 'Ġschool', 'Ġcan', 'Ġuse', 'Ġor', 'Ġshare', ',', 'Ġsuch', 'Ġas', 'Ġthe', 'ĠAmerican', 'ĠAcademy', 'Ġof', 'ĠPed', 'iatric', 'sex', 'ternal', 'Ġicon', '.', 'ĠCDC', "'s", 'Ġinformation', 'Ġon', 'Ġhelping', 'Ġchildren', 'Ġcope', 'Ġwith', 'Ġemergencies', '.', 'ĠSt', 'igma', 'Ġprevention', 'Ġand', 'Ġfacts', 'Ġabout', 'ĠCO', 'VID', '-', '19']
+        passage_offsets: [0, 6, 16, 21, 25, 32, 42, 45, 50, 55, 66, 68, 71, 72, 75, 79, 85, 90, 94, 99, 102, 110, 120, 121, 123, 125, 128, 131, 138, 152, 161, 163, 167, 179, 182, 189, 193, 195, 198, 199, 201, 203, 207, 219, 222, 224, 227, 228, 231, 235, 243, 245, 249, 256, 264, 269, 273, 281, 291, 296, 304, 311, 321, 330, 332, 344, 347, 354, 358, 366, 375, 377, 381, 386, 390, 399, 402, 4
+07, 416, 424, 429, 433, 441, 447, 450, 456, 463, 467, 477, 490, 504, 508, 513, 518, 526, 536, 541, 548, 552, 556, 559, 564, 566, 571, 574, 578, 587, 595, 598, 601, 607, 610, 617, 621, 623, 626, 629, 641, 644, 652, 661, 666, 671, 682, 684, 686, 691, 702, 706, 712, 718, 720, 723, 724]
+        passage_start_of_word: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0]
+        question_tokens: ['What', 'Ġresources', 'Ġdoes', 'ĠCDC', 'Ġhave', 'Ġavailable', 'Ġto', 'Ġshare', 'Ġwith', 'Ġstaff', ',', 'Ġstudents', ',', 'Ġand', 'Ġparents', '?']
+        question_offsets: [0, 5, 15, 20, 24, 29, 39, 42, 48, 53, 58, 60, 68, 70, 74, 81]
+        question_start_of_word: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0]
+        answers: [{'start_t': 25, 'end_t': 57, 'answer_type': 'span'}]
+        document_offsets: [0, 6, 16, 21, 25, 32, 42, 45, 50, 55, 66, 68, 71, 72, 75, 79, 85, 90, 94, 99, 102, 110, 120, 121, 123, 125, 128, 131, 138, 152, 161, 163, 167, 179, 182, 189, 193, 195, 198, 199, 201, 203, 207, 219, 222, 224, 227, 228, 231, 235, 243, 245, 249, 256, 264, 269, 273, 281, 291, 296, 304, 311, 321, 330, 332, 344, 347, 354, 358, 366, 375, 377, 381, 386, 390, 399, 402, 407, 416, 424, 429, 433, 441, 447, 450, 456, 463, 467, 477, 490, 504, 508, 513, 518, 526, 536, 541, 548, 552, 556, 559, 564, 566, 571, 574, 578, 587, 595, 598, 601, 607, 610, 617, 621, 623, 626, 629, 641, 644, 652, 661, 666, 671, 682, 684, 686, 691, 702, 706, 712, 718, 720, 723, 724]
+Features:
+        input_ids: [0, 2264, 1915, 473, 13545, 33, 577, 7, 458, 19, 813, 6, 521, 6, 8, 1041, 116, 2, 2, 11957, 1915, 19, 5, 334, 435, 7, 244, 106, 1346, 6247, 43814, 12, 1646, 8, 2402, 51, 64, 185, 7, 1744, 1235, 35, 4, 479, 13545, 18, 474, 4358, 1915, 4, 13545, 335, 15, 18033, 8, 6247, 43814, 12, 1646, 4, 13545, 335, 15, 6247, 43814, 12, 1646, 8, 408, 4, 13545, 1523, 484, 481, 865, 36230, 1915, 14, 680, 474, 6174, 3183, 6, 335, 15, 4692, 865, 36230, 9205, 6, 8, 4965, 13, 1232, 7, 244, 408, 2179, 205, 865, 36230, 10095, 7586, 1944, 474, 8, 1265, 2038, 2665, 189, 67, 33, 7163, 1915, 110, 334, 64, 304, 50, 458, 6, 215, 25, 5, 470, 3536, 9, 10829, 21303, 8821, 46378, 9360, 4, 13545, 18, 335, 15, 1903, 408, 10731, 19, 20601, 4, 312, 34719, 8555, 8, 4905, 59, 6247, 43814, 12, 1646, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+        padding_mask: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        segment_ids: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+        answer_type_ids: [-1]
+        passage_start_t: 0
+        start_of_word: [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1,
+ 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        labels: [[44 76]
+ [-1 -1]
+ [-1 -1]
+ [-1 -1]
+ [-1 -1]
+ [-1 -1]]
+        id: [0, 0, 0]
+        seq_2_start_t: 19
+        span_mask: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+_____________________________________________________
+11/19/2020 14:44:37 - INFO - farm.data_handler.processor -
+
+      .--.        _____                       _
+    .'_\/_'.     / ____|                     | |
+    '. /\ .'    | (___   __ _ _ __ ___  _ __ | | ___
+      "||"       \___ \ / _` | '_ ` _ \| '_ \| |/ _ \
+       || /\     ____) | (_| | | | | | | |_) | |  __/
+    /\ ||//\)   |_____/ \__,_|_| |_| |_| .__/|_|\___|
+   (/\||/                             |_|
+______\||/___________________________________________
+
+ID: 1-0-0
+Clear Text:
+        passage_text: If you are using the CDC-developed diagnostic test, a negative result means that the virus that causes COVID-19 was not found in their sample. In early stages, it is possible that the virus will not be detected. For COVID-19, a negative result for a sample collected while a person has symptoms likely means that the COVID-19 virus is not causing their current illness.
+
+
+        question_text: what is the test of coronavirus
+        passage_id: 0
+        answers: [{'text': 'the CDC-developed diagnostic test', 'start_c': 17, 'end_c': 49}]
+Tokenized:
+        passage_start_t: 0
+        passage_tokens: ['If', 'Ġyou', 'Ġare', 'Ġusing', 'Ġthe', 'ĠCDC', '-', 'developed', 'Ġdiagnostic', 'Ġtest', ',', 'Ġa', 'Ġnegative', 'Ġresult', 'Ġmeans', 'Ġthat', 'Ġthe', 'Ġvirus', 'Ġthat', 'Ġcauses', 'ĠCO', 'VID', '-', '19', 'Ġwas', 'Ġnot', 'Ġfound', 'Ġin', 'Ġtheir', 'Ġsample', '.', 'ĠIn', 'Ġearly', 'Ġstages', ',', 'Ġit', 'Ġis', 'Ġpossible', 'Ġthat', 'Ġthe', 'Ġvirus', 'Ġwill', 'Ġnot', 'Ġbe', 'Ġdetected', '.', 'ĠFor', 'ĠCO', 'VID', '-', '19', ',', 'Ġa', 'Ġnegative', 'Ġresult', 'Ġfor', 'Ġa', 'Ġsample', 'Ġcollected', 'Ġwhile', 'Ġa', 'Ġperson', 'Ġhas', 'Ġsymptoms', 'Ġlikely', 'Ġmeans', 'Ġthat', 'Ġthe', 'ĠCO', 'VID', '-', '19', 'Ġvirus', 'Ġ
+is', 'Ġnot', 'Ġcausing', 'Ġtheir', 'Ġcurrent', 'Ġillness', '.']
+        passage_offsets: [0, 3, 7, 11, 17, 21, 24, 25, 35, 46, 50, 52, 54, 63, 70, 76, 81, 85, 91, 96, 103, 105, 108, 109, 112, 116, 120, 126, 129, 135, 141, 143, 146, 152, 158, 160, 163, 166, 175, 180, 184, 190, 195, 199, 202, 210, 212, 216, 218, 221, 222, 224, 226, 228, 237, 244, 248, 250, 257, 267, 273, 275, 282, 286, 295, 302, 308, 313, 317, 319, 322, 323, 326, 332, 335, 339, 347, 353, 361, 368]
+        passage_start_of_word: [1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0]
+        question_tokens: ['what', 'Ġis', 'Ġthe', 'Ġtest', 'Ġof', 'Ġcoron', 'av', 'irus']
+        question_offsets: [0, 5, 8, 12, 17, 20, 25, 27]
+        question_start_of_word: [1, 1, 1, 1, 1, 1, 0, 0]
+        answers: [{'start_t': 4, 'end_t': 9, 'answer_type': 'span'}]
+        document_offsets: [0, 3, 7, 11, 17, 21, 24, 25, 35, 46, 50, 52, 54, 63, 70, 76, 81, 85, 91, 96, 103, 105, 108, 109, 112, 116, 120, 126, 129, 135, 141, 143, 146, 152, 158, 160, 163, 166, 175, 180, 184, 190, 195, 199, 202, 210, 212, 216, 218, 221, 222, 224, 226, 228, 237, 244, 248, 250, 257, 267, 273, 275, 282, 286, 295, 302, 308, 313, 317, 319, 322, 323, 326, 332, 335, 339, 347, 353, 361, 368]
+Features:
+        input_ids: [0, 12196, 16, 5, 1296, 9, 34377, 1469, 19473, 2, 2, 1106, 47, 32, 634, 5, 13545, 12, 28176, 20862, 1296, 6, 10, 2430, 898, 839, 14, 5, 6793, 14, 4685, 6247, 43814, 12, 1646, 21, 45, 303, 11, 49, 7728, 4, 96, 419, 5612, 6, 24, 16, 678, 14, 5, 6793, 40, 45, 28, 12333, 4, 286, 6247, 43814, 12, 1646, 6, 10, 2430, 898, 13, 10, 7728, 4786, 150, 10, 621, 34, 5298, 533, 839, 14, 5, 6247, 43814, 12, 1646, 6793, 16, 45, 3735, 49, 595, 5467, 4, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+        padding_mask: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        segment_ids: [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+        answer_type_ids: [-1]
+        passage_start_t: 0
+        start_of_word: [0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        labels: [[15 20]
+ [-1 -1]
+ [-1 -1]
+ [-1 -1]
+ [-1 -1]
+ [-1 -1]]
+        id: [1, 0, 0]
+        seq_2_start_t: 11
+        span_mask: [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+_____________________________________________________
+Preprocessing Dataset squad-jhu_covid_qa-refined-cleaned.json: 100%|███████████████████████| 294/294 [00:02<00:00, 129.28 Dicts/s]
+11/19/2020 14:44:39 - INFO - farm.data_handler.data_silo -   No dev set is being loaded
+11/19/2020 14:44:39 - INFO - farm.data_handler.data_silo -   No test set is being loaded
+11/19/2020 14:44:39 - INFO - farm.data_handler.data_silo -   Examples in train: 1492
+11/19/2020 14:44:39 - INFO - farm.data_handler.data_silo -   Examples in dev  : 0
+11/19/2020 14:44:39 - INFO - farm.data_handler.data_silo -   Examples in test : 0
+11/19/2020 14:44:39 - INFO - farm.data_handler.data_silo -
+11/19/2020 14:44:39 - INFO - farm.data_handler.data_silo -   Longest sequence length observed after clipping:     384
+11/19/2020 14:44:39 - INFO - farm.data_handler.data_silo -   Average sequence length after clipping: 134.0254691689008
+11/19/2020 14:44:39 - INFO - farm.data_handler.data_silo -   Proportion clipped:      0.00804289544235925
+/home/aaron/jugglechat/.venv/lib/python3.6/site-packages/numpy/core/_asarray.py:83: VisibleDeprecationWarning: Creating an ndarray from ragged nested sequences (which is a list-or-tuple of lists-or-tuples-or ndarrays with different lengths or shapes) is deprecated. If you meant to do this, you must specify 'dtype=object' when creating the ndarray
+  return array(a, dtype, copy=False, order=order)
+11/19/2020 14:44:39 - INFO - __main__ -   ############ Crossvalidation: Fold 0 ############
+Some weights of RobertaModel were not initialized from the model checkpoint at deepset/roberta-base-squad2 and are newly initialized: ['roberta.pooler.dense.weight', 'roberta.pooler.dense.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11/19/2020 14:44:46 - WARNING - farm.modeling.language_model -   Could not automatically detect from language model name what language it is.
+         We guess it's an *ENGLISH* model ...
+         If not: Init the language model by supplying the 'language' param.
+Some weights of RobertaForQuestionAnswering were not initialized from the model checkpoint at deepset/roberta-base-squad2 and are newly initialized: ['roberta.pooler.dense.weight', 'roberta.pooler.dense.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11/19/2020 14:44:53 - INFO - farm.modeling.prediction_head -   Prediction head initialized with size [768, 2]
+11/19/2020 14:44:56 - INFO - farm.modeling.optimization -   Loading optimizer `TransformersAdamW`: '{'correct_bias': False, 'weight_decay': 0.01, 'lr': 3e-05}'
+11/19/2020 14:44:56 - INFO - farm.modeling.optimization -   Using scheduler 'get_linear_schedule_with_warmup'
+11/19/2020 14:44:56 - INFO - farm.modeling.optimization -   Loading schedule `get_linear_schedule_with_warmup`: '{'num_warmup_steps': 9.8, 'num_training_steps': 98}'
+11/19/2020 14:44:56 - INFO - farm.train -
+
+
+          &&& &&  & &&             _____                   _
+      && &\/&\|& ()|/ @, &&       / ____|                 (_)
+      &\/(/&/&||/& /_/)_&/_&     | |  __ _ __ _____      ___ _ __   __ _
+   &() &\/&|()|/&\/ '%" & ()     | | |_ | '__/ _ \ \ /\ / / | '_ \ / _` |
+  &_\_&&_\ |& |&&/&__%_/_& &&    | |__| | | | (_) \ V  V /| | | | | (_| |
+&&   && & &| &| /& & % ()& /&&    \_____|_|  \___/ \_/\_/ |_|_| |_|\__, |
+ ()&_---()&\&\|&&-&&--%---()~                                       __/ |
+     &&     \|||                                                   |___/
+             |||
+             |||
+             |||
+       , -=-~  .-^- _
+              `
+
+Train epoch 0/1 (Cur. train loss: 1.7767): 100%|██████████████████████████████████████████████████| 49/49 [00:25<00:00,  1.89it/s]
+Train epoch 1/1 (Cur. train loss: 1.3940): 100%|██████████████████████████████████████████████████| 49/49 [00:25<00:00,  1.89it/s]
+Evaluating: 100%|█████████████████████████████████████████████████████████████████████████████████| 12/12 [00:01<00:00,  6.11it/s]
+11/19/2020 14:45:50 - INFO - farm.eval -
+
+\\|//       \\|//      \\|//       \\|//     \\|//
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+***************************************************
+***** EVALUATION | TEST SET | AFTER 12 BATCHES *****
+***************************************************
+\\|//       \\|//      \\|//       \\|//     \\|//
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+11/19/2020 14:45:50 - INFO - farm.eval -
+ _________ question_answering _________
+11/19/2020 14:45:50 - INFO - farm.eval -   loss: 2.742794396614265
+11/19/2020 14:45:50 - INFO - farm.eval -   task_name: question_answering
+11/19/2020 14:45:50 - INFO - farm.eval -   EM: 0.09025270758122744
+11/19/2020 14:45:50 - INFO - farm.eval -   f1: 0.3840466891306812
+11/19/2020 14:45:50 - INFO - farm.eval -   top_n_accuracy: 0.5631768953068592
+11/19/2020 14:45:50 - INFO - farm.eval -   report:
+ Not Implemented
+11/19/2020 14:45:51 - INFO - __main__ -   ############ Crossvalidation: Fold 1 ############
+Some weights of RobertaModel were not initialized from the model checkpoint at deepset/roberta-base-squad2 and are newly initialized: ['roberta.pooler.dense.weight', 'roberta.pooler.dense.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11/19/2020 14:45:57 - WARNING - farm.modeling.language_model -   Could not automatically detect from language model name what language it is.
+         We guess it's an *ENGLISH* model ...
+         If not: Init the language model by supplying the 'language' param.
+Some weights of RobertaForQuestionAnswering were not initialized from the model checkpoint at deepset/roberta-base-squad2 and are newly initialized: ['roberta.pooler.dense.weight', 'roberta.pooler.dense.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11/19/2020 14:46:04 - INFO - farm.modeling.prediction_head -   Prediction head initialized with size [768, 2]
+11/19/2020 14:46:04 - INFO - farm.modeling.optimization -   Loading optimizer `TransformersAdamW`: '{'correct_bias': False, 'weight_decay': 0.01, 'lr': 3e-05}'
+11/19/2020 14:46:04 - INFO - farm.modeling.optimization -   Using scheduler 'get_linear_schedule_with_warmup'
+11/19/2020 14:46:04 - INFO - farm.modeling.optimization -   Loading schedule `get_linear_schedule_with_warmup`: '{'num_warmup_steps': 9.8, 'num_training_steps': 98}'
+11/19/2020 14:46:04 - INFO - farm.train -
+
+
+          &&& &&  & &&             _____                   _
+      && &\/&\|& ()|/ @, &&       / ____|                 (_)
+      &\/(/&/&||/& /_/)_&/_&     | |  __ _ __ _____      ___ _ __   __ _
+   &() &\/&|()|/&\/ '%" & ()     | | |_ | '__/ _ \ \ /\ / / | '_ \ / _` |
+  &_\_&&_\ |& |&&/&__%_/_& &&    | |__| | | | (_) \ V  V /| | | | | (_| |
+&&   && & &| &| /& & % ()& /&&    \_____|_|  \___/ \_/\_/ |_|_| |_|\__, |
+ ()&_---()&\&\|&&-&&--%---()~                                       __/ |
+     &&     \|||                                                   |___/
+             |||
+             |||
+             |||
+       , -=-~  .-^- _
+              `
+
+Train epoch 0/1 (Cur. train loss: 1.2181): 100%|██████████████████████████████████████████████████| 49/49 [00:26<00:00,  1.87it/s]
+Train epoch 1/1 (Cur. train loss: 1.0655): 100%|██████████████████████████████████████████████████| 49/49 [00:26<00:00,  1.87it/s]
+Evaluating: 100%|█████████████████████████████████████████████████████████████████████████████████| 11/11 [00:01<00:00,  5.84it/s]
+11/19/2020 14:46:59 - INFO - farm.eval -
+
+\\|//       \\|//      \\|//       \\|//     \\|//
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+***************************************************
+***** EVALUATION | FOLD: 1 | TEST SET | AFTER 11 BATCHES *****
+***************************************************
+\\|//       \\|//      \\|//       \\|//     \\|//
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+11/19/2020 14:46:59 - INFO - farm.eval -
+ _________ question_answering _________
+11/19/2020 14:46:59 - INFO - farm.eval -   loss: 2.872225977674293
+11/19/2020 14:46:59 - INFO - farm.eval -   task_name: question_answering
+11/19/2020 14:46:59 - INFO - farm.eval -   EM: 0.09811320754716982
+11/19/2020 14:46:59 - INFO - farm.eval -   f1: 0.443269740410886
+11/19/2020 14:46:59 - INFO - farm.eval -   top_n_accuracy: 0.7773584905660378
+11/19/2020 14:46:59 - INFO - farm.eval -   report:
+ Not Implemented
+11/19/2020 14:46:59 - INFO - __main__ -   ############ Crossvalidation: Fold 2 ############
+Some weights of RobertaModel were not initialized from the model checkpoint at deepset/roberta-base-squad2 and are newly initialized: ['roberta.pooler.dense.weight', 'roberta.pooler.dense.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11/19/2020 14:47:05 - WARNING - farm.modeling.language_model -   Could not automatically detect from language model name what language it is.
+         We guess it's an *ENGLISH* model ...
+         If not: Init the language model by supplying the 'language' param.
+Some weights of RobertaForQuestionAnswering were not initialized from the model checkpoint at deepset/roberta-base-squad2 and are newly initialized: ['roberta.pooler.dense.weight', 'roberta.pooler.dense.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11/19/2020 14:47:11 - INFO - farm.modeling.prediction_head -   Prediction head initialized with size [768, 2]
+11/19/2020 14:47:12 - INFO - farm.modeling.optimization -   Loading optimizer `TransformersAdamW`: '{'correct_bias': False, 'weight_decay': 0.01, 'lr': 3e-05}'
+11/19/2020 14:47:12 - INFO - farm.modeling.optimization -   Using scheduler 'get_linear_schedule_with_warmup'
+11/19/2020 14:47:12 - INFO - farm.modeling.optimization -   Loading schedule `get_linear_schedule_with_warmup`: '{'num_warmup_steps': 10.200000000000001, 'num_training_steps': 102}'
+11/19/2020 14:47:12 - INFO - farm.train -
+
+
+          &&& &&  & &&             _____                   _
+      && &\/&\|& ()|/ @, &&       / ____|                 (_)
+      &\/(/&/&||/& /_/)_&/_&     | |  __ _ __ _____      ___ _ __   __ _
+   &() &\/&|()|/&\/ '%" & ()     | | |_ | '__/ _ \ \ /\ / / | '_ \ / _` |
+  &_\_&&_\ |& |&&/&__%_/_& &&    | |__| | | | (_) \ V  V /| | | | | (_| |
+&&   && & &| &| /& & % ()& /&&    \_____|_|  \___/ \_/\_/ |_|_| |_|\__, |
+ ()&_---()&\&\|&&-&&--%---()~                                       __/ |
+     &&     \|||                                                   |___/
+             |||
+             |||
+             |||
+       , -=-~  .-^- _
+              `
+
+Train epoch 0/1 (Cur. train loss: 1.7581): 100%|██████████████████████████████████████████████████| 51/51 [00:26<00:00,  1.89it/s]
+Train epoch 1/1 (Cur. train loss: 1.2905): 100%|██████████████████████████████████████████████████| 51/51 [00:26<00:00,  1.89it/s]
+Evaluating: 100%|█████████████████████████████████████████████████████████████████████████████████| 10/10 [00:01<00:00,  6.15it/s]
+11/19/2020 14:48:07 - INFO - farm.eval -
+
+\\|//       \\|//      \\|//       \\|//     \\|//
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+***************************************************
+***** EVALUATION | FOLD: 2 | TEST SET | AFTER 10 BATCHES *****
+***************************************************
+\\|//       \\|//      \\|//       \\|//     \\|//
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+11/19/2020 14:48:07 - INFO - farm.eval -
+ _________ question_answering _________
+11/19/2020 14:48:07 - INFO - farm.eval -   loss: 3.6366833489516686
+11/19/2020 14:48:07 - INFO - farm.eval -   task_name: question_answering
+11/19/2020 14:48:07 - INFO - farm.eval -   EM: 0.13852813852813853
+11/19/2020 14:48:07 - INFO - farm.eval -   f1: 0.3211025479918721
+11/19/2020 14:48:07 - INFO - farm.eval -   top_n_accuracy: 0.4935064935064935
+11/19/2020 14:48:07 - INFO - farm.eval -   report:
+ Not Implemented
+11/19/2020 14:48:08 - INFO - __main__ -   ############ Crossvalidation: Fold 3 ############
+Some weights of RobertaModel were not initialized from the model checkpoint at deepset/roberta-base-squad2 and are newly initialized: ['roberta.pooler.dense.weight', 'roberta.pooler.dense.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11/19/2020 14:48:13 - WARNING - farm.modeling.language_model -   Could not automatically detect from language model name what language it is.
+         We guess it's an *ENGLISH* model ...
+         If not: Init the language model by supplying the 'language' param.
+Some weights of RobertaForQuestionAnswering were not initialized from the model checkpoint at deepset/roberta-base-squad2 and are newly initialized: ['roberta.pooler.dense.weight', 'roberta.pooler.dense.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11/19/2020 14:48:20 - INFO - farm.modeling.prediction_head -   Prediction head initialized with size [768, 2]
+11/19/2020 14:48:21 - INFO - farm.modeling.optimization -   Loading optimizer `TransformersAdamW`: '{'correct_bias': False, 'weight_decay': 0.01, 'lr': 3e-05}'
+11/19/2020 14:48:21 - INFO - farm.modeling.optimization -   Using scheduler 'get_linear_schedule_with_warmup'
+11/19/2020 14:48:21 - INFO - farm.modeling.optimization -   Loading schedule `get_linear_schedule_with_warmup`: '{'num_warmup_steps': 9.4, 'num_training_steps': 94}'
+11/19/2020 14:48:21 - INFO - farm.train -
+
+
+          &&& &&  & &&             _____                   _
+      && &\/&\|& ()|/ @, &&       / ____|                 (_)
+      &\/(/&/&||/& /_/)_&/_&     | |  __ _ __ _____      ___ _ __   __ _
+   &() &\/&|()|/&\/ '%" & ()     | | |_ | '__/ _ \ \ /\ / / | '_ \ / _` |
+  &_\_&&_\ |& |&&/&__%_/_& &&    | |__| | | | (_) \ V  V /| | | | | (_| |
+&&   && & &| &| /& & % ()& /&&    \_____|_|  \___/ \_/\_/ |_|_| |_|\__, |
+ ()&_---()&\&\|&&-&&--%---()~                                       __/ |
+     &&     \|||                                                   |___/
+             |||
+             |||
+             |||
+       , -=-~  .-^- _
+              `
+
+Train epoch 0/1 (Cur. train loss: 1.4383): 100%|██████████████████████████████████████████████████| 47/47 [00:24<00:00,  1.89it/s]
+Train epoch 1/1 (Cur. train loss: 0.9958): 100%|██████████████████████████████████████████████████| 47/47 [00:24<00:00,  1.89it/s]
+Evaluating: 100%|█████████████████████████████████████████████████████████████████████████████████| 14/14 [00:02<00:00,  5.99it/s]
+11/19/2020 14:49:13 - INFO - farm.eval -
+
+\\|//       \\|//      \\|//       \\|//     \\|//
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+***************************************************
+***** EVALUATION | FOLD: 3 | TEST SET | AFTER 14 BATCHES *****
+***************************************************
+\\|//       \\|//      \\|//       \\|//     \\|//
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+11/19/2020 14:49:13 - INFO - farm.eval -
+ _________ question_answering _________
+11/19/2020 14:49:13 - INFO - farm.eval -   loss: 3.27865499131223
+11/19/2020 14:49:13 - INFO - farm.eval -   task_name: question_answering
+11/19/2020 14:49:13 - INFO - farm.eval -   EM: 0.3465045592705167
+11/19/2020 14:49:13 - INFO - farm.eval -   f1: 0.4553921086634174
+11/19/2020 14:49:13 - INFO - farm.eval -   top_n_accuracy: 0.5440729483282675
+11/19/2020 14:49:13 - INFO - farm.eval -   report:
+ Not Implemented
+11/19/2020 14:49:13 - INFO - __main__ -   ############ Crossvalidation: Fold 4 ############
+Some weights of RobertaModel were not initialized from the model checkpoint at deepset/roberta-base-squad2 and are newly initialized: ['roberta.pooler.dense.weight', 'roberta.pooler.dense.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11/19/2020 14:49:19 - WARNING - farm.modeling.language_model -   Could not automatically detect from language model name what language it is.
+         We guess it's an *ENGLISH* model ...
+         If not: Init the language model by supplying the 'language' param.
+Some weights of RobertaForQuestionAnswering were not initialized from the model checkpoint at deepset/roberta-base-squad2 and are newly initialized: ['roberta.pooler.dense.weight', 'roberta.pooler.dense.bias']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11/19/2020 14:49:26 - INFO - farm.modeling.prediction_head -   Prediction head initialized with size [768, 2]
+11/19/2020 14:49:26 - INFO - farm.modeling.optimization -   Loading optimizer `TransformersAdamW`: '{'correct_bias': False, 'weight_decay': 0.01, 'lr': 3e-05}'
+11/19/2020 14:49:26 - INFO - farm.modeling.optimization -   Using scheduler 'get_linear_schedule_with_warmup'
+11/19/2020 14:49:26 - INFO - farm.modeling.optimization -   Loading schedule `get_linear_schedule_with_warmup`: '{'num_warmup_steps': 9.0, 'num_training_steps': 90}'
+11/19/2020 14:49:26 - INFO - farm.train -   
+ 
+
+          &&& &&  & &&             _____                   _             
+      && &\/&\|& ()|/ @, &&       / ____|                 (_)            
+      &\/(/&/&||/& /_/)_&/_&     | |  __ _ __ _____      ___ _ __   __ _ 
+   &() &\/&|()|/&\/ '%" & ()     | | |_ | '__/ _ \ \ /\ / / | '_ \ / _` |
+  &_\_&&_\ |& |&&/&__%_/_& &&    | |__| | | | (_) \ V  V /| | | | | (_| |
+&&   && & &| &| /& & % ()& /&&    \_____|_|  \___/ \_/\_/ |_|_| |_|\__, |
+ ()&_---()&\&\|&&-&&--%---()~                                       __/ |
+     &&     \|||                                                   |___/
+             |||
+             |||
+             |||
+       , -=-~  .-^- _
+              `
+
+Train epoch 0/1 (Cur. train loss: 1.2735): 100%|██████████████████████████████████████████████████| 45/45 [00:23<00:00,  1.90it/s]
+Train epoch 1/1 (Cur. train loss: 1.1348): 100%|██████████████████████████████████████████████████| 45/45 [00:23<00:00,  1.89it/s]
+Evaluating: 100%|█████████████████████████████████████████████████████████████████████████████████| 16/16 [00:02<00:00,  6.01it/s]
+11/19/2020 14:50:16 - INFO - farm.eval -   
+
+\\|//       \\|//      \\|//       \\|//     \\|//
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+***************************************************
+***** EVALUATION | FOLD: 4 | TEST SET | AFTER 16 BATCHES *****
+***************************************************
+\\|//       \\|//      \\|//       \\|//     \\|//
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+11/19/2020 14:50:16 - INFO - farm.eval -   
+ _________ question_answering _________
+11/19/2020 14:50:16 - INFO - farm.eval -   loss: 2.1209099236435778
+11/19/2020 14:50:16 - INFO - farm.eval -   task_name: question_answering
+11/19/2020 14:50:16 - INFO - farm.eval -   EM: 0.32275132275132273
+11/19/2020 14:50:16 - INFO - farm.eval -   f1: 0.5505577440452303
+11/19/2020 14:50:16 - INFO - farm.eval -   top_n_accuracy: 0.7037037037037037
+11/19/2020 14:50:16 - INFO - farm.eval -   report: 
+ Not Implemented
+11/19/2020 14:50:17 - INFO - __main__ -   Single EM-Scores:   [0.09025270758122744, 0.09811320754716982, 0.13852813852813853, 0.3465045592705167, 0.32275132275132273]
+11/19/2020 14:50:17 - INFO - __main__ -   Single F1-Scores:   [0.3840466891306812, 0.443269740410886, 0.3211025479918721, 0.4553921086634174, 0.5505577440452303]
+11/19/2020 14:50:17 - INFO - __main__ -   Single top_3_accuracy Scores:   [0.5631768953068592, 0.7773584905660378, 0.4935064935064935, 0.5440729483282675, 0.7037037037037037]
+11/19/2020 14:50:17 - INFO - __main__ -   XVAL EM:   0.21554054054054053
+11/19/2020 14:50:17 - INFO - __main__ -   XVAL f1:   0.4432141443807887
+11/19/2020 14:50:17 - INFO - __main__ -   XVAL top_3_accuracy:   0.6222972972972973

@@ -1,0 +1,3 @@
+:QUESTIONS: 139, 924 :QUESTIONS:
+MERs is Middle East Respiratory Syndrome. It is also caused by coronavirus, similar to COVID-19. This virus was first reported in 2012 in Saudi Arabia. Their symptoms are severe acute respiratory illness which includes fever, cough, and shortness of breath. The virus does not pass easily person-to-person unless there is close contact, which includes providing unprotected care to a patient.  [[Would you like more information?]] SARS-CoV-2 means Severe Acute Respiratory Syndrome Coronavirus 2. It is the virus that leads to the coronavirus disease, also known as COVID-19.
+

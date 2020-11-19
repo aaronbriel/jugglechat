@@ -1,0 +1,3 @@
+:QUESTIONS: 266, 486 :QUESTIONS:
+Flattening the curve refers to the use of socially distancing to prevent surges in the amount of people who have the illness, that can overwhelm healthcare systems.
+

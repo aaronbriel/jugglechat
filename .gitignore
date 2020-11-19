@@ -1,0 +1,37 @@
+# OS Specific
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg
+*.egg-info
+
+# Misc
+.idea
+.vscode
+.data
+
+data/cache
+data/lm*
+logs/
+
+# Models
+gpt_personachat_cache/
+output/model_*
+
+chatbots/dialogpt/cached/
+chatbots/dialogpt/models/
+chatbots/haystack/models/
+chatbots/haystack/mlruns/
+chatbots/rasa/models/
+
+cache_dir/
+mlruns/
+outputs/
+runs/
+*.log
+
+supervisord.log
+supervisord.pid

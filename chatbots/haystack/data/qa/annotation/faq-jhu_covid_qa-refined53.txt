@@ -1,0 +1,3 @@
+:QUESTIONS: 115, 323, 366, 397, 441, 448, 505, 535, 743, 834, 851, 926, 975, 1003, 1102, 1199, 1209, 1222, 1361 :QUESTIONS:
+A novel, or new, coronavirus is one that has not been identified before. COVID19 is an example of a novel coronavirus as it has not been seen before.   [[Would you like more information on COVID19?]] COVID-19 is a new coronavirus that we have not seen previously; it is not the same as the flu or common cold. Coronaviruses are types of viruses that cause illnesses. These include the common cold, flu, to more severe diseases like Middle East Respiratory Syndrom (MERs-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV).
+

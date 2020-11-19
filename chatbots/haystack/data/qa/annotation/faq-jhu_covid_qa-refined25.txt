@@ -1,0 +1,3 @@
+:QUESTIONS: 37, 81, 183, 275, 286, 331, 415, 628, 710, 818, 920, 1002, 1019, 1093, 1184, 1397, 1441, 1491 :QUESTIONS:
+It depends, and is often decided on a case-by-case basis. The CDC guidance currently says it is okay to release someone from isolation if they have met the following requirements:  * The individual has no more fever without use of fever-reducing medications  * The individual no longer showing symptoms like the cough * The individual has tested negative on at least two tests that have been collected at least 24 hours apart
+

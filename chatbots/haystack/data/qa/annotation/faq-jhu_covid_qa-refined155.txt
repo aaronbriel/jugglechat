@@ -1,0 +1,3 @@
+:QUESTIONS: 671 :QUESTIONS:
+The novel coronavirus SARS-CoV-2 spreads from person to person. Droplet infection is the main mode of transmission. Transmission can take place directly, from person-to-person, or indirectly through contact between hands and the mucous membranes of the mouth, the nose or the conjunctiva of the eyes. There have been reports of persons who were infected by individuals who had only shown slight or non-specific symptoms of disease. The percentage of asymptomatic cases is unclear; according to data from WHO and China, however, such cases do not play a significant role in the spread of SARS-CoV-2.
+

@@ -1,0 +1,3 @@
+:QUESTIONS: 172, 241, 245, 274, 387, 443, 444, 467, 507, 538, 593, 626, 780, 784, 787, 816, 951, 984, 1046, 1067, 1091, 1161, 1190, 1259, 1272, 1347, 1423, 1448, 1498 :QUESTIONS:
+Right now, our current understanding of how COVID-19 spreads is person-to-person through respiratory droplets. We have not seen anything related to spread through food. For the surfaces of frozen foods and other food product packaging - because of the poor survivalbility of the coronaviruses on these surfaces, it is a very low risk of spread. However, it is important to make sure you wash your hands with soap and water for at least 20 seconds to practice general food safety. Please also continue to wash your hands after blowing your nose, coughing or sneezing, or going to the bathroom.
+

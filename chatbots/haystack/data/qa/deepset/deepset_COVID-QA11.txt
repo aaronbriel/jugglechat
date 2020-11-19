@@ -1,0 +1,175 @@
+Preparation for Possible Sustained Transmission of 2019 Novel Coronavirus
+Lessons From Previous Epidemics
+https://jamanetwork.com/journals/jama/fullarticle/2761285
+February 11, 2020
+David L. Swerdlow, MD1; Lyn Finelli, DrPH, MS2
+Author Affiliations Article Information
+JAMA. 2020;323(12):1129-1130. doi:10.1001/jama.2020.1960
+COVID-19 Resource Center
+related articles icon Related
+Articles
+author interview icon Interviews
+Audio Interview (25:53)
+COVID-19 Update From China
+Transmissibility and severity are the 2 most critical factors that determine the effect of an epidemic. Neither the 2009 pandemic influenza A(H1N1) virus ([H1N1]pdm09) pandemic or the severe acute respiratory syndrome coronavirus (SARS-CoV) or the Middle East respiratory syndrome coronavirus (MERS-CoV) epidemics had the combination of both high transmissibility and severity. Control strategies are driven by this combination. R0, the basic reproduction number, is a commonly used measure of transmissibility and is defined as the number of additional persons one case infects over the course of their illness. An R0 of less than 1 indicates the infection will die out “eventually.” An R0 of greater than 1 indicates the infection has the potential for sustained transmission.
+
+For example, influenza A(H1N1)pdm09, first identified in southern California on April 15, 2009, was highly transmissible. By May 5, 2009, influenza A(H1N1)pdm09 had spread to 41 US states and 21 countries.1 While influenza A(H1N1)pdm09 was highly transmissible, it was not severe. Initial estimates of the R0 of influenza A(H1N1)pdm09 were 1.7.2 Although an estimated 201 200 respiratory deaths due to influenza A(H1N1)pdm09 occurred during the first year of the pandemic, the number of deaths per population was 30 times lower than that seen during the 1968 influenza pandemic, 1000 times less than the 1918 pandemic, and even less than typical seasonal influenza epidemics (estimated by the World Health Organization [WHO] to be 250 000 to 500 000 per year, although estimation methods differ).3 Influenza A(H1N1)pdm09 was highly transmissible but not severe.
+
+SARS-CoV (2003) and MERS-CoV (2012-current) cause severe disease, but despite the initial R0 estimations of greater than 2.0 for SARS-CoV (indicating sustained and even worldwide transmission could occur), and some large outbreaks, neither were as transmissible as initial concerns suggested. SARS-CoV caused 8098 reported cases and 774 deaths (case-fatality rate, 9.6%) in 37 countries before the epidemic was controlled. Control was thought to have been possible because a high proportion of cases were severe, making it easier to rapidly identify and isolate infected individuals. In addition, the virus was present at lower levels in upper airway secretions. There was no secondary transmission in the United States from the 8 imported cases, although in Toronto, Canada, a single importation is thought to have led to about 400 cases and 44 deaths. Later estimates of R0 were less than 1, indicating that SARS-CoV may not have been capable of sustained transmission, especially in the setting of control measures.4
+
+Similarly, MERS-CoV appears to have high severity and low transmissibility. Since 2012, MERS-CoV has caused 2494 reported cases and 858 deaths (case-fatality rate, 34%) in 27 countries. MERS-CoV has also caused some rapid outbreaks, mainly in hospitals in Saudi Arabia, Jordan, and South Korea, but estimates of MERS-CoV R0 are less than 1, and thus far it has been contained.5
+
+Can a respiratory virus that is both transmissible and severe be contained? In preparation for an influenza pandemic, the US Department of Health and Human Services’ Pandemic Influenza Plan included a combination of nonpharmaceutical (border and school closing, infection control measures) and pharmaceutical (antiviral prophylaxis, vaccines) interventions meant to be used in combination to interrupt or slow influenza transmission. Despite implementation of some of these interventions, influenza A(H1N1)pdm09 spread to 120 countries in 3 months.
+
+With the emergence of MERS-CoV in the Middle East, a preparedness plan was developed that included a surveillance plan, laboratory testing, and contact tracing guidance. Infection control guidance was developed for use in health care settings and traveler guidance was developed for the public.6 The US Centers for Disease Control and Prevention (CDC) distributed MERS-CoV polymerase chain reaction test kits to state health departments. Two cases were imported into the United States. Contacts were traced, including household, hospital, and airline contacts. No secondary cases were identified in the United States. MERS-CoV was thought to be severe and control measures relied on recognition of suspect cases. However, during a hospital outbreak in Jeddah, Saudi Arabia, among hospitalized patients only 5 of 53 (9%) health care–associated cases had documented presence in the same room as a patient with MERS.5 Despite the high case-fatality rate (an important measure of severity), MERS cases can be asymptomatic and mild (25% in one outbreak). Although it is not known how often asymptomatic or mildly symptomatic patients transmit MERS, initiating comprehensive measures such as isolating patients suspected of having or having been exposed to the virus and using personal protective equipment when caring for them may be extremely difficult because so many patients have mild and nonspecific symptoms.
+
+Is the world ready for a respiratory virus with high transmissibility and severity? After a new influenza virus (H7N9) was identified in China in 2013, a series of modeling articles described the effect of, and level of preparedness for, a severe, single-wave pandemic in the United States.7 In scenarios that used clinical attack rates (the proportion of individuals who become ill with or die from a disease in a population initially uninfected) of 20% to 30% (for comparison the clinical attack rate was 20% in the first year of the 2009 H1N1 pandemic), depending on severity there would be an estimated 669 000 to 4.3 million hospitalizations and an estimated 54 000 to 538 000 deaths without any interventions in the United States. The models suggested that without a vaccine, school closures would be unlikely to affect the pandemic, an estimated 35 000 to 60 000 ventilators would be needed, up to an estimated 7.3 billion surgical masks or respirators would be required, and perhaps most important, if vaccine development did not start before the virus was introduced, it was unlikely that a significant number of hospitalizations and deaths could be averted due to the time it takes to develop, test, manufacture, and distribute a vaccine.
+
+It is impossible to know what will happen so early in this novel 2019 coronavirus (2019-nCoV) epidemic. The scope, morbidity, and mortality will depend on the combination of severity and transmissibility. Numerous experts have “nowcasted” how many cases have occurred and forecasted how many cases will likely occur. A recent study suggests rapid person to person transmission can occur.8 Disease modelers have estimated R0 to be 2.2.9 The University of Hong Kong estimates the outbreak could infect more than 150 000 persons per day in China at its peak.
+
+Is 2019-nCoV infection severe? To date approximately 14% of cases of 2019-nCoV have been described as severe by WHO, with a case-fatality rate of 2.1%.10 Estimates of severity are usually higher in the beginning of an epidemic due to the identification of the most severely affected cases and decline as the epidemic progresses. However, because many infected persons have not yet recovered and may still die, the case-fatality rate and severity could be underestimated. On January 30, 2020, WHO officially declared the 2019-nCoV epidemic as a Public Health Emergency of International Concern, indicating its concern that countries aside from China could be affected by 2019-nCoV.
+
+In preparing for possible sustained transmission of 2019-nCoV beyond China, applicable lessons from previous experiences with epidemics/pandemics of respiratory viruses should be carefully considered to better control and mitigate potential consequences. Influenza preparedness plans have been developed that aim to stop, slow, or limit the spread of an influenza pandemic to the United States. These plans address limiting domestic spread and mitigating disease but also sustaining infrastructure and reducing the adverse effects of the pandemic on the economy and society. These plans would be useful to enact during the 2019-nCoV epidemic should the United States experience sustained transmission. Countries have been successful in the past and there is nothing yet to predict that this time it is likely to be worse. Effective prevention and control will not be easy if there is sustained transmission and will require the full attention of public health, federal and local governments, the private sector, and every citizen.
+
+Back to topArticle Information
+Corresponding Author: David L. Swerdlow, MD, Clinical Epidemiology Lead, Medical Development and Scientific/Clinical Affairs, Pfizer Vaccines, 500 Arcola Rd, Collegeville, PA 19426 (david.swerdlow@pfizer.com).
+
+Published Online: February 11, 2020. doi:10.1001/jama.2020.1960
+
+Conflict of Interest Disclosures: Dr Swerdlow reports owning stock and stock options in Pfizer Inc. Dr Swerdlow also reports providing a one-time consultation consisting of an overview of SARS and MERS epidemiology to GLG Consulting and receiving an honorarium. Dr Finelli reports owning stock in Merck and Co.
+
+Funding/Support: Pfizer Inc provided salary support for Dr Swerdlow.
+
+Role of the Funder/Sponsor: Pfizer Inc reviewed the manuscript and approved the decision to submit the manuscript for publication.
+
+References
+1.
+Swerdlow  DL, Finelli  L, Bridges  CB.  2009 H1N1 influenza pandemic: field and epidemiologic investigations in the United States at the start of the first pandemic of the 21st century.  Clin Infect Dis. 2011;52(suppl 1):S1-S3. doi:10.1093/cid/ciq005PubMedGoogle ScholarCrossref
+2.
+Balcan  D, Hu  H, Goncalves  B,  et al. Seasonal transmission potential and activity peaks of the new influenza A(H1N1): a Monte Carlo likelihood analysis based on human mobility.  BMC Medicine. 2009;7(45). doi:10.1186/1741-7015-7-45
+3.
+Dawood  FS, Iuliano  AD, Reed  C,  et al.  Estimated global mortality associated with the first 12 months of 2009 pandemic influenza A H1N1 virus circulation: a modelling study.  Lancet Infect Dis. 2012;12(9):687-695. doi:10.1016/S1473-3099(12)70121-4PubMedGoogle ScholarCrossref
+4.
+Chowell  G, Castillo-Chavez  C, Fenimore  PW, Kribs-Zaleta  CM, Arriola  L, Hyman  JM.  Model parameters and outbreak control for SARS.  Emerg Infect Dis. 2004;10(7):1258-1263. doi:10.3201/eid1007.030647PubMedGoogle ScholarCrossref
+5.
+Killerby  ME, Biggs  HM, Midgley  CM, Gerber  SI, Watson  JT.  Middle East respiratory syndrome coronavirus transmission.  Emerg Infect Dis. 2020;26(2):191-198. doi:10.3201/eid2602.190697PubMedGoogle ScholarCrossref
+6.
+Rasmussen  SA, Watson  AK, Swerdlow  DL.  Middle East respiratory syndrome (MERS).  Microbiol Spectr. 2016;4(3). doi:10.1128/microbiolspec.EI10-0020-2016PubMedGoogle Scholar
+7.
+Swerdlow  DL, Pillai  SK, Meltzer  MI, eds.  CDC modeling efforts in response to a potential public health emergency: influenza A(H7N9) as an example.  Clin Infect Dis. 2015;60(suppl):S1-S63. https://academic.oup.com/cid/issue/60/suppl_1.Google Scholar
+8.
+Wang  D, Hu  B, Hu  C,  et al.  Clinical characteristics of 138 hospitalized patients with 2019 novel coronavirus–infected pneumonia in Wuhan, China.  JAMA. Published online February 7, 2020. doi:10.1001/jama.2020.1585
+ArticlePubMedGoogle Scholar
+9.
+Li  Q, Guan  X, Wu  P,  et al.  Early transmission dynamics in Wuhan, China, of novel coronavirus–infected pneumonia.  N Engl J Med. Published online January 29, 2020. doi:10.1056/NEJMoa2001316PubMedGoogle Scholar
+10.
+World Health Organization. Novel coronavirus (2019-nCoV) situation reports. https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/. Accessed February 4, 2020.
+Comment
+2 Comments for this articleEXPAND ALL
+February 12, 2020
+Understanding R and Disease Control
+Oz Mansoor | Public Health Physician, Wellington
+The message, that we need to prepare for a pandemic is vital. But the article misreports some key ideas. Firstly, SARS was not controlled "because a high proportion of cases were severe." While that helped , it was because cases were not infectious before some days after symptom onset (usually in the second week of illness). This gave more time for case identification and isolation. And most cases did not pass on infection to anybody, but a few spread to many. When all such individuals were identified and isolated, spread stopped.
+
+Unfortunately, the new virusappears to be spreading from people much earlier in the course of illness, and even with mild symptoms - which was never documented for SARS. However, it is not clear that it is any different or better at spread between people, and perhaps with the same pattern of most cases not causing further spread.
+
+Secondly, the R0, the basic reproduction number, is correctly described as the average number of infections each case causes. But it lacks two key ideas: 1) the 0 after the R implies the native state, which is a fully susceptible population and without any control measures. R is the effectiive number and can include the impact of control measures.
+
+To claim that it was the lack of transmissibility, rather than the control measures that ended SARS, is not based on any evidence. And it ignores the heroic efforts of affected countries.
+
+Elimination of SARS demonstrated the potential of globally coordinated collective action, as well as the damage caused by ignorance and prejudice. Most seem to have already forgotten the lessons of SARS.CONFLICT OF INTEREST: Worked for WHO/WPRO in SARS responseREAD MORE
+February 24, 2020
+COVID 19: a global presence and not only a new pathogen?
+Giuliano Ramadori, Professor of Medicine | University Clinic, Göttingen, Germany
+In the winter season there comes the time of upper and lower respiratory tract infections characterised by cough, dyspnea and eventually fever (influenza-like illness).Some of the patients, especially older people living alone affected by the disease ,may need hospitalization and eventually intensive care. In many of the cases who are hospitalized nasal and/or tracheal fluid are examined for viral or bacterial agents. Only in less than 50% of the cases influenza viruses are considered to be the cause of the disease.In the rest of the cases diagnostic procedure for human coronaviruses is not performed routinely. One of the fourdifferent Human Coronaviruses (HuCoV: 229E,NL 63,0C43 and HKU1) can however be found in up to 30% ofpatients negative for influenza viruses (1). Chinese scientists in Wuhan, who had to deal with an increasing number of acute respiratory tract diseases resembling viral pneumonia, performed deep sequencing analysis from samples taken from the lower respiratory tract and found a "novel" coronavirus. The sequence of the complete genome was made public. At the same time, however, the notice from Wuhan brought to mind the SARS- and MERS-epidemics. The measures taken by the Chinese- and WHO-authorities are now well known.
+
+Recently about 150 new cases have been identified in northern Italy and health authorities are still looking for case 0 (the source). Is it possible that COVID-19 was already existent in Italy -- and not only in Italy but possibly everywhere in the world -- and that newly available nucleotide sequence allows now to find the cause of previously undefined influenza-like illness?
+
+REFERENCE
+
+1. Benezit F et al.:Non-influenza respiratory viruses in adult patients admitted with influenza-like illness:a 3- year prospective multicenter study.Infection, 13 february 2020, https://doi.org/10.1007/s15010-019-01388-1).CONFLICT OF INTEREST: None ReportedREAD MORE
+See More About
+Global Health Public Health Pulmonary Medicine Infectious Diseases Influenza
+Download PDF
+Cite This
+PermissionsComment
+CME & MOC
+ Coronavirus Resource Center
+
+
+Trending
+Opinion is learning has multimedia
+US Emergency Legal Responses to Novel Coronavirus—Balancing Public Health and Civil Liberties
+March 24, 2020
+Opinion is learning has multimedia
+2019 Novel Coronavirus—Important Information for Clinicians
+March 17, 2020
+Research is learning has multimedia
+Clinical Characteristics of Patients With Novel Coronavirus (2019-nCoV) Infection Hospitalized in Beijing, China
+March 17, 2020
+Select Your Interests
+JOB LISTINGS ON JAMA CAREER CENTER®
+ACADEMIC CARDIOLOGIST: HEART FAILURE SPECIALIST
+Phoenix, Arizona
+NONINVASIVE CARDIOLOGIST
+West Grove, Pennsylvania
+CARDIOLOGIST
+Phoenixville, Pennsylvania
+CARDIAC INTENSIVIST FACULTY
+West Reading, Pennsylvania
+CLINICAL FACULTY: CARDIOLOGY / ELECTROPHYSIOLOGIST
+Phoenix, Arizona
+See more at JAMA Career Center
+Others Also Liked
+Coronavirus Dx Emergency Use Authorizations Progressing Rapidly Despite Criticism
+Madeleine Johnson, 360Dx, 2020
+Analysis of therapeutic targets for SARS-CoV-2 and discovery of potential drugs by computational methods
+Canrong Wu, Acta Pharmaceutica Sinica B, 2020
+Commercial Labs Step up Coronavirus Test Efforts After FDA Guidance
+360Dx, 2020
+Powered by
+Trending
+US Emergency Legal Responses to Novel Coronavirus—Balancing Public Health and Civil Liberties
+JAMA Opinion March 24, 2020
+Practical Aspects of Otolaryngologic Clinical Services During the COVID-19 Epidemic
+JAMA Otolaryngology–Head & Neck Surgery Opinion March 20, 2020
+2019 Novel Coronavirus—Important Information for Clinicians
+JAMA Opinion March 17, 2020
+JAMA
+CONTENT
+Home New Online Current Issue
+JOURNAL INFORMATION
+For Authors Editors & Publishers RSS Contact Us
+JN Learning / CME Store Apps Jobs Institutions Reprints & Permissions
+Journal Cover
+Subscribe
+Go
+JAMA Network
+PUBLICATIONS
+JAMA JAMA Network Open JAMA Cardiology JAMA Dermatology JAMA Facial Plastic Surgery JAMA Health Forum JAMA Internal Medicine JAMA Neurology JAMA Oncology JAMA Ophthalmology JAMA Otolaryngology–Head & Neck Surgery JAMA Pediatrics JAMA Psychiatry JAMA Surgery Archives of Neurology & Psychiatry (1919-1959)
+SITES
+AMA Manual of Style Art and Images in Psychiatry Breast Cancer Screening Guidelines Colorectal Screening Guidelines Declaration of Helsinki Depression Screening Guidelines Evidence-Based Medicine: An Oral History Fishbein Fellowship Genomics and Precision Health Health Disparities Hypertension Guidelines JAMA Network Audio JAMA Network Conferences Machine Learning Med Men Medical Education Opioid Management Guidelines Peer Review Congress Research Ethics Sepsis and Septic Shock Statins and Dyslipidemia Topics and Collections
+FEATURED ARTICLES
+ACS Breast Cancer Screening Guideline CDC Guideline for Prescribing Opioids CDC Guideline for Prevention of Surgical Site Infections Consensus Definitions for Sepsis and Septic Shock Global Burden of Cancer, 1990-2016 Global Burden of Disease in Children, 1990-2013 Global Burden of Hypertension, 1990-2015 Global Firearm Mortality, 1990-2016 Health Care Spending in the US and Other High-Income Countries Income and Life Expectancy in the US JNC 8 Guideline for Management of High Blood Pressure President Obama on US Health Care Reform Screening for Colorectal Cancer Screening for Depression in Adults Screening for Prostate Cancer Statins for Primary Prevention of Cardiovascular Disease The State of US Health, 1990-2016 US Burden of Cardiovascular Disease, 1990-2016 WMA Declaration of Helsinki, 7th Revision
+BLOGS
+JAMA Health Forum AMA Style Insider
+INFORMATION FOR
+Authors Institutions & Librarians Advertisers Subscription Agents Employers & Job Seekers Media
+JAMA NETWORK PRODUCTS
+AMA Manual of Style JAMAevidence JN Listen Peer Review Congress
+JN LEARNING
+Home CME Quizzes State CME Audio / Podcast Courses Clinical Challenge CME Atrial Fibrillation Course Marijuana Course Penicillin Allergy Course Cervical Cancer Screening Course CME / MOC Reporting Preferences About CME & MOC
+Help
+Subscriptions & Renewals Email Subscriptions Update Your Address Contact Us Frequently Asked Questions
+JAMA CAREER CENTER
+Physician Job Listings
+
+Get the latest from JAMA
+Email address
+Sign Up
+Privacy Policy | Terms of Use
+Jama Network Logo
+© 2020 American Medical Association. All Rights Reserved.
+Terms of Use| Privacy Policy| Accessibility Statement
+
+Silverchair Logo
