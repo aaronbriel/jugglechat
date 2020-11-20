@@ -2,7 +2,7 @@
 
 An Eclectic and Malleable Multi-Chatbot Framework.
 
-![JuggleChat](https://github.com/aaronbriel/jugglechat/blob/master/logo.png?raw=true)
+![JuggleChat](https://github.com/aaronbriel/jugglechat/blob/master/architecture.png?raw=true)
 
 ## Installation
 Ubuntu:
