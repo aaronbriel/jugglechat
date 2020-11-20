@@ -57,19 +57,6 @@ def get_and_store_sentiment(df, column='evaluation_sentiment'):
 
 
 def get_data_results():
-    # df_all = pd.read_csv('data/allocations_jugglechat1.csv')
-    # df_eval = pd.read_csv('data/evaluation_results_jugglechat1.csv')
-    # df_q = pd.read_csv('data/quiz_results_jugglechat1.csv')
-    # import pdb
-    # pdb.set_trace()
-
-    # df_follow_up = pd.read_csv('data/follow_up_data.csv')
-    # df_follow_up = df_follow_up[df_follow_up['requestedSummary'] == 'Yes']
-    # print("Number of participants who requested summary: ", df_follow_up.shape[0])
-    # df_follow_up = get_and_store_sentiment(df_follow_up, column='overallImpression')
-    # mean_sentiment_absum = df_follow_up['sentiment'].mean()
-    # print("Mean Sentiment Absum: ", mean_sentiment_absum)
-
     results = {}
 
     df_allocations = pd.read_csv('data/allocations_jugglechat.csv')
@@ -164,11 +151,6 @@ def get_data_results():
     mean_quiz_score_qa = pd.read_csv('data/quiz_results_qa.csv')['score'].mean()
     results['mean_quiz_score_qa'] = mean_quiz_score_qa
     print("Mean Quiz Score QA: ", mean_quiz_score_qa)
-
-    # no_answer_faq =
-    # no_answer_qa =
-    # no_answer_jugglechat =
-    # no_answer_total =
 
     with open('results.json', 'w') as fp:
         json.dump(results, fp)
