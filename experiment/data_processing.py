@@ -165,6 +165,11 @@ def get_data_results():
     results['mean_quiz_score_qa'] = mean_quiz_score_qa
     print("Mean Quiz Score QA: ", mean_quiz_score_qa)
 
+    # no_answer_faq =
+    # no_answer_qa =
+    # no_answer_jugglechat =
+    # no_answer_total =
+
     with open('results.json', 'w') as fp:
         json.dump(results, fp)
 

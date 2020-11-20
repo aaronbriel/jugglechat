@@ -1,6 +1,8 @@
 import json
 import matplotlib.pyplot as plt
+import numpy as np
 import pandas as pd
+import seaborn as sns
 from wordcloud import WordCloud
 
 
@@ -42,38 +44,119 @@ def create_wordclouds():
     plt.close()
 
 
-def create_accuracy_usefulness_plot():
+def plot_quiz_results():
+    """
+    Plots mean quiz scores for each experimental group.
+    :return:
+    """
     with open("results.json", "r") as results:
         results_json = json.load(results)
 
-    values = []
-    alpha_priors_column = []
-    for alpha_priors_ in alpha_priors_list:
-        values_ = get_expected_value(observations, alpha_priors_)
-        values.append(values_)
-        alpha_priors_column.append(", ".join(str(x) for x in alpha_priors_))
+    mean_quiz_score_control = results_json['mean_quiz_score_control']
+    mean_quiz_score_jugglechat = results_json['mean_quiz_score_jugglechat']
+    mean_quiz_score_faq = results_json['mean_quiz_score_faq']
+    mean_quiz_score_qa = results_json['mean_quiz_score_qa']
+    mean_quiz_scores = [
+        mean_quiz_score_control,
+        mean_quiz_score_jugglechat,
+        mean_quiz_score_faq,
+        mean_quiz_score_qa]
 
-    df = pd.DataFrame(values, columns=sentiment)
-    df['alpha_priors'] = alpha_priors_column
+    experimental_groups = ['Control', 'JuggleChat', 'FAQ', 'QA']
 
-    # Plot expectation graphic
-    data = pd.melt(
-        df,
-        var_name='sentiment',
-        value_name='expected_percent',
-        id_vars='alpha_priors'
-    )
+    mean_series = pd.Series(mean_quiz_scores)
     plt.figure()
-    sns.barplot(
-        data=data,
-        x='alpha_priors',
-        y='expected_percent',
-        palette='hls',
-        hue='sentiment'
-    )
-    plt.savefig("accuracy_and_usefulness.png", dpi=300)
+    ax = mean_series.plot(kind='bar')
+
+    for bar in ax.patches:
+        y_location = bar.get_height() + .025
+        ax.text(bar.get_x(), y_location,
+                str(round(bar.get_height(), 5)), fontsize=10,
+                color='black')
+
+    plt.ylim(bottom=0, top=0.6)
+    y_position = np.arange(len(experimental_groups))
+    plt.bar(y_position, mean_quiz_scores, align='center', color='#4a4a4a')
+    plt.xticks(y_position, experimental_groups, rotation='horizontal')
+    plt.ylabel('Mean Quiz Scores')
+    plt.savefig('images/quiz_scores.png')
+    plt.close()
+
+
+def plot_sentiment_results():
+    """
+    Plots mean sentiment for each experimental group.
+    :return:
+    """
+    with open("results.json", "r") as results:
+        results_json = json.load(results)
+
+    mean_sentiment_faq = results_json['mean_sentiment_faq']
+    mean_sentiment_jugglechat = results_json['mean_sentiment_jugglechat']
+    mean_sentiment_qa = results_json['mean_sentiment_qa']
+    mean_sentiments = [
+        mean_sentiment_faq,
+        mean_sentiment_jugglechat,
+        mean_sentiment_qa]
+
+    experimental_groups = ['FAQ', 'JuggleChat', 'QA']
+
+    mean_series = pd.Series(mean_sentiments)
+    plt.figure()
+    ax = mean_series.plot(kind='bar')
+
+    for bar in ax.patches:
+        x_location = bar.get_x() + 0.125
+        y_location = bar.get_height() + .025
+        ax.text(x_location, y_location,
+                str(round(bar.get_height(), 2)), fontsize=10,
+                color='black')
+
+    plt.ylim(bottom=0, top=0.5)
+    y_position = np.arange(len(experimental_groups))
+    plt.bar(y_position, mean_sentiments, align='center', color='grey')
+    plt.xticks(y_position, experimental_groups, rotation='horizontal')
+    plt.ylabel('Mean Sentiments')
+    plt.savefig('images/sentiments.png')
+    plt.close()
+
+
+def plot_accuracy_and_usefulness():
+    """
+    Plots mean accuracy ratings and usefulness ratings for each experimental group.
+    """
+    with open("results.json", "r") as results:
+        results_json = json.load(results)
+
+    experimental_groups = ['FAQ', 'JuggleChat', 'QA']
+
+    accuracy = [
+        results_json['mean_accuracy_rating_faq']/10,
+        results_json['mean_accuracy_rating_jugglechat']/10,
+        results_json['mean_accuracy_rating_qa']/10
+    ]
+    usefulness = [
+        results_json['mean_usefulness_rating_faq']/10,
+        results_json['mean_usefulness_rating_jugglechat']/10,
+        results_json['mean_usefulness_rating_qa']/10
+    ]
+
+    bar_width = 0.25
+
+    accuracy_positions = np.arange(len(experimental_groups))
+    usefulness_positions = [x + bar_width for x in accuracy_positions]
+
+    plt.bar(accuracy_positions, accuracy, label='Accuracy Rating', width=bar_width, color='#666666', edgecolor='white')
+    plt.bar(usefulness_positions, usefulness, label='Usefulness Rating', width=bar_width, color='#adadad', edgecolor='white')
+
+    plt.xticks([tick + bar_width/2 for tick in range(len(accuracy))], experimental_groups)
+    plt.legend()
+
+    plt.savefig("images/accuracy_usefulness.png", dpi=300)
     plt.close()
 
 
 if __name__ == "__main__":
-    create_accuracy_usefulness_plot()
+    plot_quiz_results()
+    plot_sentiment_results()
+    plot_accuracy_and_usefulness()
