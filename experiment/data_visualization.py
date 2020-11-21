@@ -142,7 +142,7 @@ def plot_accuracy_and_usefulness():
         round(results_json['mean_usefulness_rating_qa']/10, 3)
     ]
 
-    bar_width = 0.25
+    bar_width = 0.3
 
     accuracy_positions = np.arange(len(experimental_groups))
     usefulness_positions = [x + bar_width for x in accuracy_positions]
@@ -181,7 +181,7 @@ def plot_accuracy_and_usefulness():
     def autolabel(rects, xpos='center'):
         xpos = xpos.lower()
         ha = {'center': 'center', 'right': 'left', 'left': 'right'}
-        offset = {'center': 0.5, 'right': 0.05, 'left': 0.95}
+        offset = {'center': 0.5, 'right': 0.1, 'left': 0.9}
 
         for rect in rects:
             height = rect.get_height()
