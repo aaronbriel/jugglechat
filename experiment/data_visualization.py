@@ -147,28 +147,8 @@ def plot_accuracy_and_usefulness():
     accuracy_positions = np.arange(len(experimental_groups))
     usefulness_positions = [x + bar_width for x in accuracy_positions]
 
-    # accuracy_series = pd.Series(accuracy)
-    # usefulness_series = pd.Series(usefulness)
-    # plt.figure()
-    # ax1 = accuracy_series.plot(kind='bar')
-    # ax2 = usefulness_series.plot(kind='bar')
-    #
-    # for bar in ax1.patches:
-    #     x_location = bar.get_x() + 0.125
-    #     y_location = bar.get_height() + .025
-    #     ax1.text(x_location, y_location,
-    #              str(round(bar.get_height(), 2)),
-    #              fontsize=10, color='black')
-    #
-    # for bar in ax2.patches:
-    #     x_location = bar.get_x() + 0.125
-    #     y_location = bar.get_height() + .025
-    #     ax2.text(x_location, y_location,
-    #              str(round(bar.get_height(), 2)),
-    #              fontsize=10, color='black')
-
     fig, ax = plt.subplots()
-    # widths = [bar_width / 2, bar_width / 2, bar_width / 2]
+
     accuracy_bars = ax.bar(accuracy_positions, accuracy, bar_width,
                            color='#666666', label='Accuracy Rating', edgecolor='white')
     usefulness_bars = ax.bar(usefulness_positions, usefulness, bar_width,
@@ -181,7 +161,7 @@ def plot_accuracy_and_usefulness():
     def autolabel(rects, xpos='center'):
         xpos = xpos.lower()
         ha = {'center': 'center', 'right': 'left', 'left': 'right'}
-        offset = {'center': 0.5, 'right': 0.1, 'left': 0.9}
+        offset = {'center': 0.5, 'right': 0.09, 'left': 0.89}
 
         for rect in rects:
             height = rect.get_height()
@@ -190,14 +170,6 @@ def plot_accuracy_and_usefulness():
 
     autolabel(accuracy_bars, "left")
     autolabel(usefulness_bars, "right")
-
-    # plt.bar(accuracy_positions, accuracy,
-    #         label='Accuracy Rating', width=bar_width, color='#666666', edgecolor='white')
-    # plt.bar(usefulness_positions, usefulness,
-    #         label='Usefulness Rating', width=bar_width, color='#adadad', edgecolor='white')
-    #
-    # plt.xticks([tick + bar_width/2 for tick in range(len(accuracy))], experimental_groups)
-    # plt.legend()
 
     plt.savefig("images/accuracy_usefulness.png", dpi=300)
     plt.close()
