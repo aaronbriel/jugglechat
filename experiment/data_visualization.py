@@ -109,8 +109,8 @@ def plot_sentiment_results():
         x_location = bar.get_x() + 0.125
         y_location = bar.get_height() + .025
         ax.text(x_location, y_location,
-                str(round(bar.get_height(), 2)), fontsize=10,
-                color='black')
+                str(round(bar.get_height(), 2)),
+                fontsize=10, color='black')
 
     plt.ylim(bottom=0, top=0.5)
     y_position = np.arange(len(experimental_groups))
@@ -123,7 +123,8 @@ def plot_sentiment_results():
 
 def plot_accuracy_and_usefulness():
     """
-    Plots mean accuracy ratings and usefulness ratings for each experimental group.
+    Plots mean accuracy ratings and usefulness ratings for each experimental group. Contains code
+    inspired from: https://matplotlib.org/gallery/api/barchart.html
     """
     with open("results.json", "r") as results:
         results_json = json.load(results)
@@ -131,14 +132,14 @@ def plot_accuracy_and_usefulness():
     experimental_groups = ['FAQ', 'JuggleChat', 'QA']
 
     accuracy = [
-        results_json['mean_accuracy_rating_faq']/10,
-        results_json['mean_accuracy_rating_jugglechat']/10,
-        results_json['mean_accuracy_rating_qa']/10
+        round(results_json['mean_accuracy_rating_faq']/10, 3),
+        round(results_json['mean_accuracy_rating_jugglechat']/10, 3),
+        round(results_json['mean_accuracy_rating_qa']/10, 3)
     ]
     usefulness = [
-        results_json['mean_usefulness_rating_faq']/10,
-        results_json['mean_usefulness_rating_jugglechat']/10,
-        results_json['mean_usefulness_rating_qa']/10
+        round(results_json['mean_usefulness_rating_faq']/10, 3),
+        round(results_json['mean_usefulness_rating_jugglechat']/10, 3),
+        round(results_json['mean_usefulness_rating_qa']/10, 3)
     ]
 
     bar_width = 0.25
@@ -146,11 +147,57 @@ def plot_accuracy_and_usefulness():
     accuracy_positions = np.arange(len(experimental_groups))
     usefulness_positions = [x + bar_width for x in accuracy_positions]
 
-    plt.bar(accuracy_positions, accuracy, label='Accuracy Rating', width=bar_width, color='#666666', edgecolor='white')
-    plt.bar(usefulness_positions, usefulness, label='Usefulness Rating', width=bar_width, color='#adadad', edgecolor='white')
+    # accuracy_series = pd.Series(accuracy)
+    # usefulness_series = pd.Series(usefulness)
+    # plt.figure()
+    # ax1 = accuracy_series.plot(kind='bar')
+    # ax2 = usefulness_series.plot(kind='bar')
+    #
+    # for bar in ax1.patches:
+    #     x_location = bar.get_x() + 0.125
+    #     y_location = bar.get_height() + .025
+    #     ax1.text(x_location, y_location,
+    #              str(round(bar.get_height(), 2)),
+    #              fontsize=10, color='black')
+    #
+    # for bar in ax2.patches:
+    #     x_location = bar.get_x() + 0.125
+    #     y_location = bar.get_height() + .025
+    #     ax2.text(x_location, y_location,
+    #              str(round(bar.get_height(), 2)),
+    #              fontsize=10, color='black')
 
-    plt.xticks([tick + bar_width/2 for tick in range(len(accuracy))], experimental_groups)
-    plt.legend()
+    fig, ax = plt.subplots()
+    # widths = [bar_width / 2, bar_width / 2, bar_width / 2]
+    accuracy_bars = ax.bar(accuracy_positions, accuracy, bar_width,
+                           color='#666666', label='Accuracy Rating', edgecolor='white')
+    usefulness_bars = ax.bar(usefulness_positions, usefulness, bar_width,
+                             color='#adadad', label='Usefulness Rating', edgecolor='white')
+
+    ax.set_xticks([tick + bar_width/2 for tick in range(len(accuracy))])
+    ax.set_xticklabels(experimental_groups)
+    ax.legend()
+
+    def autolabel(rects, xpos='center'):
+        xpos = xpos.lower()
+        ha = {'center': 'center', 'right': 'left', 'left': 'right'}
+        offset = {'center': 0.5, 'right': 0.05, 'left': 0.95}
+
+        for rect in rects:
+            height = rect.get_height()
+            ax.text(rect.get_x() + rect.get_width() * offset[xpos], 1.001 * height,
+                    '{}'.format(height), ha=ha[xpos], va='bottom')
+
+    autolabel(accuracy_bars, "left")
+    autolabel(usefulness_bars, "right")
+
+    # plt.bar(accuracy_positions, accuracy,
+    #         label='Accuracy Rating', width=bar_width, color='#666666', edgecolor='white')
+    # plt.bar(usefulness_positions, usefulness,
+    #         label='Usefulness Rating', width=bar_width, color='#adadad', edgecolor='white')
+    #
+    # plt.xticks([tick + bar_width/2 for tick in range(len(accuracy))], experimental_groups)
+    # plt.legend()
 
     plt.savefig("images/accuracy_usefulness.png", dpi=300)
     plt.close()
