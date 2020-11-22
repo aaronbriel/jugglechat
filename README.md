@@ -188,7 +188,7 @@ kill all celery workers:
 For the non-chat control group, simply complete step 4 with experimentalGroup set to "control". For the rest, 
 follow all listed steps.
 
-1. Modify celery_app > tasks.py call_rasa_nlp to pass in control_group (ie qa or faq) to Allocator instantiation. This 
+1. Modify celery_app > tasks.py call_rasa_nlp to pass in control_group (ie "qa" or "faq") to Allocator instantiation. This 
 forces allocator to return that control group every time. There is no need for control_group with JuggleChat, as it is 
 the default.
 

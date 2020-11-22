@@ -274,7 +274,7 @@ def main():
         print("Are you sure you wish to re-prepare the data? If so, press 'c'.")
         import pdb
         pdb.set_trace()
-
+        
         # Used to fix SQuAD formatted dataset exported from haystack to remove 'QUESTIONS' chunk
         # and update answer starts appropriately
         # clean_squad_file_and_update_answer_starts(
@@ -298,12 +298,14 @@ def main():
             squad_file=QA_DATA_PATH + QA_DATASET_DEEPSET,
             storage_filename=args.doc_dir + QA_DATASET_DEEPSET.replace('.json', '.txt')
         )
+        # Converting deepset dataset to CSV for elasticsearch indexing
+        convert_squad_to_csv(QA_DATA_PATH + FAQ_DATASET_DEEPSET)
 
 
 if __name__ == "__main__":
     from config import (
         get_args, QA_DATA_PATH, QA_DATASET_JUGGLECHAT, QA_DATASET_DEEPSET,
-        QA_DATASET_FULL, FAQ_DATASET_JUGGLECHAT, FAQ_DATA_PATH
+        QA_DATASET_FULL, FAQ_DATASET_JUGGLECHAT, FAQ_DATA_PATH, FAQ_DATASET_DEEPSET
     )
     main()
 else:

@@ -91,6 +91,9 @@ store_faq: ## Store data in elasticsearch for FAQ
 store_faq_experiment: ## Store data in elasticsearch for FAQ experimental control group
 	. .venv/bin/activate && python chatbots/haystack/faqbot.py --command store --run_type experiment
 
+store_faq_deepset: ## Store deepset's COVID-QA question answer pairs for deepset followup test
+	. .venv/bin/activate && python chatbots/haystack/faqbot.py --command store --run_type deepset
+
 prepare_qa: ## Prepare QA data
 	. .venv/bin/activate && python chatbots/haystack/qabot.py --command prepare_data
 

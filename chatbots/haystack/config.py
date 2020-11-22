@@ -11,6 +11,7 @@ BASE_PATH = os.getenv("BASE_PATH")
 FAQ_DATA_PATH = BASE_PATH + 'chatbots/haystack/data/faq/'
 FAQ_DATASET_FULL = 'faq-jhu_covid_qa-refined-cleaned.csv'
 FAQ_DATASET_JUGGLECHAT = 'faq-jhu_covid_qa-refined-cleaned-FAQ.csv'
+FAQ_DATASET_DEEPSET = 'deepset_COVID-QA.csv'
 
 QA_DATA_PATH = BASE_PATH + 'chatbots/haystack/data/qa/'
 QA_DATASET_FULL = 'squad-jhu_covid_qa-refined-cleaned.json'
@@ -54,6 +55,7 @@ def get_args(
 
     if run_type == 'deepset':
         model_name_or_path = 'deepset/roberta-base-squad2-covid'
+        faq_dataset = FAQ_DATASET_DEEPSET
 
     if chatbot == 'qa':
         train_filename = qa_dataset
