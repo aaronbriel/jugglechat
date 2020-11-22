@@ -132,14 +132,14 @@ def plot_accuracy_and_usefulness():
     experimental_groups = ['FAQ', 'JuggleChat', 'QA']
 
     accuracy = [
-        round(results_json['mean_accuracy_rating_faq']/10, 3),
-        round(results_json['mean_accuracy_rating_jugglechat']/10, 3),
-        round(results_json['mean_accuracy_rating_qa']/10, 3)
+        round(results_json['mean_accuracy_rating_faq'], 3),
+        round(results_json['mean_accuracy_rating_jugglechat'], 3),
+        round(results_json['mean_accuracy_rating_qa'], 3)
     ]
     usefulness = [
-        round(results_json['mean_usefulness_rating_faq']/10, 3),
-        round(results_json['mean_usefulness_rating_jugglechat']/10, 3),
-        round(results_json['mean_usefulness_rating_qa']/10, 3)
+        round(results_json['mean_usefulness_rating_faq'], 3),
+        round(results_json['mean_usefulness_rating_jugglechat'], 3),
+        round(results_json['mean_usefulness_rating_qa'], 3)
     ]
 
     bar_width = 0.3
@@ -161,7 +161,7 @@ def plot_accuracy_and_usefulness():
     def autolabel(rects, xpos='center'):
         xpos = xpos.lower()
         ha = {'center': 'center', 'right': 'left', 'left': 'right'}
-        offset = {'center': 0.5, 'right': 0.09, 'left': 0.89}
+        offset = {'center': 0.5, 'right': 0.2, 'left': 0.8}
 
         for rect in rects:
             height = rect.get_height()
