@@ -274,7 +274,7 @@ def main():
         print("Are you sure you wish to re-prepare the data? If so, press 'c'.")
         import pdb
         pdb.set_trace()
-        
+
         # Used to fix SQuAD formatted dataset exported from haystack to remove 'QUESTIONS' chunk
         # and update answer starts appropriately
         # clean_squad_file_and_update_answer_starts(

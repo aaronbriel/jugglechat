@@ -116,7 +116,7 @@ def plot_sentiment_results():
     y_position = np.arange(len(experimental_groups))
     plt.bar(y_position, mean_sentiments, align='center', color='grey')
     plt.xticks(y_position, experimental_groups, rotation='horizontal')
-    plt.ylabel('Mean Sentiments')
+    plt.ylabel('Mean Sentiment')
     plt.savefig('images/sentiments.png')
     plt.close()
 

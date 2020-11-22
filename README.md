@@ -198,7 +198,7 @@ qa_experiment and the latter points the qa chatbot's model path to the full QA s
 READER_MODEL_PATH="models/qa_default"
 
 NOTE: For the added experimental run to get results with deepset's extractive-QA model, RUN_TYPE=deepset, 
-READER_MODEL_PATH="deepset/roberta-base-squad2-covid", 
+READER_MODEL_PATH="deepset/roberta-base-squad2-covid", with control_group="qa" for (1)
 
 3. Restart all supervisor processes:
 
