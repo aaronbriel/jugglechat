@@ -13,7 +13,9 @@ rasa==2.1.0
 rasa-core==0.14.5
 redis==3.5.3
 requests==2.24.0
+researchpy==0.2.3
 scikit-learn==0.23.2
+scipy==1.6.0
 simpletransformers==0.44.0
 torch==1.5.1
 tqdm==4.50.0
