@@ -1,101 +1,101 @@
-group,evaluation_sentiment,evaluation_accuracy,evaluation_usefulness
-qa,"The chat didn't really answer my questions, and it wasn't able to understand what I was asking. I had asked a question about the united states and it gave me an answer about Germany. When asking about if masks work it just gave me a generic answer.",2,3
-qa,Questions needed a fuller answer than possible to give in a chat. Felt awkward.,6,8
-qa,"The responses varied in terms of accuracy, some of them were good but others misinterpreted what I said. The responses were a little tersely worded too, and not very conversational.",5,4
-qa,The bot was very useful and gave speedy and accurate answers. Impressed by it.,10,10
-qa,not great- responses weren't relevant and links etc didn't work properly. felt impersonal and confused,3,2
-qa,The chat did not respond accurately to the questions I asked.,3,3
-qa,It was good straight to the point however did interprete on of my questions incorrectly,5,7
-qa,"Not really helpful.  Many of the results did not answer my question, some did not take into account my location and reported on a random location.  All told, there was minimal value in the the conversations with the chatbot.",2,3
-qa,the robot didnt really answer one of my questions,5,3
-qa,"It wasn't all that great because of the fact that if I asked questions that required a little more context than a normal question would have, I did not get a satisfactory answer. If this bot was posed with easier questions I feel like it would have done much better. It is still good, just not great.",6,7
-qa,The chat bot didn't seem to know the answer to my questions and didn't seem to understand what I was asking of it.,2,3
-qa,"I found that it wasn't well tailored to my specific questions, and that it just seemed to pick up on key words but not actually answer the question",2,2
-qa,"The chat is vague and impersonal, the responses are inaccurate, rarely answering the question asked.",1,1
-qa,"The chat bot is pretty limited. It repeated the same answers over and over: wash hands, avoid sick persons. I understand that it needs to stick to accurate and established facts, which is why it didn't provide much of a response to my question about asymptomatic transmission. Maybe I should have asked it specific questions, like where can I get tested for Covid-19: that would be important information for the bot to provide. The information it provided was just common knowledge.",4,10
-qa,"Immediately underwhelmed. The responses seemed random in nature and didn't seem to correlate with anything I asked, which I identified upon asking my first question.",1,1
-qa,"It was relatively good at answering the questions I asked. I had some difficulty with my phrasing in 2 questions perhaps, however the questions that were extremely clear were answered correctly",9,7
-qa,The answers were not always relevant to the question,3,3
-qa,"It had good information but only on the last question did it answer the question asked. The grammar was fine but punctuation was missing, including some capital letters. It seemed that if it could not answer the question then it just gave some info that was tangibly relevant. Cool though.",7,3
-qa,"I didnt think it was very helpfull, wasnt really answering my questions.",2,3
-qa,"Very detailed, lots of information, well informed and can pick up key words with ease. very clear and easy experience",10,10
-qa,"very good , quick",10,10
-qa,The chatbot seemed to barely read my questions. I have a low opinion of it.,2,2
-qa,Awful. None of my questions were actually answered.,1,1
-qa,"Poor. The answers were not even close to a response to what I'd written, I expect that it was scripted to give those precise responses whatever I had written",1,1
-qa,the facility is great but I feel overall accuracy need to be improved upon,4,4
-qa,it was not acurate and some answers made no sense - and were not related to the questions asked,3,3
-qa,Good fun and easy to do.,3,2
-qa,it was strange,1,8
-qa,Knowledgeable but could not understand my questions,6,4
-qa,"Some very simple questions such as where was Covid-19 were accurately answered, but other simple questions such as what is Covid-19 were not accurate at all. It seemed to default to posting a paragraph about various prompts that presumably it could respond to.",3,4
-qa,Very poor answers from the chatbot that didn't really answer any of my questions. Maybe my choice of language was too advanced,1,2
-qa,I had no clue what was expected of me. I didn't know whether I was asking questions or the bot was,1,1
-qa,It was ok not to the point and answer were not satisfying.,4,4
-qa,It was ok. There were one or two questions I asked but a generic unrelated answer was provided.,7,7
-qa,Not very good could be more detailed in certain answers given,4,5
-qa,"It seems very accurate in its ability to understand my questions and give relevant, concise information. It did falter slightly when i used the term ""coronavirus"" rather than ""covid-19""",9,9
-qa,"It was pretty good overall. Was very fast to respond, and in most cases came back with information that was relevant to the question I asked. I think on one question it answered with something irrelevant, but that may have been due to the way I worded the question.",8,8
-qa,Straight to the point. easy to use. Not aware if you can ask questions though,9,9
-qa,I wasn't so sure,5,4
-qa,"It did not give me accurate answers, except for my question about long-term effects. It seemed to not understand the remainder of my questions. It did answer very quickly.",2,2
-qa,it was very generic in it's responses but quick at responding and didnt understand some of the questions asked.,4,4
-qa,didnt answer most of my questions properly,2,2
-qa,"It was good but for some of the questions, the answers didn't really match up",6,6
-qa,Repeating of the same phrase with little else information provided,4,5
-qa,"Responsive, accurately picks out key words. Was hard to know what sort of questions to ask as a lot already covered in the information.",8,8
-qa,The chatbot needs work. I asked a question and got an answer unrelated to the question. It was something like does over the counter drugs fight covid,5,4
-qa,"It didn’t entirely understand my questions, like where the virus originated.",7,7
-qa,"It is okay, it does not answer very specificallly.",1,8
-qa,It was not very good. The bot does not understand much.,2,2
-qa,"Mixed experience with ChatBot, did not fully understand questions asked so gave irrelevant answers to some. I asked what the main symptoms were but the bot returned an answer about no evidence of transmission in food. Other questions asked were answered but not very succinctly.",5,4
-qa,"Overall, i think it was okay but it could have answered a bit better",7,6
-qa,"Some of the questions I asked, the chat box didn't answer my question, it answered something completely different",3,4
-qa,"Very poor.  The chatbot didn't seem to understand the meaning of asymptomatic, which is a surprise given it is commonly used with reference to covid-19.  When I asked a question about longcovid, it again misunderstood the term.  And in answer to one question it gave a what seemed nonsensical answer of 'checking at the airport'.  If I had been using this in a genuine situation I would have been very disappointed",1,1
-qa,"Only some of the answers had any significance to what i asked. One of the questions was about how likely children are to catch it. It gave a random answer. I know it looks for key words, but it needs more tuning.",6,5
-qa,It was mostly useful except for some questions that it had some difficulty in answering correctely.,8,7
-qa,"Hit and miss, it often gave responses related to the questions, but not answering the questions.",6,6
-qa,The response was not relevant to the question asked in 4 out of the five questions.,2,2
-qa,Very easy,7,7
-qa,"very vague, gave me quite a few wrong answers, maybe this is not targeted at the UK market",2,4
-qa,"The chatbot was not very helpful, as it only correctly answered 2 of my questions. Most of the answers the chatbot gave did not correspond to the questions in any way. It seemed that it was just looking for key words in the questions, and pulling any information from the document that matched, regardless of the context.",2,2
-qa,The answers were very quickly sent. The robot was friendly in its replies however not very accurate. Most of the answers did not answer the question and one was pasting names of pdf files (without the links).,4,3
-qa,The first question was answered but when I had a more complex question it struggled to answer. Most of the answers were not directly related to the questions.,3,5
-qa,Unimpressive. The bot wasn't able to answer my questions relevantly and the ones it did I'm pretty sure were inaccurate or factually incorrect.,2,2
-qa,"poor, did not answer questions accurately, answers often unrelated to questions.",2,3
-qa,Not great - the information was repetitive and didn't really answer the question.,5,6
-qa,"The chat was very quick at replying. Although some of the answers were accurate, they were not very detailed and did not provide advice beyond the minimum. If you were to type the same question into google you would be able to find more specific information for your own situation.",5,7
-qa,quick to respond although some answers weren't relevant to the question.,6,7
-qa,To be honest I would be quicker using Google as the answers bore no resemblence to the questions,1,1
-qa,"It didn't answer anything I asked fluidly, it seemed pretty rigid in responses even if they didn't make sense like it was picking out a keyword.",2,4
-qa,"I felt that some questions were answered really well but others didn't hit it correctly. For instance when asked where the virus originated from, the chatbot replied with the is passed from person-to-person. This did not answer my question of where it started.",7,6
-qa,"Some of the questions weren't answered, it clearly had answers ready to go, no matter what the input question was. One of the answers was very vague and not linked to the question, but at least the others were clear answers to inform people about Covid.",3,4
-qa,"Overall, it was quick in responses and easy to use, the automatic response is appealing as you don't have to wait for a response. However, if more detailed questions were asked I feel it may not have the capacity to fully answer the question.",8,8
-qa,"Did feel it was quite confusing as the response to my questions did not line up, did not take notice of my question details.",1,3
-qa,"Being honest here, it wasn't very accurate. I tried to ask relatively simple questions and the responses were loosely tied to one or two words in my question. Not very effective in my opinion. I understand things like this must go through large trial phases so I hope my questions helped the bot learn something.",4,4
-qa,"Terrible, it didn't answer most of my questions",2,3
-qa,The chat was very quick to reply but the responses were completely inaccurate or irrelevant to the questions that I asked. I liked the layout and it was easy to read the responses and ask the questions but ultimately it felt more like style over substance. I think if I genuinely wanted answers it would have been very frustrating that it didn't actually answer the questions that I asked.,3,1
-qa,"It was okay, sometimes the bot was good, sometimes not so much. For example, I asked when the virus was discovered and it answered ""Wuhan, China"". Also, I asked what the incubation period was and I expected it to say ""Between 2-14 days, with 5 day median"", but instead it just said ""14 days""",8,7
-qa,"It felt strange as statements were presented rather than questions, however, it was easy to follow",8,8
-qa,"some answers were good and addressed the question, some didn't make a lot of sense",5,7
-qa,"It had good information, but it did not interpret questions in all case",8,6
-qa,"It was not great. The chatbot only understood 2 of my questions and they were very basic! I believe that I phrased the questions very simply, so it wasn't a good response",4,3
-qa,good but the replies were too fast,7,8
-qa,"I found the chatbot did not respond well to even the most simple questions, such as I'm not sure if I have Covid-19.  There was not real introductions as to how the chatbot may help me. Nothing stated that would indicate the type of bot it is or indications of its abilities to solve issues online. There was no alternative information offered either, such as how to contact another source of information or a real doctor. No links to websites of phone contact.",1,1
-qa,it was ok but answers we too canned or robtic.,4,5
-qa,I may have misunderstood the survey and asked the wrong kind of questions as although I asked relevant questions someone could have  in relation to the informative document  provided I didn't get any relevant answers.,7,7
-qa,it is very quick and the layout is clear,2,2
-qa,Gave quite good responses though some were repeated for different questions,6,7
-qa,"The chat experience was average. It answered most my questions accurately but some of my questions were incorrectly answered. Additionally, quick response time was quite fantastic.",8,6
-qa,"The chat worked really well, the answers were appropriate and in response to my question and came back at a good response rate. I thought the chat was good and really useful and easy to use.",10,9
-qa,"Twice I received the same answer that appeared to originally be in a list format with hyperlinks, however wasn't useful for the purposes of a chat bot, however 2 of the 5 questions seemed accurate and helpful.",4,4
-qa,Only one answer was correct in my opinion. Feel like the answers went very off par.,2,2
-qa,It was not very good. Only one out of the six questions that i asked (It couldn't answer one so i had to change it) were answered properly. Many questions i asked were answered with information that i didnt ask for. Seemed very clunky and unresponsive to the questions it was being asked.,6,3
-qa,It was all right.  It missed a few questions that I asked.  I think it needs more work to be able to understand grammar maybe.  I asked which city currently is doing the best and the reply was Wuhan.,3,3
-qa,"It repeats the definition of covid, and not straight answers.",8,7
-qa,"It is quick and accurate, however I feel on one of the questions it did not understand what I was asking.",9,9
-qa,"It's pretty good answered most of my questions well, except one.",9,8
-qa,"It was a little confusing at first, but once I realized what I had to do it was okay. I'm not really sure what the point was of this whole thing.",9,7
-qa,"It is not great, its slow and clunky to use. It doesn't produce the right answers. I would not recommend using this.",4,4
-qa,"I found that the chat experience when questioning Chat Bot was rather inaccurate and felt as if the Chat Bot had simply googled what I asked for some questions, and others I was given the same answer twice for 2 different questions that I had asked it. Although I liked some of the answers and the accuracy that they showed, the answers themselves just felt very pre-written and set.",6,5
-qa,"Not very good, I asked the bot simple questions and came up with inaccurate answers.",1,2
+group,evaluation_sentiment,evaluation_accuracy,evaluation_usefulness,sentiment
+qa,"The chat didn't really answer my questions, and it wasn't able to understand what I was asking. I had asked a question about the united states and it gave me an answer about Germany. When asking about if masks work it just gave me a generic answer.",2,3,0
+qa,Questions needed a fuller answer than possible to give in a chat. Felt awkward.,6,8,0
+qa,"The responses varied in terms of accuracy, some of them were good but others misinterpreted what I said. The responses were a little tersely worded too, and not very conversational.",5,4,0
+qa,The bot was very useful and gave speedy and accurate answers. Impressed by it.,10,10,1
+qa,not great- responses weren't relevant and links etc didn't work properly. felt impersonal and confused,3,2,0
+qa,The chat did not respond accurately to the questions I asked.,3,3,0
+qa,It was good straight to the point however did interprete on of my questions incorrectly,5,7,0
+qa,"Not really helpful.  Many of the results did not answer my question, some did not take into account my location and reported on a random location.  All told, there was minimal value in the the conversations with the chatbot.",2,3,0
+qa,the robot didnt really answer one of my questions,5,3,0
+qa,"It wasn't all that great because of the fact that if I asked questions that required a little more context than a normal question would have, I did not get a satisfactory answer. If this bot was posed with easier questions I feel like it would have done much better. It is still good, just not great.",6,7,0
+qa,The chat bot didn't seem to know the answer to my questions and didn't seem to understand what I was asking of it.,2,3,0
+qa,"I found that it wasn't well tailored to my specific questions, and that it just seemed to pick up on key words but not actually answer the question",2,2,0
+qa,"The chat is vague and impersonal, the responses are inaccurate, rarely answering the question asked.",1,1,0
+qa,"The chat bot is pretty limited. It repeated the same answers over and over: wash hands, avoid sick persons. I understand that it needs to stick to accurate and established facts, which is why it didn't provide much of a response to my question about asymptomatic transmission. Maybe I should have asked it specific questions, like where can I get tested for Covid-19: that would be important information for the bot to provide. The information it provided was just common knowledge.",4,10,0
+qa,"Immediately underwhelmed. The responses seemed random in nature and didn't seem to correlate with anything I asked, which I identified upon asking my first question.",1,1,0
+qa,"It was relatively good at answering the questions I asked. I had some difficulty with my phrasing in 2 questions perhaps, however the questions that were extremely clear were answered correctly",9,7,1
+qa,The answers were not always relevant to the question,3,3,0
+qa,"It had good information but only on the last question did it answer the question asked. The grammar was fine but punctuation was missing, including some capital letters. It seemed that if it could not answer the question then it just gave some info that was tangibly relevant. Cool though.",7,3,0
+qa,"I didnt think it was very helpfull, wasnt really answering my questions.",2,3,0
+qa,"Very detailed, lots of information, well informed and can pick up key words with ease. very clear and easy experience",10,10,1
+qa,"very good , quick",10,10,1
+qa,The chatbot seemed to barely read my questions. I have a low opinion of it.,2,2,0
+qa,Awful. None of my questions were actually answered.,1,1,0
+qa,"Poor. The answers were not even close to a response to what I'd written, I expect that it was scripted to give those precise responses whatever I had written",1,1,0
+qa,the facility is great but I feel overall accuracy need to be improved upon,4,4,0
+qa,it was not acurate and some answers made no sense - and were not related to the questions asked,3,3,0
+qa,Good fun and easy to do.,3,2,1
+qa,it was strange,1,8,0
+qa,Knowledgeable but could not understand my questions,6,4,0
+qa,"Some very simple questions such as where was Covid-19 were accurately answered, but other simple questions such as what is Covid-19 were not accurate at all. It seemed to default to posting a paragraph about various prompts that presumably it could respond to.",3,4,0
+qa,Very poor answers from the chatbot that didn't really answer any of my questions. Maybe my choice of language was too advanced,1,2,0
+qa,I had no clue what was expected of me. I didn't know whether I was asking questions or the bot was,1,1,0
+qa,It was ok not to the point and answer were not satisfying.,4,4,0
+qa,It was ok. There were one or two questions I asked but a generic unrelated answer was provided.,7,7,1
+qa,Not very good could be more detailed in certain answers given,4,5,0
+qa,"It seems very accurate in its ability to understand my questions and give relevant, concise information. It did falter slightly when i used the term ""coronavirus"" rather than ""covid-19""",9,9,1
+qa,"It was pretty good overall. Was very fast to respond, and in most cases came back with information that was relevant to the question I asked. I think on one question it answered with something irrelevant, but that may have been due to the way I worded the question.",8,8,1
+qa,Straight to the point. easy to use. Not aware if you can ask questions though,9,9,0
+qa,I wasn't so sure,5,4,0
+qa,"It did not give me accurate answers, except for my question about long-term effects. It seemed to not understand the remainder of my questions. It did answer very quickly.",2,2,0
+qa,it was very generic in it's responses but quick at responding and didnt understand some of the questions asked.,4,4,0
+qa,didnt answer most of my questions properly,2,2,0
+qa,"It was good but for some of the questions, the answers didn't really match up",6,6,0
+qa,Repeating of the same phrase with little else information provided,4,5,0
+qa,"Responsive, accurately picks out key words. Was hard to know what sort of questions to ask as a lot already covered in the information.",8,8,0
+qa,The chatbot needs work. I asked a question and got an answer unrelated to the question. It was something like does over the counter drugs fight covid,5,4,0
+qa,"It didn’t entirely understand my questions, like where the virus originated.",7,7,0
+qa,"It is okay, it does not answer very specificallly.",1,8,0
+qa,It was not very good. The bot does not understand much.,2,2,0
+qa,"Mixed experience with ChatBot, did not fully understand questions asked so gave irrelevant answers to some. I asked what the main symptoms were but the bot returned an answer about no evidence of transmission in food. Other questions asked were answered but not very succinctly.",5,4,0
+qa,"Overall, i think it was okay but it could have answered a bit better",7,6,0
+qa,"Some of the questions I asked, the chat box didn't answer my question, it answered something completely different",3,4,0
+qa,"Very poor.  The chatbot didn't seem to understand the meaning of asymptomatic, which is a surprise given it is commonly used with reference to covid-19.  When I asked a question about longcovid, it again misunderstood the term.  And in answer to one question it gave a what seemed nonsensical answer of 'checking at the airport'.  If I had been using this in a genuine situation I would have been very disappointed",1,1,0
+qa,"Only some of the answers had any significance to what i asked. One of the questions was about how likely children are to catch it. It gave a random answer. I know it looks for key words, but it needs more tuning.",6,5,0
+qa,It was mostly useful except for some questions that it had some difficulty in answering correctely.,8,7,0
+qa,"Hit and miss, it often gave responses related to the questions, but not answering the questions.",6,6,0
+qa,The response was not relevant to the question asked in 4 out of the five questions.,2,2,0
+qa,Very easy,7,7,1
+qa,"very vague, gave me quite a few wrong answers, maybe this is not targeted at the UK market",2,4,0
+qa,"The chatbot was not very helpful, as it only correctly answered 2 of my questions. Most of the answers the chatbot gave did not correspond to the questions in any way. It seemed that it was just looking for key words in the questions, and pulling any information from the document that matched, regardless of the context.",2,2,0
+qa,The answers were very quickly sent. The robot was friendly in its replies however not very accurate. Most of the answers did not answer the question and one was pasting names of pdf files (without the links).,4,3,0
+qa,The first question was answered but when I had a more complex question it struggled to answer. Most of the answers were not directly related to the questions.,3,5,0
+qa,Unimpressive. The bot wasn't able to answer my questions relevantly and the ones it did I'm pretty sure were inaccurate or factually incorrect.,2,2,0
+qa,"poor, did not answer questions accurately, answers often unrelated to questions.",2,3,0
+qa,Not great - the information was repetitive and didn't really answer the question.,5,6,0
+qa,"The chat was very quick at replying. Although some of the answers were accurate, they were not very detailed and did not provide advice beyond the minimum. If you were to type the same question into google you would be able to find more specific information for your own situation.",5,7,0
+qa,quick to respond although some answers weren't relevant to the question.,6,7,0
+qa,To be honest I would be quicker using Google as the answers bore no resemblence to the questions,1,1,0
+qa,"It didn't answer anything I asked fluidly, it seemed pretty rigid in responses even if they didn't make sense like it was picking out a keyword.",2,4,0
+qa,"I felt that some questions were answered really well but others didn't hit it correctly. For instance when asked where the virus originated from, the chatbot replied with the is passed from person-to-person. This did not answer my question of where it started.",7,6,0
+qa,"Some of the questions weren't answered, it clearly had answers ready to go, no matter what the input question was. One of the answers was very vague and not linked to the question, but at least the others were clear answers to inform people about Covid.",3,4,1
+qa,"Overall, it was quick in responses and easy to use, the automatic response is appealing as you don't have to wait for a response. However, if more detailed questions were asked I feel it may not have the capacity to fully answer the question.",8,8,1
+qa,"Did feel it was quite confusing as the response to my questions did not line up, did not take notice of my question details.",1,3,0
+qa,"Being honest here, it wasn't very accurate. I tried to ask relatively simple questions and the responses were loosely tied to one or two words in my question. Not very effective in my opinion. I understand things like this must go through large trial phases so I hope my questions helped the bot learn something.",4,4,0
+qa,"Terrible, it didn't answer most of my questions",2,3,0
+qa,The chat was very quick to reply but the responses were completely inaccurate or irrelevant to the questions that I asked. I liked the layout and it was easy to read the responses and ask the questions but ultimately it felt more like style over substance. I think if I genuinely wanted answers it would have been very frustrating that it didn't actually answer the questions that I asked.,3,1,0
+qa,"It was okay, sometimes the bot was good, sometimes not so much. For example, I asked when the virus was discovered and it answered ""Wuhan, China"". Also, I asked what the incubation period was and I expected it to say ""Between 2-14 days, with 5 day median"", but instead it just said ""14 days""",8,7,0
+qa,"It felt strange as statements were presented rather than questions, however, it was easy to follow",8,8,0
+qa,"some answers were good and addressed the question, some didn't make a lot of sense",5,7,0
+qa,"It had good information, but it did not interpret questions in all case",8,6,0
+qa,"It was not great. The chatbot only understood 2 of my questions and they were very basic! I believe that I phrased the questions very simply, so it wasn't a good response",4,3,0
+qa,good but the replies were too fast,7,8,0
+qa,"I found the chatbot did not respond well to even the most simple questions, such as I'm not sure if I have Covid-19.  There was not real introductions as to how the chatbot may help me. Nothing stated that would indicate the type of bot it is or indications of its abilities to solve issues online. There was no alternative information offered either, such as how to contact another source of information or a real doctor. No links to websites of phone contact.",1,1,0
+qa,it was ok but answers we too canned or robtic.,4,5,0
+qa,I may have misunderstood the survey and asked the wrong kind of questions as although I asked relevant questions someone could have  in relation to the informative document  provided I didn't get any relevant answers.,7,7,0
+qa,it is very quick and the layout is clear,2,2,1
+qa,Gave quite good responses though some were repeated for different questions,6,7,1
+qa,"The chat experience was average. It answered most my questions accurately but some of my questions were incorrectly answered. Additionally, quick response time was quite fantastic.",8,6,1
+qa,"The chat worked really well, the answers were appropriate and in response to my question and came back at a good response rate. I thought the chat was good and really useful and easy to use.",10,9,1
+qa,"Twice I received the same answer that appeared to originally be in a list format with hyperlinks, however wasn't useful for the purposes of a chat bot, however 2 of the 5 questions seemed accurate and helpful.",4,4,1
+qa,Only one answer was correct in my opinion. Feel like the answers went very off par.,2,2,0
+qa,It was not very good. Only one out of the six questions that i asked (It couldn't answer one so i had to change it) were answered properly. Many questions i asked were answered with information that i didnt ask for. Seemed very clunky and unresponsive to the questions it was being asked.,6,3,0
+qa,It was all right.  It missed a few questions that I asked.  I think it needs more work to be able to understand grammar maybe.  I asked which city currently is doing the best and the reply was Wuhan.,3,3,0
+qa,"It repeats the definition of covid, and not straight answers.",8,7,1
+qa,"It is quick and accurate, however I feel on one of the questions it did not understand what I was asking.",9,9,0
+qa,"It's pretty good answered most of my questions well, except one.",9,8,1
+qa,"It was a little confusing at first, but once I realized what I had to do it was okay. I'm not really sure what the point was of this whole thing.",9,7,0
+qa,"It is not great, its slow and clunky to use. It doesn't produce the right answers. I would not recommend using this.",4,4,0
+qa,"I found that the chat experience when questioning Chat Bot was rather inaccurate and felt as if the Chat Bot had simply googled what I asked for some questions, and others I was given the same answer twice for 2 different questions that I had asked it. Although I liked some of the answers and the accuracy that they showed, the answers themselves just felt very pre-written and set.",6,5,0
+qa,"Not very good, I asked the bot simple questions and came up with inaccurate answers.",1,2,0

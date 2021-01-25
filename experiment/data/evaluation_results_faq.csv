@@ -1,101 +1,101 @@
-group,evaluation_sentiment,evaluation_accuracy,evaluation_usefulness
-faq,the answers sounded too scripted and repitative,3,6
-faq,Good and very impressive,7,8
-faq,"Good overall, based on the first couple of questions, it seemed like the bot was not recognizing certain words in my questions, as it gave me the same response for two different questions. However, the last three questions had accurate information.",9,8
-faq,The answers it gives seems to be quite technical and useful but not always accurate in representation the the question i asked. I asked who has been affected the most by corona virus and it told me the range of symptoms presented by corona virus.,8,6
-faq,"It overall was helpful. It seemed to have a clear default message I got twice during my questioning, but they were quite specific. I was pleasantly surprised that it responded well to the 'worry' question.",7,10
-faq,It didn't answer every question I had. One question was related to vaccination and I was given the same answer as I was to a different question about vaccines.,6,8
-faq,Not very good,5,3
-faq,awful. It didn't answer any of my questions at all. I ended up getting frustrated after two questions when I knew it wasn't responding correctly,1,1
-faq,Quite good an informative,9,9
-faq,"Somewhat good, gave detailed information in answers, though big walls of text could be hard to read. Also some of the responses weren't actually right for the question I asked. It might be good to have more directed sections or to know what keywords it recognises.",7,6
-faq,"The chat was informative, though it had limited information. It was able to provide an answer about the vaccine and provide information websites. For the last 3 questions it didn't answer what I asked. For that reason it wasn't very useful.",4,3
-faq,A bit confusing - the answers didn't always seem to correspond to the questions asked.,6,5
-faq,"Responses were very fast, but sometimes did not contain relevant information. Sometimes even if they did have relevant information that answered the question, it was phrased in a way that didn't make sense as a direct response.",3,3
-faq,"Very quick though the wall of text is a little much.  Also, the would you like to know more questions in the middle should either be links and at the bottom, not buried in the middle of the text.",9,9
-faq,"It did not answer my questions very well. Of the 5, one was answered properly. Another question was answered, but within a bulk of extraneous information. The other three questions weren't even close to being appropriately answered. The bot seemed to be better at generic, layman-friendly questions (""how does it spread",4,3
-faq,It was good for information. I think it used target words so when i asked about long covid it just talked about general covid.,7,6
-faq,Sometimes the chat bot didn't fully understand my question. I asked about women but it replied about pregnant women. I asked about children and it gave me very little information about children. I asked about the origins of the virus and it gave me exactly the information I needed. I also asked how I could protect myself from the virus but the chat bot interpreted this as how I could protect others.,6,7
-faq,"Overall it was a positive experience. It answered my questions with a good level of detail, responded quickly and suggested other questions that I might be interested in",10,10
-faq,The information given was very informative but somewhat repetitive and not always relevant to the question asked.,7,7
-faq,Fairly good - there was some content included that wasn't relevant (e.g. See question 10) where there are no options to see question 10,8,8
-faq,"Very simple, clear answers and easy to understand. Quite responsive as well",9,7
-faq,"Doesn't always answer the question asked, and often provides too much information. But still very informative.",8,6
-faq,It was surprisingly detailed - I was expecting more basic responses. I was impressed.,9,9
-faq,I really like the layout and the promptness of the chat bot.,9,5
-faq,"Really quick at giving an answer, seems to have the right info",9,9
-faq,"It wasnt very good and it was very repetitive, Often not giving the answers I was looking for",4,2
-faq,It was fast and gave me a good and detailed answer to the questions,10,8
-faq,"The bot was able to answer questions quickly and efficiently. The information it provided was overall useful and answered the question. The answers were also accessible, meaning that the length and vocabulary used could be read and understood easily by most (if not all) people.",9,10
-faq,Works well. Quick accurate responses,9,10
-faq,"Some of the questions were not answered well especially when these answers can be extracted with a google search. However, I find it does a good job at providing information on COVID19 rapidly and with some degree of accuracy",8,5
-faq,My overall impression is that the questions were answered quite accurately. But I asked a question about door handles and it answered about food packaging so that wasn't answering my question. It was helpful to be able to ask specific questions as it's easier to find the information I want than reading a long text.,9,8
-faq,I think there is too much detail to read it needs to be more catching,6,9
-faq,"Bot was very knowledgeable, but sometimes offered alternative information to what was requested. Too much information was provided in answer to a question.",6,6
-faq,It was ok but pretty basic. If you asked it anything it did not know it would repeat information it had already said,8,8
-faq,"Very good, it was speedy and the answers were accurate",9,9
-faq,At first I thought that it was good as it was able to answer two of the questions with appropriate answers then it did not. Every answer after the first two were all related to symptons and isolating etc.,4,5
-faq,"Not good, the bot did not answer the questions I asked, it gave general information",2,2
-faq,"Didn't understand my simple questions, answered the same to, two of my different questions. Had only 1 open question back to me.",6,5
-faq,The questions are incorrectly complex because they sound like a statement.,9,9
-faq,The responses where long winded. I would have preferred them to have been more structured and concise. Bullet points would have been handy .,10,10
-faq,"It was very quick to respond, however the answers were very lengthy and broad. One of the answers it did not answer accurately enough.",8,8
-faq,It was very clear and concise. It provided all the info that I needed and I thought it was very impressive.,10,8
-faq,"Quite positive - it answered most of the questions well and I liked how it provided links to additional information and the interactive maps. Some questions weren't really answered correctly though, like am I more at risk if I have a underlying health condition.",7,8
-faq,not so accurate,8,5
-faq,Half of the answers didn't correctly answer my questions at all. I found the answers to be too long-winded. They would be better if they were shorter.,5,5
-faq,"Not bad but could be better, some questions were not answered in a satisfactory way.",7,7
-faq,"Very quick, and detailed response, although I think the chat bot didn't recognise the word ""airborn"" - that may be my spelling",9,8
-faq,The questions were quite vague and not always accurate to what I was asking but it was quick and most answers were at least somewhat related.,5,4
-faq,"I may have asked it things it wasn't prepared to answer (Like the stats in the United states), because it didn't seem to understand properlyA few of the explanations were a little bit long, and seeing an answer (Especially such a long one) repeated verbatim gives a bit of a negative impression. Seems okay in general though",6,3
-faq,"The questions I asked got a somewhat related response, specific questions weren't very good but it did provide great information on the virus.",8,6
-faq,It was less helpful than reading the information in a full page - that was much more comprehensive. The chat seemed to latch on to one or two keywords and offer less specific information.,4,6
-faq,"The replies were very fast and accurate, i leaned a lot in a shot period of time.its very useful",10,10
-faq,It was quite good. Some responses seemed quite long and too full of information what was more detailed than expected,7,7
-faq,very repetitiveSame info given each time,4,4
-faq,I think that the information given is basic and what we already know. Some of it is contradictory to what we are being told by our goverments which makes it difficult to know if the bot can be trusted.,5,5
-faq,It was very detailed and lengthy. It wasn't easy to scroll,5,7
-faq,Very poor the same answer was repeated no matter what I wrote,1,1
-faq,I believe the Chatbot seemed to have very quick answers which were detailed. I asked questions regarding how does Coronavirus affect people with respiratory conditions existing ie athsma which the Chatbot did not provide a sufficient response for .I believe this may be because I named a specific breathing issue ie Asthma.,8,7
-faq,It's quite good but sometimes the chatbot didn't understand what I was asking it and misinterpreted the question. It was impressive how fast the responses were.,9,7
-faq,"It was quite intense, it was a lot of information thrown at me, like it had just been copied and pasted from a website. I didn't actually know what questions I was supposed to ask, as I didn't really have any questions as I already had a lot of information presented to me. However I did have 1 question but that seemed to be completely ignored and I had another wall of text thrown at me",2,1
-faq,"It was OK for some questions, but it didn't give me a specific response for most of them, and just game a long, generic answer. I liked how quick it was, and how it worded it's answers.",7,4
-faq,"It seemed to provide the same answer for several (slightly) different questions, so I don't think it really understands the questions.",5,5
-faq,I think the chat experience was fine. The way the messages appeared was a little jarring. The information was relative and mildly helpful but didn't necessarily answer my questions [but I might have misjudged the questions to ask],6,8
-faq,"Very good, it was speedy and the answers were accurate",9,9
-faq,"It was fine. In general it responded appropriately although it could still use some development. The length of the answers and the formatting was a bit off-putting, like getting a wall of text in a DM. I don't really understand the point of it being a chat bot particularly but I suppose it could direct people well.",6,7
-faq,More detailed responses than I expected. Mostly answered what I'd asked though not clear on one.,9,9
-faq,The chat responses were quick and thorough although it seemed to be general answers.,10,10
-faq,"The answers were too general and did not answer my questions very concisely. I had to read through the long answer to find the specific fact I wanted. One particular answer ended with a question mark when there was no question, this made me doubt the overall accuracy of the entire answer.",4,5
-faq,It's quite good but sometimes the chatbot didn't understand what I was asking it and misinterpreted the question. It was impressive how fast the responses were.,9,7
-faq,The chatbot did not directly answer my question.  The information given is general information not specific to my questions.,2,5
-faq,"The chat bot was good for high level information, it did not understand all questions but would guess presumably based on key words",7,6
-faq,"wasn't able to respond correctly to some of my questions, overall ok",2,8
-faq,"There were some mild spelling errors that initially made me view the accuracy of the chatbot in a less favourable light. However, I would say most answers tended to be largely accurate-- but, sometimes the chat would respond 'yes' to 'how' based questions, rather than giving a complete answer to the actual question. The large blocks of texts as answers were also off-putting, and sometimes only the first couple of sentences would contain the information directly relevant to answering the question.",6,7
-faq,"quick to respond, easy to use",8,8
-faq,IT SEEMS LIMITED TO WHAT QUESTIONS IT CAN ANSWER BUT THOSE THAT IT DID GIVE WERE FACTUAL,6,5
-faq,"It was good, too much text for some questions, answers could be summarised better",7,9
-faq,It was reasonably acceptable,8,6
-faq,Not great. It often misinterpreted what I wanted and did not provide the information I was looking for.,1,3
-faq,"Very efficient, answers quickly which is ideal for people that are worrying about the spread of the virus. The bot is filled with detail and not just the obvious answers. And I like how it adds websites in its answers so you can go and find out your question in even more detail.",10,9
-faq,"it was very detailed, but one of my question they did not answer one the question about what happens if the local health department don't answer the phone",7,4
-faq,it reiterated what was previously said in the long document at the start- personally I did not see the point in the chat as I read the document previously and received all the necessary information there,6,7
-faq,A good way to find out simple information. It seemed to struggle when I asked more than one thing and gave me an answer which wasn't relevant to what I had asked.,8,8
-faq,"It honestly felt more like the responses were pre-planned; the bot didn't seem to directly respond to the questions I asked. There were only two answers that seemed to be in the right ballpark - the one that listed the symptoms, and the one responding to children being less likely to spread COVID-19 (which I asked based on the answer to the previous question, so it could have been a coincidence that I happened to ask the right type of question for the response it was already going to give). It also reported contradicting information - in one message, it said the recommended distance to keep between people was 3 feet; then, in a later message, it said 6 feet. So, overall, not a super positive experience.",2,4
-faq,"It was very limited in scope and not up to date. It couldn't recognize or answer questions related to coronavirus currently in the media, which is probably what most people are wondering about at this point and know most of the best practices well.",5,6
-faq,"Chatbot responds quickly, although it sends a lot of information to be read. The way the information is laid out in paragraph form causes the importance of some of the information to be lost. There is quite a bit of extra words and information that could be condensed and shortened. One of the questions I asked had an extensive answer which was a bit overwhelming to look at.",8,7
-faq,"It was very good, the information was detailed but easy to understand.",10,9
-faq,I found that the chat to be easy to use. Some of the questions gave an instant response while one of the questions asked didn’t return a response at all. I found the information returned to be accurate in comparison to the lesson I read before starting the chat.,10,9
-faq,"I had a very good experience with the chat bot, it gave very detailed answers on the whole. The answers were written in a clear and informative way. The one problem I had with the chatbot was with my first question where I asked about ICP (Infection, control and prevention which is practiced in hospitals), the answer to this question wasnt relevant.",9,9
-faq,The experience with the bot was useful although some of the questions I had gave me the same response from the bot,9,8
-faq,"The information is a lot to read but it do bring the point to use that covit-19 is dangerous and we need to be sure to take the necessary precautions to guard use against it. and all important patters was discussed and must be adhered to. to safe guard our self, our children , parents and grandparents as well as for those already living with the virus.",10,8
-faq,The chat was extremely fast and relatively accurate. The responses were very well detailed without providing too much extra information. I would be mostly satisfied with the answers.,8,7
-faq,the chatbot was not as smart as I had anticipated. the answeres were too artificial.,7,4
-faq,"it was very informative and quick, it easily understood any question I put to it, very impressed",10,10
-faq,"I got accurate answers most of the times I asked a question. The answers are very detailed, the chatbot gives additional information and asks if you want to know more about a topic it brings up, which can be a very quick and efficient way to get additional informations. Overall, I felt like it was pretty accurate. And I got the answers very quickly (right away).",10,8
-faq,Very poor. Only 1 of my questions received an appropriate answer,2,1
-faq,"the chat was informative and detailed about symptoms, preventions and similarities of Covid-19 to relating diseases",10,8
-faq,"The robot had appropriate things to respond with to my questions, fulfilling them. Some responses felt out of place in regards to what I had to say but otherwise I think it would work as a chatbot for enquiries about COVID19.",9,8
-faq,"My questions were quick, but not all accurate. I asked about SARS, but got an answer about COVID 19. The advice about the prevention of COVID19 was good.",8,8
-faq,"it was good, very detailed responses with easy to understand information but didn't always answer the question asked.",8,7
-faq,"Very fast and accurate with alot of information given but not too much. The answers were presented in clear english, no jargon used, and the speed of the response was impressive. I have never come across a chat system like this before.",10,10
+group,evaluation_sentiment,evaluation_accuracy,evaluation_usefulness,sentiment
+faq,the answers sounded too scripted and repitative,3,6,0
+faq,Good and very impressive,7,8,1
+faq,"Good overall, based on the first couple of questions, it seemed like the bot was not recognizing certain words in my questions, as it gave me the same response for two different questions. However, the last three questions had accurate information.",9,8,0
+faq,The answers it gives seems to be quite technical and useful but not always accurate in representation the the question i asked. I asked who has been affected the most by corona virus and it told me the range of symptoms presented by corona virus.,8,6,0
+faq,"It overall was helpful. It seemed to have a clear default message I got twice during my questioning, but they were quite specific. I was pleasantly surprised that it responded well to the 'worry' question.",7,10,1
+faq,It didn't answer every question I had. One question was related to vaccination and I was given the same answer as I was to a different question about vaccines.,6,8,0
+faq,Not very good,5,3,0
+faq,awful. It didn't answer any of my questions at all. I ended up getting frustrated after two questions when I knew it wasn't responding correctly,1,1,0
+faq,Quite good an informative,9,9,1
+faq,"Somewhat good, gave detailed information in answers, though big walls of text could be hard to read. Also some of the responses weren't actually right for the question I asked. It might be good to have more directed sections or to know what keywords it recognises.",7,6,0
+faq,"The chat was informative, though it had limited information. It was able to provide an answer about the vaccine and provide information websites. For the last 3 questions it didn't answer what I asked. For that reason it wasn't very useful.",4,3,1
+faq,A bit confusing - the answers didn't always seem to correspond to the questions asked.,6,5,0
+faq,"Responses were very fast, but sometimes did not contain relevant information. Sometimes even if they did have relevant information that answered the question, it was phrased in a way that didn't make sense as a direct response.",3,3,0
+faq,"Very quick though the wall of text is a little much.  Also, the would you like to know more questions in the middle should either be links and at the bottom, not buried in the middle of the text.",9,9,0
+faq,"It did not answer my questions very well. Of the 5, one was answered properly. Another question was answered, but within a bulk of extraneous information. The other three questions weren't even close to being appropriately answered. The bot seemed to be better at generic, layman-friendly questions (""how does it spread",4,3,0
+faq,It was good for information. I think it used target words so when i asked about long covid it just talked about general covid.,7,6,0
+faq,Sometimes the chat bot didn't fully understand my question. I asked about women but it replied about pregnant women. I asked about children and it gave me very little information about children. I asked about the origins of the virus and it gave me exactly the information I needed. I also asked how I could protect myself from the virus but the chat bot interpreted this as how I could protect others.,6,7,0
+faq,"Overall it was a positive experience. It answered my questions with a good level of detail, responded quickly and suggested other questions that I might be interested in",10,10,1
+faq,The information given was very informative but somewhat repetitive and not always relevant to the question asked.,7,7,0
+faq,Fairly good - there was some content included that wasn't relevant (e.g. See question 10) where there are no options to see question 10,8,8,0
+faq,"Very simple, clear answers and easy to understand. Quite responsive as well",9,7,1
+faq,"Doesn't always answer the question asked, and often provides too much information. But still very informative.",8,6,1
+faq,It was surprisingly detailed - I was expecting more basic responses. I was impressed.,9,9,1
+faq,I really like the layout and the promptness of the chat bot.,9,5,1
+faq,"Really quick at giving an answer, seems to have the right info",9,9,1
+faq,"It wasnt very good and it was very repetitive, Often not giving the answers I was looking for",4,2,0
+faq,It was fast and gave me a good and detailed answer to the questions,10,8,1
+faq,"The bot was able to answer questions quickly and efficiently. The information it provided was overall useful and answered the question. The answers were also accessible, meaning that the length and vocabulary used could be read and understood easily by most (if not all) people.",9,10,1
+faq,Works well. Quick accurate responses,9,10,1
+faq,"Some of the questions were not answered well especially when these answers can be extracted with a google search. However, I find it does a good job at providing information on COVID19 rapidly and with some degree of accuracy",8,5,1
+faq,My overall impression is that the questions were answered quite accurately. But I asked a question about door handles and it answered about food packaging so that wasn't answering my question. It was helpful to be able to ask specific questions as it's easier to find the information I want than reading a long text.,9,8,0
+faq,I think there is too much detail to read it needs to be more catching,6,9,0
+faq,"Bot was very knowledgeable, but sometimes offered alternative information to what was requested. Too much information was provided in answer to a question.",6,6,0
+faq,It was ok but pretty basic. If you asked it anything it did not know it would repeat information it had already said,8,8,0
+faq,"Very good, it was speedy and the answers were accurate",9,9,1
+faq,At first I thought that it was good as it was able to answer two of the questions with appropriate answers then it did not. Every answer after the first two were all related to symptons and isolating etc.,4,5,0
+faq,"Not good, the bot did not answer the questions I asked, it gave general information",2,2,0
+faq,"Didn't understand my simple questions, answered the same to, two of my different questions. Had only 1 open question back to me.",6,5,0
+faq,The questions are incorrectly complex because they sound like a statement.,9,9,0
+faq,The responses where long winded. I would have preferred them to have been more structured and concise. Bullet points would have been handy .,10,10,0
+faq,"It was very quick to respond, however the answers were very lengthy and broad. One of the answers it did not answer accurately enough.",8,8,0
+faq,It was very clear and concise. It provided all the info that I needed and I thought it was very impressive.,10,8,1
+faq,"Quite positive - it answered most of the questions well and I liked how it provided links to additional information and the interactive maps. Some questions weren't really answered correctly though, like am I more at risk if I have a underlying health condition.",7,8,1
+faq,not so accurate,8,5,0
+faq,Half of the answers didn't correctly answer my questions at all. I found the answers to be too long-winded. They would be better if they were shorter.,5,5,0
+faq,"Not bad but could be better, some questions were not answered in a satisfactory way.",7,7,0
+faq,"Very quick, and detailed response, although I think the chat bot didn't recognise the word ""airborn"" - that may be my spelling",9,8,1
+faq,The questions were quite vague and not always accurate to what I was asking but it was quick and most answers were at least somewhat related.,5,4,1
+faq,"I may have asked it things it wasn't prepared to answer (Like the stats in the United states), because it didn't seem to understand properlyA few of the explanations were a little bit long, and seeing an answer (Especially such a long one) repeated verbatim gives a bit of a negative impression. Seems okay in general though",6,3,0
+faq,"The questions I asked got a somewhat related response, specific questions weren't very good but it did provide great information on the virus.",8,6,1
+faq,It was less helpful than reading the information in a full page - that was much more comprehensive. The chat seemed to latch on to one or two keywords and offer less specific information.,4,6,0
+faq,"The replies were very fast and accurate, i leaned a lot in a shot period of time.its very useful",10,10,1
+faq,It was quite good. Some responses seemed quite long and too full of information what was more detailed than expected,7,7,1
+faq,very repetitiveSame info given each time,4,4,0
+faq,I think that the information given is basic and what we already know. Some of it is contradictory to what we are being told by our goverments which makes it difficult to know if the bot can be trusted.,5,5,0
+faq,It was very detailed and lengthy. It wasn't easy to scroll,5,7,1
+faq,Very poor the same answer was repeated no matter what I wrote,1,1,0
+faq,I believe the Chatbot seemed to have very quick answers which were detailed. I asked questions regarding how does Coronavirus affect people with respiratory conditions existing ie athsma which the Chatbot did not provide a sufficient response for .I believe this may be because I named a specific breathing issue ie Asthma.,8,7,0
+faq,It's quite good but sometimes the chatbot didn't understand what I was asking it and misinterpreted the question. It was impressive how fast the responses were.,9,7,1
+faq,"It was quite intense, it was a lot of information thrown at me, like it had just been copied and pasted from a website. I didn't actually know what questions I was supposed to ask, as I didn't really have any questions as I already had a lot of information presented to me. However I did have 1 question but that seemed to be completely ignored and I had another wall of text thrown at me",2,1,0
+faq,"It was OK for some questions, but it didn't give me a specific response for most of them, and just game a long, generic answer. I liked how quick it was, and how it worded it's answers.",7,4,0
+faq,"It seemed to provide the same answer for several (slightly) different questions, so I don't think it really understands the questions.",5,5,0
+faq,I think the chat experience was fine. The way the messages appeared was a little jarring. The information was relative and mildly helpful but didn't necessarily answer my questions [but I might have misjudged the questions to ask],6,8,0
+faq,"Very good, it was speedy and the answers were accurate",9,9,1
+faq,"It was fine. In general it responded appropriately although it could still use some development. The length of the answers and the formatting was a bit off-putting, like getting a wall of text in a DM. I don't really understand the point of it being a chat bot particularly but I suppose it could direct people well.",6,7,0
+faq,More detailed responses than I expected. Mostly answered what I'd asked though not clear on one.,9,9,1
+faq,The chat responses were quick and thorough although it seemed to be general answers.,10,10,1
+faq,"The answers were too general and did not answer my questions very concisely. I had to read through the long answer to find the specific fact I wanted. One particular answer ended with a question mark when there was no question, this made me doubt the overall accuracy of the entire answer.",4,5,0
+faq,It's quite good but sometimes the chatbot didn't understand what I was asking it and misinterpreted the question. It was impressive how fast the responses were.,9,7,1
+faq,The chatbot did not directly answer my question.  The information given is general information not specific to my questions.,2,5,0
+faq,"The chat bot was good for high level information, it did not understand all questions but would guess presumably based on key words",7,6,0
+faq,"wasn't able to respond correctly to some of my questions, overall ok",2,8,0
+faq,"There were some mild spelling errors that initially made me view the accuracy of the chatbot in a less favourable light. However, I would say most answers tended to be largely accurate-- but, sometimes the chat would respond 'yes' to 'how' based questions, rather than giving a complete answer to the actual question. The large blocks of texts as answers were also off-putting, and sometimes only the first couple of sentences would contain the information directly relevant to answering the question.",6,7,0
+faq,"quick to respond, easy to use",8,8,1
+faq,IT SEEMS LIMITED TO WHAT QUESTIONS IT CAN ANSWER BUT THOSE THAT IT DID GIVE WERE FACTUAL,6,5,0
+faq,"It was good, too much text for some questions, answers could be summarised better",7,9,1
+faq,It was reasonably acceptable,8,6,1
+faq,Not great. It often misinterpreted what I wanted and did not provide the information I was looking for.,1,3,0
+faq,"Very efficient, answers quickly which is ideal for people that are worrying about the spread of the virus. The bot is filled with detail and not just the obvious answers. And I like how it adds websites in its answers so you can go and find out your question in even more detail.",10,9,1
+faq,"it was very detailed, but one of my question they did not answer one the question about what happens if the local health department don't answer the phone",7,4,0
+faq,it reiterated what was previously said in the long document at the start- personally I did not see the point in the chat as I read the document previously and received all the necessary information there,6,7,0
+faq,A good way to find out simple information. It seemed to struggle when I asked more than one thing and gave me an answer which wasn't relevant to what I had asked.,8,8,0
+faq,"It honestly felt more like the responses were pre-planned; the bot didn't seem to directly respond to the questions I asked. There were only two answers that seemed to be in the right ballpark - the one that listed the symptoms, and the one responding to children being less likely to spread COVID-19 (which I asked based on the answer to the previous question, so it could have been a coincidence that I happened to ask the right type of question for the response it was already going to give). It also reported contradicting information - in one message, it said the recommended distance to keep between people was 3 feet; then, in a later message, it said 6 feet. So, overall, not a super positive experience.",2,4,0
+faq,"It was very limited in scope and not up to date. It couldn't recognize or answer questions related to coronavirus currently in the media, which is probably what most people are wondering about at this point and know most of the best practices well.",5,6,0
+faq,"Chatbot responds quickly, although it sends a lot of information to be read. The way the information is laid out in paragraph form causes the importance of some of the information to be lost. There is quite a bit of extra words and information that could be condensed and shortened. One of the questions I asked had an extensive answer which was a bit overwhelming to look at.",8,7,0
+faq,"It was very good, the information was detailed but easy to understand.",10,9,1
+faq,I found that the chat to be easy to use. Some of the questions gave an instant response while one of the questions asked didn’t return a response at all. I found the information returned to be accurate in comparison to the lesson I read before starting the chat.,10,9,1
+faq,"I had a very good experience with the chat bot, it gave very detailed answers on the whole. The answers were written in a clear and informative way. The one problem I had with the chatbot was with my first question where I asked about ICP (Infection, control and prevention which is practiced in hospitals), the answer to this question wasnt relevant.",9,9,1
+faq,The experience with the bot was useful although some of the questions I had gave me the same response from the bot,9,8,1
+faq,"The information is a lot to read but it do bring the point to use that covit-19 is dangerous and we need to be sure to take the necessary precautions to guard use against it. and all important patters was discussed and must be adhered to. to safe guard our self, our children , parents and grandparents as well as for those already living with the virus.",10,8,0
+faq,The chat was extremely fast and relatively accurate. The responses were very well detailed without providing too much extra information. I would be mostly satisfied with the answers.,8,7,1
+faq,the chatbot was not as smart as I had anticipated. the answeres were too artificial.,7,4,0
+faq,"it was very informative and quick, it easily understood any question I put to it, very impressed",10,10,1
+faq,"I got accurate answers most of the times I asked a question. The answers are very detailed, the chatbot gives additional information and asks if you want to know more about a topic it brings up, which can be a very quick and efficient way to get additional informations. Overall, I felt like it was pretty accurate. And I got the answers very quickly (right away).",10,8,1
+faq,Very poor. Only 1 of my questions received an appropriate answer,2,1,0
+faq,"the chat was informative and detailed about symptoms, preventions and similarities of Covid-19 to relating diseases",10,8,1
+faq,"The robot had appropriate things to respond with to my questions, fulfilling them. Some responses felt out of place in regards to what I had to say but otherwise I think it would work as a chatbot for enquiries about COVID19.",9,8,0
+faq,"My questions were quick, but not all accurate. I asked about SARS, but got an answer about COVID 19. The advice about the prevention of COVID19 was good.",8,8,1
+faq,"it was good, very detailed responses with easy to understand information but didn't always answer the question asked.",8,7,0
+faq,"Very fast and accurate with alot of information given but not too much. The answers were presented in clear english, no jargon used, and the speed of the response was impressive. I have never come across a chat system like this before.",10,10,1

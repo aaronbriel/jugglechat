@@ -38,3 +38,4 @@ if __name__ == "__main__":
     run_stats(type='quiz_results', feature='score')
     run_stats(type='evaluation_results', feature='evaluation_accuracy')
     run_stats(type='evaluation_results', feature='evaluation_usefulness')
+    run_stats(type='evaluation_results', feature='sentiment')

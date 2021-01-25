@@ -36,14 +36,15 @@ def get_top_words(df, column='evaluation_sentiment', n=5):
     return top_n.tolist()
 
 
-def get_and_store_sentiment(df, column='evaluation_sentiment'):
+def get_and_store_sentiment(csv, column='evaluation_sentiment'):
     """
     Applies transformers pipeline sentiment calculation to each of the evaluation
     sentiment entries of participants
-    :param df: Results dataframe containing text sentiment entries
+    :param csv: Path to csv containing text sentiment entries
     :param column: sentiment column
     :return: Dataframe with numeric sentiment column
     """
+    df = pd.read_csv(csv)
     pd.options.mode.chained_assignment = None
     nlp = pipeline("sentiment-analysis")
     sentiment_dicts = df[column].apply(nlp)
@@ -53,6 +54,8 @@ def get_and_store_sentiment(df, column='evaluation_sentiment'):
     # Use vectorization to convert sentiment to binary
     df['sentiment'][df['sentiment'] == 'NEGATIVE'] = 0
     df['sentiment'][df['sentiment'] == 'POSITIVE'] = 1
+
+    df.to_csv(csv, encoding='utf-8', index=False)
     return df
 
 
@@ -76,8 +79,7 @@ def get_data_results():
     results['nonbot_allocation_count'] = nonbot_allocation_count
     print("Remainder counts (ie, Rasa could not match question): ", nonbot_allocation_count)
 
-    df_evaluation_results_jugglechat = pd.read_csv('data/evaluation_results_jugglechat.csv')
-    df_evaluation_results_jugglechat = get_and_store_sentiment(df_evaluation_results_jugglechat)
+    df_evaluation_results_jugglechat = get_and_store_sentiment('data/evaluation_results_jugglechat.csv')
     mean_sentiment_jugglechat = df_evaluation_results_jugglechat['sentiment'].mean()
     results['mean_sentiment_jugglechat'] = mean_sentiment_jugglechat
     print("Mean Sentiment JuggleChat: ", mean_sentiment_jugglechat)
@@ -97,14 +99,12 @@ def get_data_results():
     results['absum_faq'] = absum_faq
     print("Percentage of Absum participants who also used FAQ: ", absum_faq)
 
-    df_evaluation_results_faq = pd.read_csv('data/evaluation_results_faq.csv')
-    df_evaluation_results_faq = get_and_store_sentiment(df_evaluation_results_faq)
+    df_evaluation_results_faq = get_and_store_sentiment('data/evaluation_results_faq.csv')
     mean_sentiment_faq = df_evaluation_results_faq['sentiment'].mean()
     results['mean_sentiment_faq'] = mean_sentiment_faq
     print("Mean Sentiment FAQ: ", mean_sentiment_faq)
 
-    df_evaluation_results_qa = pd.read_csv('data/evaluation_results_qa.csv')
-    df_evaluation_results_qa = get_and_store_sentiment(df_evaluation_results_qa)
+    df_evaluation_results_qa = get_and_store_sentiment('data/evaluation_results_qa.csv')
     mean_sentiment_qa = df_evaluation_results_qa['sentiment'].mean()
     results['mean_sentiment_qa'] = mean_sentiment_qa
     print("Mean Sentiment QA: ", mean_sentiment_qa)
