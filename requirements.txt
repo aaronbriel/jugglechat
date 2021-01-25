@@ -2,6 +2,7 @@ absum==0.2.1
 boltons==20.2.1
 celery==4.4.7
 docker-compose==1.27.4
+farm-haystack==0.7.0
 flower==0.9.5
 gunicorn==20.0.4
 ipywidgets==7.5.1
@@ -9,18 +10,15 @@ numpy
 pandas
 python-box==4.2.3
 python-dotenv==0.14.0
-rasa==2.1.0
-rasa-core==0.14.5
+rasa==2.2.7
 redis==3.5.3
 requests==2.24.0
 researchpy==0.2.3
 scikit-learn==0.23.2
 scipy==1.6.0
 simpletransformers==0.44.0
-torch==1.5.1
+torch==1.7.1
 tqdm==4.50.0
-transformers==3.1.0
+transformers==4.1.1
 urllib3==1.25.10
 wordcloud==1.8.1
-
--e git+git://github.com/deepset-ai/haystack#egg=farm-haystack

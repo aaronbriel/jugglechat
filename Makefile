@@ -9,9 +9,9 @@ help: ## This help.
 setup: py-scrub ## Create a python virtualenv and install requirements.
     # Commenting virtualenv install due to issues it can cause on linux environments
 	# pip3 install virtualenv
-	# NOTE: You may need to change to python3.7 for Mac
+	# NOTE: 1/25/2021 need to use python3.8 for Rasa requirement
 	virtualenv -p python3 .venv
-	. .venv/bin/activate && pip install -r requirements.txt
+	. .venv/bin/activate && pip install --upgrade pip && pip install -r requirements.txt
 
 install: clean ## Install python requirements.
 	. .venv/bin/activate && pip install -r requirements.txt
