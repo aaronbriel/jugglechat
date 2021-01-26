@@ -44,13 +44,34 @@ def run_anova(exp_type=None, feature=None):
     print("======================================================================")
 
 
-def plot_tukey_post_hoc_test(feature=None, new_feature=None):
+def plot_tukey_post_hoc_test(df, feature=None, new_feature=None):
     """
-    Runs Tukey post-hoc test on given feature for all experimental groups, plotting
-    the results, first transforming group datasets into flat dataframe.
+    Runs Tukey post-hoc test on given feature for all experimental groups, printing and
+    plotting the results.
+    :param df: Flat dataframe (see create_tukey_df)
     :param feature: Measured experimental feature (ie test score, sentiment, etc)
     :param new_feature: Feature renamed for graph readability
     :return: None
+    """
+    df.rename(columns={feature: new_feature}, inplace=True)
+    df = df.filter([new_feature, 'Experimental Group'])
+
+    comp = mc.MultiComparison(df[new_feature], df['Experimental Group'])
+    post_hoc_res = comp.tukeyhsd()
+
+    print("===============================================================")
+    print(new_feature)
+    print(post_hoc_res.summary())
+
+    post_hoc_res.plot_simultaneous(ylabel="Experimental Group", xlabel=new_feature)
+
+    plt.savefig("images/tukey_{}.png".format(feature), dpi=300)
+    plt.close()
+
+
+def create_tukey_df():
+    """
+    Creates flat dataframe containing all calculations for all experimental groups
     """
     df_faq = pd.read_csv('data/evaluation_results_faq.csv')
     df_faq['Experimental Group'] = 'FAQ'
@@ -62,17 +83,8 @@ def plot_tukey_post_hoc_test(feature=None, new_feature=None):
     df = df_faq.copy()
     df = df.append(df_jugglechat)
     df = df.append(df_qa)
-    df.rename(columns={feature: new_feature}, inplace=True)
-    df = df.filter([new_feature, 'Experimental Group'])
 
-    comp = mc.MultiComparison(df[new_feature], df['Experimental Group'])
-    post_hoc_res = comp.tukeyhsd()
-    post_hoc_res.summary()
-
-    post_hoc_res.plot_simultaneous(ylabel="Experimental Group", xlabel=new_feature)
-
-    plt.savefig("images/tukey_{}.png".format(feature), dpi=300)
-    plt.close()
+    return df
 
 
 if __name__ == "__main__":
@@ -81,6 +93,7 @@ if __name__ == "__main__":
     run_anova(exp_type='evaluation_results', feature='evaluation_usefulness')
     run_anova(exp_type='evaluation_results', feature='sentiment')
 
-    plot_tukey_post_hoc_test('evaluation_accuracy', 'Perceived Accuracy')
-    plot_tukey_post_hoc_test('evaluation_usefulness', 'Perceived Usefulness')
-    plot_tukey_post_hoc_test('sentiment', 'Sentiment')
+    df_ = create_tukey_df()
+    plot_tukey_post_hoc_test(df_, 'evaluation_accuracy', 'Perceived Accuracy')
+    plot_tukey_post_hoc_test(df_, 'evaluation_usefulness', 'Perceived Usefulness')
+    plot_tukey_post_hoc_test(df_, 'sentiment', 'Sentiment')
