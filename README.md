@@ -232,7 +232,7 @@ completionCode if needed.
 NOTE: The Worker IDs extracted by jugglechat-experiment > client/src/pages/GetId.tsx are stored in the worker_ids 
 database table and can be exported to use for exclusion lists in subsequent experiment runs.
 
-## Experiment Data Processing and Visualization
+## Experiment Results Data Processing and Visualization
 
     source .venv/bin/activate 
     cd experiment
@@ -241,6 +241,17 @@ Generates results.json:
 
     python data_processing.py
 
-Generates accuracy_and_usefulness.png and quiz_scores.png and (optionally) wordcloud images:
+Generates graphs comparing mean values of test scores, sentiment, percieved usefulness and accuracy, and (optionally) 
+wordcloud images:
 
     python data_visualization.py
+
+## Running Statistical Tests on Results Data
+
+    source .venv/bin/activate 
+    cd experiment
+
+Runs One-Way ANOVA test along with Tukey Honestly Significant Difference (HSD) post-hoc tests, generating sentiment, 
+perceived accuracy, and perceived usefulness graphs for the latter:
+
+    python statistical_tests.py
