@@ -248,10 +248,9 @@ wordcloud images:
 
 ## Running Statistical Tests on Results Data
 
+Runs One-Way ANOVA test along with Tukey Honestly Significant Difference (HSD) post-hoc tests, generating sentiment, 
+perceived accuracy, and perceived usefulness confidence interval comparison graphs for the latter:
+
     source .venv/bin/activate 
     cd experiment
-
-Runs One-Way ANOVA test along with Tukey Honestly Significant Difference (HSD) post-hoc tests, generating sentiment, 
-perceived accuracy, and perceived usefulness graphs for the latter:
-
     python statistical_tests.py
