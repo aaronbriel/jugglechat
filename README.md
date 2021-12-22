@@ -1,6 +1,6 @@
 ![JuggleChat](https://github.com/aaronbriel/jugglechat/blob/master/logo.png?raw=true)
 
-An Eclectic and Malleable Multi-Chatbot Framework. [Link](http://doi.org/10.1002/cae.22449) to publication.
+An Eclectic and Malleable Multi-Chatbot Framework. [Link](http://doi.org/10.1002/cae.22449) to publication. [Link](https://www.youtube.com/watch?v=c9ekZUWmtFE&t=1412s) to presentation.
 
 ![JuggleChat](https://github.com/aaronbriel/jugglechat/blob/master/architecture.png?raw=true)
 
